@@ -1,5 +1,5 @@
 baseURL = 'https://askerychai.github.io/12-microstartups/'
 publishDir = 'docs'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "PaperMod"
+title = '12 микростартапов за 12 месяцев'
+theme = "hextra-main"
