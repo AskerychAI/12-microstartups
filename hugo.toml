@@ -1,5 +1,13 @@
 baseURL = 'https://askerychai.github.io/12-microstartups/'
 publishDir = 'docs'
-languageCode = 'en-us'
-title = '12 микростартапов за 12 месяцев'
-theme = "hextra-main"
+languageCode = 'ru'
+title = '12 microstartups'
+theme = 'hextra-main'
+
+[params]
+  description = "12 microstartups - блог о микростартапах"
+  
+  [params.footer]
+    enable = true
+    displayCopyright = true
+    displayPoweredBy = true
