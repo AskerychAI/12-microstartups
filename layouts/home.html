@@ -8,8 +8,7 @@
         <div class="content">{{ .Content }}</div>
         {{- $postsSection := .Site.GetPage "section" "posts" -}}
         {{- if $postsSection -}}
-          {{- $pages := $postsSection.RegularPages -}}
-          {{- $pages = sort $pages "Date" "desc" -}}
+          {{- $pages := partial "utils/sort-pages" (dict "page" $postsSection "by" site.Params.blog.list.sortBy "order" site.Params.blog.list.sortOrder) -}}
           {{- $pagerSize := site.Params.blog.list.pagerSize | default 20 -}}
           {{- $paginator := .Paginate $pages $pagerSize -}}
           {{- range $paginator.Pages }}
