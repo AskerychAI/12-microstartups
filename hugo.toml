@@ -11,3 +11,18 @@ theme = 'hextra-main'
     enable = true
     displayCopyright = true
     displayPoweredBy = true
+
+  [params.blog.list]
+    displayTags = true
+    sortBy = "date"
+    sortOrder = "desc"
+    pagerSize = 20
+
+  [params.blog.article]
+    displayPagination = true
+
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
