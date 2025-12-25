@@ -1,4 +1,4 @@
-baseURL = 'https://askerychai.github.io/12-microstartups/'
+baseURL = 'https://ch12ms.online/'
 publishDir = 'docs'
 languageCode = 'ru'
 title = '12 microstartups'
