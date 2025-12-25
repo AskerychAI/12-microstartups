@@ -1,4 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://askerychai.github.io/12-microstartups/'
+publishDir = 'docs'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
