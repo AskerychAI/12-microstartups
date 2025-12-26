@@ -1,0 +1,185 @@
+/* ============================================
+   Кастомные стили для сайта 12 microstartups
+   ============================================ */
+
+/* ============================================
+   НАСТРОЙКА ШРИФТОВ - JETBRAINS MONO
+   ============================================ */
+
+/* Подключение шрифта JetBrains Mono */
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-Regular.woff2") format("woff2"),
+       url("/fonts/JetBrainsMono-Regular.woff") format("woff"),
+       url("/fonts/JetBrainsMono-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-Bold.woff2") format("woff2"),
+       url("/fonts/JetBrainsMono-Bold.woff") format("woff"),
+       url("/fonts/JetBrainsMono-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-Italic.woff2") format("woff2"),
+       url("/fonts/JetBrainsMono-Italic.woff") format("woff"),
+       url("/fonts/JetBrainsMono-Italic.ttf") format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("/fonts/JetBrainsMono-BoldItalic.woff2") format("woff2"),
+       url("/fonts/JetBrainsMono-BoldItalic.woff") format("woff"),
+       url("/fonts/JetBrainsMono-BoldItalic.ttf") format("truetype");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Применение JetBrains Mono ко всему сайту */
+body {
+  font-family: "JetBrains Mono", "Consolas", "Monaco", "Courier New", monospace;
+}
+
+/* Шрифт для контента постов */
+.content {
+  font-family: "JetBrains Mono", "Consolas", "Monaco", "Courier New", monospace;
+}
+
+/* Вариант 2: Шрифт для всего сайта (включая навигацию, заголовки и т.д.) */
+/* Раскомментируйте, если хотите применить шрифт ко всему сайту */
+/*
+body {
+  font-family: "Inter", "Segoe UI", -apple-system, BlinkMacSystemFont, "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+*/
+
+/* Вариант 3: Использование Google Fonts */
+/* 
+Шаг 1: Добавьте ссылку на шрифт в layouts/_default/baseof.html или через hugo.toml
+Например, для шрифта Inter:
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+Шаг 2: Используйте шрифт в CSS:
+.content {
+  font-family: "Inter", sans-serif;
+}
+*/
+
+/* ============================================
+   ПОПУЛЯРНЫЕ ШРИФТЫ (примеры)
+   ============================================ */
+
+/* Inter (современный, читаемый) */
+/*
+.content {
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+*/
+
+/* Roboto (Google) */
+/*
+.content {
+  font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+*/
+
+/* Open Sans (Google) */
+/*
+.content {
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+*/
+
+/* Source Sans Pro (Adobe) */
+/*
+.content {
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+*/
+
+/* Playfair Display (для заголовков, декоративный) */
+/*
+.content h1, .content h2, .content h3 {
+  font-family: "Playfair Display", serif;
+}
+.content {
+  font-family: "Inter", sans-serif;
+}
+*/
+
+/* ============================================
+   МОНОШИРИННЫЙ ШРИФТ (для кода)
+   ============================================ */
+
+@layer theme {
+  :root {
+    /* Шрифт для блоков кода - также JetBrains Mono */
+    --hx-default-mono-font-family: "JetBrains Mono", "Consolas", "Monaco", monospace;
+  }
+}
+
+/* ============================================
+   ДОПОЛНИТЕЛЬНЫЕ НАСТРОЙКИ ТИПОГРАФИКИ
+   ============================================ */
+
+/* Размер шрифта для контента */
+/*
+.content {
+  font-size: 1.1rem; /* Увеличить размер текста */
+  line-height: 1.8; /* Увеличить межстрочный интервал */
+}
+*/
+
+/* Настройка заголовков */
+/*
+.content h1 {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.content h2 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+*/
+
+/* ============================================
+   ПРИМЕР: Использование кастомного шрифта
+   ============================================ */
+
+/* 
+Если вы хотите использовать свой шрифт (например, загруженный локально):
+
+1. Поместите файлы шрифта в папку static/fonts/
+   Например: static/fonts/MyFont-Regular.woff2
+
+2. Добавьте @font-face в этот файл:
+   
+@font-face {
+  font-family: "MyFont";
+  src: url("/fonts/MyFont-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+3. Используйте шрифт:
+.content {
+  font-family: "MyFont", sans-serif;
+}
+*/
+
