@@ -98,8 +98,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const faviconDarkExists = "false" === "true";
 
   if (faviconEl && faviconDarkExists) {
-    const lightFavicon = '/12-microstartups/favicon.svg';
-    const darkFavicon = '/12-microstartups/favicon-dark.svg';
+    const lightFavicon = '/favicon.svg';
+    const darkFavicon = '/favicon-dark.svg';
 
     const darkModeQuery = window.matchMedia("(prefers-color-scheme: dark)");
 
