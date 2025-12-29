@@ -183,3 +183,40 @@ body {
 }
 */
 
+/* ============================================
+   ВЫРАВНИВАНИЕ ФОРМЫ ПОДПИСКИ DASHAMAIL
+   ============================================ */
+
+/* Выравнивание формы подписки по левому краю */
+#dm_embedded_366787 {
+  text-align: left !important;
+}
+
+/* Выравнивание всех элементов внутри формы */
+#dm_embedded_366787 * {
+  text-align: left !important;
+}
+
+/* Выравнивание контейнера формы и всех элементов внутри */
+#dm_embedded_366787 form,
+#dm_embedded_366787 div,
+#dm_embedded_366787 input,
+#dm_embedded_366787 button {
+  text-align: left !important;
+  margin-left: 0 !important;
+  margin-right: auto !important;
+}
+
+/* Выравнивание заголовка "Подпишитесь на обновления" и текста "Получайте новые публикации..." */
+/* Используем класс контейнера формы */
+.subscribe-form-container h3,
+.subscribe-form-container p {
+  text-align: left !important;
+}
+
+/* Альтернативный способ через селектор :has() для современных браузеров */
+div:has(#dm_embedded_366787) h3,
+div:has(#dm_embedded_366787) p {
+  text-align: left !important;
+}
+

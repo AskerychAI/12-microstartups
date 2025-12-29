@@ -19,8 +19,8 @@ theme = 'hextra-main'
   
   [params.footer]
     enable = true
-    displayCopyright = true
-    displayPoweredBy = true
+    displayCopyright = false
+    displayPoweredBy = false
 
   [params.blog.list]
     displayTags = true
