@@ -1,0 +1,152 @@
+{{- /* 
+  Извлекает первое изображение из поста
+  Приоритет:
+  1. Параметры frontmatter (cover.image, images)
+  2. Resources (featured, cover, thumbnail)
+  3. Markdown контент (![alt](url))
+  4. HTML контент (<img src="...">)
+*/ -}}
+{{- $firstImage := "" -}}
+{{- $imageAlt := "" -}}
+
+{{- /* 1. Проверяем параметры frontmatter */ -}}
+{{- if .Params.cover.image -}}
+  {{- $firstImage = .Params.cover.image -}}
+  {{- $imageAlt = .Params.cover.alt | default .Title -}}
+{{- else if .Params.images -}}
+  {{- $firstImage = index .Params.images 0 -}}
+{{- end -}}
+
+{{- /* 2. Ищем изображения в Resources */ -}}
+{{- if not $firstImage -}}
+  {{- $resources := .Resources.ByType "image" -}}
+  {{- if $resources -}}
+    {{- $featured := $resources.GetMatch "*feature*" -}}
+    {{- if not $featured -}}
+      {{- $featured = $resources.GetMatch "{*cover*,*thumbnail*}" -}}
+    {{- end -}}
+    {{- if not $featured -}}
+      {{- $featured = index $resources 0 -}}
+    {{- end -}}
+    {{- if $featured -}}
+      {{- $firstImage = $featured.RelPermalink -}}
+      {{- $imageAlt = .Title -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 3. Ищем в markdown контенте */ -}}
+{{- if not $firstImage -}}
+  {{- $rawContent := "" -}}
+  {{- /* Пробуем прочитать сырой файл */ -}}
+  {{- if and .File .File.Path -}}
+    {{- $filePath := .File.Path -}}
+    {{- /* В Hugo readFile работает относительно корня проекта */ -}}
+    {{- if not (hasPrefix $filePath "/") -}}
+      {{- /* Если путь не абсолютный, пробуем разные варианты */ -}}
+      {{- $possiblePaths := slice $filePath (printf "content/%s" $filePath) -}}
+      {{- range $possiblePaths -}}
+        {{- if not $rawContent -}}
+          {{- $rawContent = readFile . -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $rawContent = readFile $filePath -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Если не получилось, пробуем другие методы */ -}}
+  {{- if not $rawContent -}}
+    {{- if .Plain -}}
+      {{- $rawContent = .Plain -}}
+    {{- else if .RawContent -}}
+      {{- $rawContent = .RawContent -}}
+    {{- end -}}
+  {{- end -}}
+  
+  {{- /* Ищем изображение в markdown */ -}}
+  {{- if $rawContent -}}
+    {{- $imagePattern := `!\[([^\]]*)\]\(([^\)]+)\)` -}}
+    {{- $matches := findRE $imagePattern $rawContent 1 -}}
+    {{- if $matches -}}
+      {{- $match := index $matches 0 -}}
+      {{- /* Извлекаем URL */ -}}
+      {{- $urlPattern := `\(([^\)]+)\)` -}}
+      {{- $urlMatches := findRE $urlPattern $match -}}
+      {{- if $urlMatches -}}
+        {{- $imageUrl := index $urlMatches 0 -}}
+        {{- $imageUrl = $imageUrl | replaceRE `^\(` "" | replaceRE `\)$` "" | strings.TrimSpace -}}
+        {{- /* Извлекаем alt */ -}}
+        {{- $altPattern := `\[([^\]]*)\]` -}}
+        {{- $altMatches := findRE $altPattern $match -}}
+        {{- if $altMatches -}}
+          {{- $imageAlt = index $altMatches 0 -}}
+          {{- $imageAlt = $imageAlt | replaceRE `^\[` "" | replaceRE `\]$` "" | strings.TrimSpace -}}
+        {{- end -}}
+        {{- /* Обрабатываем путь */ -}}
+        {{- if or (hasPrefix $imageUrl "http://") (hasPrefix $imageUrl "https://") -}}
+          {{- $firstImage = $imageUrl -}}
+        {{- else if hasPrefix $imageUrl "/" -}}
+          {{- $firstImage = $imageUrl | relURL -}}
+        {{- else -}}
+          {{- $resourceImg := .Resources.GetMatch $imageUrl -}}
+          {{- if $resourceImg -}}
+            {{- $firstImage = $resourceImg.RelPermalink -}}
+          {{- else -}}
+            {{- $firstImage = (printf "%s%s" .RelPermalink $imageUrl) | relURL -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* 4. Ищем в HTML контенте */ -}}
+{{- if not $firstImage -}}
+  {{- $htmlContent := .Content | string -}}
+  {{- $htmlImgPattern := `<img[^>]+src=["']([^"']+)["'][^>]*>` -}}
+  {{- $htmlMatches := findRE $htmlImgPattern $htmlContent 1 -}}
+  {{- if $htmlMatches -}}
+    {{- $htmlMatch := index $htmlMatches 0 -}}
+    {{- $srcPattern := `src=["']([^"']+)["']` -}}
+    {{- $srcMatches := findRE $srcPattern $htmlMatch -}}
+    {{- if $srcMatches -}}
+      {{- $imageUrl := index $srcMatches 0 -}}
+      {{- $imageUrl = $imageUrl | replaceRE `src=["']` "" | replaceRE `["']` "" | strings.TrimSpace -}}
+      {{- /* Извлекаем alt из HTML */ -}}
+      {{- $altPattern := `alt=["']([^"']*)["']` -}}
+      {{- $altMatches := findRE $altPattern $htmlMatch -}}
+      {{- if $altMatches -}}
+        {{- $imageAlt = index $altMatches 0 -}}
+        {{- $imageAlt = $imageAlt | replaceRE `alt=["']` "" | replaceRE `["']` "" | strings.TrimSpace -}}
+      {{- end -}}
+      {{- /* Обрабатываем путь */ -}}
+      {{- if or (hasPrefix $imageUrl "http://") (hasPrefix $imageUrl "https://") -}}
+        {{- $firstImage = $imageUrl -}}
+      {{- else if hasPrefix $imageUrl "/" -}}
+        {{- $firstImage = $imageUrl | relURL -}}
+      {{- else -}}
+        {{- $firstImage = $imageUrl | relURL -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- /* Обрабатываем путь из frontmatter или Resources */ -}}
+{{- if $firstImage -}}
+  {{- if not (or (hasPrefix $firstImage "http://") (hasPrefix $firstImage "https://")) -}}
+    {{- if hasPrefix $firstImage "/" -}}
+      {{- $firstImage = $firstImage | relURL -}}
+    {{- else -}}
+      {{- $resourceImg := .Resources.GetMatch $firstImage -}}
+      {{- if $resourceImg -}}
+        {{- $firstImage = $resourceImg.RelPermalink -}}
+      {{- else -}}
+        {{- $firstImage = $firstImage | relURL -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return (dict "image" $firstImage "alt" $imageAlt) -}}
+

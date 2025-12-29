@@ -13,95 +13,27 @@
         {{- $postsSection := .Site.GetPage "section" "posts" -}}
         {{- if $postsSection -}}
           {{- $pages := partial "utils/sort-pages" (dict "page" $postsSection "by" site.Params.blog.list.sortBy "order" site.Params.blog.list.sortOrder) -}}
+          {{- /* Фильтруем черновики и будущие посты */ -}}
+          {{- $pages = where $pages "Draft" false -}}
+          {{- $pages = where $pages "Params.draft" "!=" true -}}
+          {{- if hugo.IsProduction -}}
+            {{- $pages = where $pages "PublishDate" "<=" now -}}
+          {{- end -}}
           {{- $pagerSize := site.Params.blog.list.pagerSize | default 20 -}}
           {{- $paginator := .Paginate $pages $pagerSize -}}
           {{- range $index, $page := $paginator.Pages }}
             <div class="hx:mb-10">
               {{- /* Извлекаем первое изображение из поста */ -}}
-              {{- $firstImage := "" -}}
-              {{- $imageAlt := "" -}}
+              {{- $imageData := partial "get-first-image.html" . -}}
+              {{- $firstImage := $imageData.image -}}
+              {{- $imageAlt := $imageData.alt | default .Title -}}
               
-              {{- /* Сначала проверяем параметры frontmatter */ -}}
-              {{- if .Params.cover.image -}}
-                {{- $firstImage = .Params.cover.image -}}
-                {{- $imageAlt = .Params.cover.alt | default .Title -}}
-              {{- else if .Params.images -}}
-                {{- $firstImage = index .Params.images 0 -}}
-              {{- else -}}
-                {{- /* Ищем изображения в Resources */ -}}
-                {{- $resources := .Resources.ByType "image" -}}
-                {{- if $resources -}}
-                  {{- $featured := $resources.GetMatch "*feature*" -}}
-                  {{- if not $featured -}}
-                    {{- $featured = $resources.GetMatch "{*cover*,*thumbnail*}" -}}
-                  {{- end -}}
-                  {{- if not $featured -}}
-                    {{- $featured = index $resources 0 -}}
-                  {{- end -}}
-                  {{- if $featured -}}
-                    {{- $firstImage = $featured.RelPermalink -}}
-                    {{- $imageAlt = .Title -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
+              {{- /* 1. Заголовок */ -}}
+              <h3><a style="color: inherit; text-decoration: none;" class="hx:block hx:font-semibold hx:mt-8 hx:text-2xl " href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
               
-              {{- /* Если не нашли в Resources, ищем в markdown контенте */ -}}
-              {{- if not $firstImage -}}
-                {{- if .Content -}}
-                  {{- $content := .Content -}}
-                  {{- /* Ищем первое изображение в формате markdown: ![alt](url) */ -}}
-                  {{- $imagePattern := `!\[([^\]]*)\]\(([^\)]+)\)` -}}
-                  {{- $matches := findRE $imagePattern $content 1 -}}
-                  {{- if $matches -}}
-                    {{- $match := index $matches 0 -}}
-                    {{- $urlMatch := findRE `\(([^\)]+)\)` $match 1 -}}
-                    {{- if $urlMatch -}}
-                      {{- $imageUrl := index $urlMatch 0 -}}
-                      {{- $imageUrl = $imageUrl | replaceRE `^\(` "" | replaceRE `\)$` "" | trim -}}
-                      {{- $altMatch := findRE `\[([^\]]*)\]` $match 1 -}}
-                      {{- if $altMatch -}}
-                        {{- $imageAlt = index $altMatch 0 -}}
-                        {{- $imageAlt = $imageAlt | replaceRE `^\[` "" | replaceRE `\]$` "" | trim -}}
-                      {{- end -}}
-                      {{- /* Обрабатываем путь изображения */ -}}
-                      {{- if or (hasPrefix $imageUrl "http://") (hasPrefix $imageUrl "https://") -}}
-                        {{- $firstImage = $imageUrl -}}
-                      {{- else if hasPrefix $imageUrl "/" -}}
-                        {{- /* Абсолютный путь от корня сайта - используем как есть */ -}}
-                        {{- $firstImage = $imageUrl | relURL -}}
-                      {{- else -}}
-                        {{- /* Относительный путь - проверяем, может быть это Resource */ -}}
-                        {{- $resourceImg := .Resources.GetMatch $imageUrl -}}
-                        {{- if $resourceImg -}}
-                          {{- $firstImage = $resourceImg.RelPermalink -}}
-                        {{- else -}}
-                          {{- /* Относительный путь относительно поста */ -}}
-                          {{- $firstImage = (printf "%s%s" .RelPermalink $imageUrl) | relURL -}}
-                        {{- end -}}
-                      {{- end -}}
-                    {{- end -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- else -}}
-                {{- /* Обрабатываем путь из frontmatter или Resources */ -}}
-                {{- if not (or (hasPrefix $firstImage "http://") (hasPrefix $firstImage "https://")) -}}
-                  {{- if hasPrefix $firstImage "/" -}}
-                    {{- $firstImage = $firstImage | relURL -}}
-                  {{- else -}}
-                    {{- /* Проверяем, является ли это Resource */ -}}
-                    {{- $resourceImg := .Resources.GetMatch $firstImage -}}
-                    {{- if $resourceImg -}}
-                      {{- $firstImage = $resourceImg.RelPermalink -}}
-                    {{- else -}}
-                      {{- $firstImage = $firstImage | relURL -}}
-                    {{- end -}}
-                  {{- end -}}
-                {{- end -}}
-              {{- end -}}
-              
-              {{- /* Отображаем изображение, если оно найдено */ -}}
+              {{- /* 2. Изображение */ -}}
               {{- if $firstImage -}}
-                <div class="hx:mb-4 hx:mt-8">
+                <div class="hx:mb-4 hx:mt-4">
                   <a href="{{ .RelPermalink }}" style="display: block;">
                     <img 
                       src="{{ $firstImage }}" 
@@ -114,20 +46,26 @@
                 </div>
               {{- end -}}
               
-              <h3><a style="color: inherit; text-decoration: none;" class="hx:block hx:font-semibold hx:mt-8 hx:text-2xl " href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-              {{ if site.Params.blog.list.displayTags }}
-                <div class="hx:text-sm hx:leading-7">
-                  {{ partial "tags.html" (dict "context" .) }}
-                </div>
-              {{ end }}
+              {{- /* 3. Короткое описание */ -}}
               <p class="hx:opacity-80 hx:mt-4 hx:leading-7">{{- partial "utils/page-description" . -}}</p>
               <p class="hx:opacity-80 hx:mt-1 hx:leading-7">
                 <a class="hx:text-[color:hsl(var(--primary-hue),100%,50%)] hx:underline hx:underline-offset-2 hx:decoration-from-font" href="{{ .RelPermalink }}">
                   {{- $readMore -}}
                 </a>
               </p>
+              
+              {{- /* 4. Дата создания поста */ -}}
               <p class="hx:opacity-50 hx:text-sm hx:mt-4 hx:leading-7">{{ partial "utils/format-date" .Date }}</p>
+              
+              {{- /* 5. Хештеги (теги) */ -}}
+              {{ if site.Params.blog.list.displayTags }}
+                <div class="hx:text-sm hx:leading-7 hx:mt-2">
+                  {{ partial "tags.html" (dict "context" .) }}
+                </div>
+              {{ end }}
             </div>
+            
+            {{- /* 6. Разделитель */ -}}
             {{- if lt (add $index 1) (len $paginator.Pages) -}}
               <hr class="hx:my-8 hx:border-gray-200 hx:dark:border-neutral-700" />
             {{- end -}}
