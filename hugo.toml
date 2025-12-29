@@ -36,3 +36,8 @@ enableRobotsTXT = true
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[[menu.main]]
+  name = "Политика обработки данных"
+  pageRef = "/privacy"
+  weight = 10
