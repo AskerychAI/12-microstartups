@@ -1,0 +1,31 @@
+# Hugo generated files
+public/
+resources/
+.hugo_build.lock
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+
+# Node modules (if using any Node.js tools)
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+*~
+
