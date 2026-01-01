@@ -418,7 +418,7 @@ function resizeMenu(switcher) {
 ;
 // Light / Dark theme toggle
 (function () {
-  const defaultTheme = 'system'
+  const defaultTheme = 'dark'
   const themes = ["light", "dark"];
 
   const themeToggleButtons = document.querySelectorAll(".hextra-theme-toggle");

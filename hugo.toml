@@ -21,7 +21,11 @@ theme = 'hextra-main'
     enable = true
     displayCopyright = false
     displayPoweredBy = false
-
+  
+  [params.theme]
+    default = "dark"
+    displayToggle = true
+  
   [params.blog.list]
     displayTags = true
     sortBy = "date"
