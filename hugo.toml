@@ -40,3 +40,8 @@ enableRobotsTXT = true
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
+
+[[menu.main]]
+  name = "Подписка"
+  pageRef = "/podpiska"
+  weight = 1
