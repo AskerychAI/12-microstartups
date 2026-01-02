@@ -45,3 +45,50 @@ enableRobotsTXT = true
   name = "Подписка"
   pageRef = "/podpiska"
   weight = 1
+
+[[menu.main]]
+  identifier = "baza-znaniy"
+  name = "База знаний"
+  weight = 2
+
+[[menu.main]]
+  identifier = "koncepciya"
+  name = "Концепция проекта"
+  pageRef = "/pages/koncepciya-chelenja"
+  parent = "baza-znaniy"
+  weight = 1
+
+[[menu.main]]
+  identifier = "pravila"
+  name = "Правила участия"
+  pageRef = "/pages/pravila-uchastiya"
+  parent = "baza-znaniy"
+  weight = 2
+
+[[menu.main]]
+  identifier = "chto-takoye"
+  name = "Что такое микростартап"
+  pageRef = "/pages/chto-takoye-microstartup"
+  parent = "baza-znaniy"
+  weight = 3
+
+[[menu.main]]
+  identifier = "kak-zapuskat"
+  name = "Как запускать микростартап"
+  pageRef = "/pages/process-zapuska-microstartupa"
+  parent = "baza-znaniy"
+  weight = 4
+
+[[menu.main]]
+  identifier = "validaciya"
+  name = "Валидация идеи"
+  pageRef = "/pages/idea-validation-checklist"
+  parent = "baza-znaniy"
+  weight = 5
+
+[[menu.main]]
+  identifier = "shablon-intervyu"
+  name = "Шаблон интервью"
+  pageRef = "/pages/shablon-intervyu-s-clientom"
+  parent = "baza-znaniy"
+  weight = 6
