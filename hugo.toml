@@ -37,6 +37,9 @@ theme = 'hextra-main'
 
 enableRobotsTXT = true
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [sitemap]
   changefreq = "weekly"
   priority = 0.5
