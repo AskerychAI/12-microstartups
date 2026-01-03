@@ -45,7 +45,7 @@ enableRobotsTXT = true
   priority = 0.5
 
 [[menu.main]]
-  name = "Подписка"
+  name = "Стать участником"
   pageRef = "/podpiska"
   weight = 1
 
