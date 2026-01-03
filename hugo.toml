@@ -95,3 +95,10 @@ enableRobotsTXT = true
   pageRef = "/pages/shablon-intervyu-s-clientom"
   parent = "baza-znaniy"
   weight = 6
+
+  [[menu.main]]
+  identifier = "kanban"
+  name = "Канбан доска"
+  pageRef = "/pages/kanban"
+  parent = "baza-znaniy"
+  weight = 7
