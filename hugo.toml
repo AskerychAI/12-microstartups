@@ -50,9 +50,15 @@ enableRobotsTXT = true
   weight = 1
 
 [[menu.main]]
+  identifier = "blog"
+  name = "Блог"
+  pageRef = "/posts"
+  weight = 2
+
+[[menu.main]]
   identifier = "baza-znaniy"
   name = "База знаний"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   identifier = "koncepciya"
@@ -96,7 +102,7 @@ enableRobotsTXT = true
   parent = "baza-znaniy"
   weight = 6
 
-  [[menu.main]]
+[[menu.main]]
   identifier = "kanban"
   name = "Канбан доска"
   pageRef = "/pages/kanban"
