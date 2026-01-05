@@ -35,6 +35,10 @@ theme = 'hextra-main'
   [params.blog.article]
     displayPagination = true
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-DE8LY4CSQY"
+
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
