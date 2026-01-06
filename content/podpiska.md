@@ -7,7 +7,7 @@ description: "12 стартапов за 12 месяцев: станьте ча�
 
 # 12 стартапов за 12 месяцев: станьте частью публичного эксперимента
 
-<a href="#id1" style="display: inline-block; padding: 15px; background-color: #3A3BA2; color: #ffffff; border-radius: 5px; text-decoration: none; border: none; cursor: pointer;">ОПЛАТИТЬ ПОДПИСКУ</a>
+<a href="https://auth.robokassa.ru/RecurringSubscriptionPage/Subscription/Subscribe?SubscriptionId=e171be9c-4943-40d1-b7ab-2504bf626f10" target="_blank" style="display: inline-block; padding: 15px; background-color: #3A3BA2; color: #ffffff; border-radius: 5px; text-decoration: none; border: none; cursor: pointer;">ОПЛАТИТЬ ПОДПИСКУ</a>
 
 ### Давайте посмотрим правде в глаза
 
