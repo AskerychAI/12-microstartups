@@ -4,7 +4,7 @@ date: 2025-12-25T20:00:00+03:00
 ---
 
 ### Это блог о том, как один человек с помощью no-code и ИИ может создать работающий бизнес за месяц, чтобы проверить спрос и получить первые деньги, не уходя с основной работы.
-
+<br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F239VHpPLNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Привет! Мое имя Аскер.
