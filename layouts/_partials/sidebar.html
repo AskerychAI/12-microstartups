@@ -89,7 +89,8 @@
           {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
           <li class="{{ if $shouldOpen }}open{{ end }}">
             {{- $linkTitle := partial "utils/title" . -}}
-            {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
+            {{- $hasChildren := or .RegularPages .Sections -}}
+            {{- template "sidebar-item-link" dict "hasChildren" $hasChildren "active" $active "title" $linkTitle "link" .RelPermalink -}}
             {{- if and $toc $active -}}
               {{- template "sidebar-toc" dict "page" . -}}
             {{- end -}}
@@ -105,7 +106,8 @@
             {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
             {{- $linkTitle := partial "utils/title" . -}}
             <li class="hx:flex hx:flex-col {{ if $shouldOpen }}open{{ end }}">
-              {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
+              {{- $hasChildren := or .RegularPages .Sections -}}
+              {{- template "sidebar-item-link" dict "hasChildren" $hasChildren "active" $active "title" $linkTitle "link" .RelPermalink -}}
               {{- if and $toc $active -}}
                 {{ template "sidebar-toc" dict "page" . }}
               {{- end }}
@@ -129,8 +131,8 @@
     {{- return -}}
   {{- end -}}
 
-  {{- $topLevelItems := where $menu ".Parent" "==" nil -}}
-  {{- range $topLevelItems.ByWeight -}}
+  {{- range sort $menu "Weight" -}}
+    {{- if not .Parent -}}
     {{- $link := .URL -}}
     {{- $external := strings.HasPrefix $link "http" -}}
     {{- $hasPageRef := false -}}
@@ -154,44 +156,22 @@
     {{- $hasChildren := .HasChildren -}}
     {{- $shouldOpen := or $active ($page.HasMenuCurrent "main" .) -}}
 
-    {{- if eq $level 0 -}}
-      <li class="{{ if $shouldOpen }}open{{ end }}">
-        {{- $title := or (T .Identifier) .Name -}}
-        {{- template "sidebar-item-link" dict "context" (dict "HasChildren" $hasChildren) "active" $active "title" $title "link" $link "external" $external -}}
-        {{- if and $toc $active -}}
-          {{- $pageRef := .PageRef -}}
-          {{- if $pageRef -}}
-            {{- $refPage := site.GetPage $pageRef -}}
-            {{- if $refPage -}}
-              {{- template "sidebar-toc" dict "page" $refPage -}}
-            {{- end -}}
+    <li class="{{ if $shouldOpen }}open{{ end }}">
+      {{- $title := or (T .Identifier) .Name -}}
+      {{- template "sidebar-item-link" dict "hasChildren" $hasChildren "active" $active "title" $title "link" $link "external" $external -}}
+      {{- if and $toc $active -}}
+        {{- $pageRef := .PageRef -}}
+        {{- if $pageRef -}}
+          {{- $refPage := site.GetPage $pageRef -}}
+          {{- if $refPage -}}
+            {{- template "sidebar-toc" dict "page" $refPage -}}
           {{- end -}}
         {{- end -}}
-        {{- if $hasChildren -}}
-          {{- template "sidebar-menu-main-children" (dict "children" .Children "page" $page "pageURL" $pageURL "toc" $toc "level" (add $level 1)) -}}
-        {{- end -}}
-      </li>
-    {{- else -}}
-      <div class="hx:ltr:pr-0 hx:overflow-hidden">
-        <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'>
-          <li class="hx:flex hx:flex-col {{ if $shouldOpen }}open{{ end }}">
-            {{- $title := or (T .Identifier) .Name -}}
-            {{- template "sidebar-item-link" dict "context" (dict "HasChildren" $hasChildren) "active" $active "title" $title "link" $link "external" $external -}}
-            {{- if and $toc $active -}}
-              {{- $pageRef := .PageRef -}}
-              {{- if $pageRef -}}
-                {{- $refPage := site.GetPage $pageRef -}}
-                {{- if $refPage -}}
-                  {{- template "sidebar-toc" dict "page" $refPage -}}
-                {{- end -}}
-              {{- end -}}
-            {{- end -}}
-            {{- if $hasChildren -}}
-              {{- template "sidebar-menu-main-children" (dict "children" .Children "page" $page "pageURL" $pageURL "toc" $toc "level" (add $level 1)) -}}
-            {{- end -}}
-          </li>
-        </ul>
-      </div>
+      {{- end -}}
+      {{- if $hasChildren -}}
+        {{- template "sidebar-menu-main-children" (dict "children" .Children "page" $page "pageURL" $pageURL "toc" $toc "level" (add $level 1)) -}}
+      {{- end -}}
+    </li>
     {{- end -}}
   {{- end -}}
 {{- end -}}
@@ -235,7 +215,7 @@
 
         <li class="hx:flex hx:flex-col {{ if $shouldOpen }}open{{ end }}">
           {{- $title := or (T .Identifier) .Name -}}
-          {{- template "sidebar-item-link" dict "context" (dict "HasChildren" $hasChildren) "active" $active "title" $title "link" $link "external" $external -}}
+          {{- template "sidebar-item-link" dict "hasChildren" $hasChildren "active" $active "title" $title "link" $link "external" $external -}}
           {{- if and $toc $active -}}
             {{- $pageRef := .PageRef -}}
             {{- if $pageRef -}}
@@ -298,27 +278,43 @@
 {{- define "sidebar-item-link" -}}
   {{- $external := .external | default (strings.HasPrefix .link "http") -}}
   {{- $open := .open | default true -}}
-  {{- $hasChildren := false -}}
-  {{- with .context -}}
-    {{- $hasChildren = .HasChildren -}}
+  {{- $hasChildren := .hasChildren | default false -}}
+  {{- $isHashLink := eq .link "#" -}}
+  {{- if $isHashLink -}}
+    <span
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      {{- if .active }}
+        hextra-sidebar-active-item hx:bg-primary-100 hx:font-semibold hx:text-primary-800 hx:contrast-more:border hx:contrast-more:border-primary-500 hx:dark:bg-primary-400/10 hx:dark:text-primary-600 hx:contrast-more:dark:border-primary-500
+      {{- else }}
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50
+      {{- end -}}"
+    >
+      {{- .title -}}
+      {{- if $hasChildren }}
+        <span class="hextra-sidebar-collapsible-button">
+          {{- template "sidebar-collapsible-button" -}}
+        </span>
+      {{ end -}}
+    </span>
+  {{- else -}}
+    <a
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+      {{- if .active }}
+        hextra-sidebar-active-item hx:bg-primary-100 hx:font-semibold hx:text-primary-800 hx:contrast-more:border hx:contrast-more:border-primary-500 hx:dark:bg-primary-400/10 hx:dark:text-primary-600 hx:contrast-more:dark:border-primary-500
+      {{- else }}
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50
+      {{- end -}}"
+      href="{{ .link }}"
+      {{ if $external }}target="_blank" rel="noreferrer"{{ end }}
+    >
+      {{- .title -}}
+      {{- if $hasChildren }}
+        <span class="hextra-sidebar-collapsible-button">
+          {{- template "sidebar-collapsible-button" -}}
+        </span>
+      {{ end -}}
+    </a>
   {{- end -}}
-  <a
-    class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-    {{- if .active }}
-      hextra-sidebar-active-item hx:bg-primary-100 hx:font-semibold hx:text-primary-800 hx:contrast-more:border hx:contrast-more:border-primary-500 hx:dark:bg-primary-400/10 hx:dark:text-primary-600 hx:contrast-more:dark:border-primary-500
-    {{- else }}
-      hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50
-    {{- end -}}"
-    href="{{ .link }}"
-    {{ if $external }}target="_blank" rel="noreferrer"{{ end }}
-  >
-    {{- .title -}}
-    {{- if $hasChildren }}
-      <span class="hextra-sidebar-collapsible-button">
-        {{- template "sidebar-collapsible-button" -}}
-      </span>
-    {{ end -}}
-  </a>
 {{- end -}}
 
 {{- define "sidebar-collapsible-button" -}}

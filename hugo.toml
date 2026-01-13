@@ -112,3 +112,10 @@ enableRobotsTXT = true
   pageRef = "/pages/kanban"
   parent = "baza-znaniy"
   weight = 7
+
+[[menu.main]]
+  identifier = "kak-nayti-ideyu"
+  name = "Как найти идею"
+  pageRef = "/posts/kak-nayti-ideyu-microstartapa"
+  parent = "baza-znaniy"
+  weight = 8
