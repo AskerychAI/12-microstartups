@@ -183,7 +183,30 @@
         class="hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9 hx:flex hx:items-center hx:gap-1"
       >Как найти идею</a>
     </li></ul>
-</div><button type="button" aria-label="Menu" class="hextra-hamburger-menu hx:cursor-pointer hx:-mr-2 hx:rounded-sm hx:p-2 hx:active:bg-gray-400/20 hx:md:hidden"><svg height=24 fill="none" viewBox="0 0 24 24" stroke="currentColor"><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8H20"></path></g><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16H20"></path></g></svg></button>
+</div><div class="hextra-search-wrapper hx:relative hx:md:w-64">
+  <div class="hx:relative hx:flex hx:items-center hx:text-gray-900 hx:contrast-more:text-gray-800 hx:dark:text-gray-300 hx:contrast-more:dark:text-gray-300">
+    <input
+      placeholder="Поиск..."
+      class="hextra-search-input hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current"
+      type="search"
+      value=""
+      spellcheck="false"
+    />
+    <kbd
+      class="hx:absolute hx:my-1.5 hx:select-none hx:ltr:right-1.5 hx:rtl:left-1.5 hx:h-5 hx:rounded-sm hx:bg-white hx:px-1.5 hx:font-mono hx:text-[10px] hx:font-medium hx:text-gray-500 hx:border hx:border-gray-200 hx:dark:border-gray-100/20 hx:dark:bg-dark/50 hx:contrast-more:border-current hx:contrast-more:text-current hx:contrast-more:dark:border-current hx:items-center hx:gap-1 hx:transition-opacity hx:pointer-events-none hx:hidden hx:sm:flex"
+    >
+      CTRL K
+    </kbd>
+  </div>
+
+  <div>
+    <ul
+      class="hextra-search-results hextra-scrollbar hx:hidden hx:border hx:border-gray-200 hx:bg-white hx:text-gray-100 hx:dark:border-neutral-800 hx:dark:bg-neutral-900 hx:absolute hx:top-full hx:z-20 hx:mt-2 hx:overflow-auto hx:overscroll-contain hx:rounded-xl hx:py-2.5 hx:shadow-xl hx:max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] hx:md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] hx:inset-x-0 hx:ltr:md:left-auto hx:rtl:md:right-auto hx:contrast-more:border hx:contrast-more:border-gray-900 hx:contrast-more:dark:border-gray-50 hx:w-screen hx:min-h-[100px] hx:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      style="transition: max-height 0.2s ease 0s;"
+    ></ul>
+  </div>
+</div>
+<button type="button" aria-label="Menu" class="hextra-hamburger-menu hx:cursor-pointer hx:-mr-2 hx:rounded-sm hx:p-2 hx:active:bg-gray-400/20 hx:md:hidden"><svg height=24 fill="none" viewBox="0 0 24 24" stroke="currentColor"><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8H20"></path></g><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16H20"></path></g></svg></button>
   </nav>
 </div>
 
@@ -219,7 +242,10 @@
   <div class="hextra-scrollbar hx:overflow-y-auto hx:overflow-x-hidden hx:p-4 hx:grow hx:md:h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
     <ul class="hx:flex hx:flex-col hx:gap-1 hx:md:hidden">
       
-      <li class=""><a
+      <li class=""><span
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    >Поиск</span></li><li class=""><a
       class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
         hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
       href="/podpiska"
@@ -570,6 +596,216 @@
     
     <script defer src="/js/main.min.939f9f01da5755b7117a6d4651192b124fc58799125404b474e0ab4030dcedfe.js" integrity="sha256-k5&#43;fAdpXVbcRem1GURkrEk/Fh5kSVAS0dOCrQDDc7f4="></script>
 <script defer src="/js/flexsearch.433e941a8a573ebb9931fc16fc75266ab6b93f569ac2fb4f3dc66882e0416f4c.js" integrity="sha256-Qz6UGopXPruZMfwW/HUmara5P1aawvtPPcZoguBBb0w=" crossorigin="anonymous"></script>
-        <script defer src="/en.search.min.f193b44840cc2e87b97c0c80d6975880cc7f1211ddb89e5ac51ce34372225eab.js" integrity="sha256-8ZO0SEDMLoe5fAyA1pdYgMx/EhHduJ5axRzjQ3IiXqs="></script>
+        <script defer src="/en.search.min.f193b44840cc2e87b97c0c80d6975880cc7f1211ddb89e5ac51ce34372225eab.js" integrity="sha256-8ZO0SEDMLoe5fAyA1pdYgMx/EhHduJ5axRzjQ3IiXqs="></script><script>
+(function() {
+  'use strict';
+
+  const AI_SEARCH_ENABLED =  true ;
+  const EMBEDDINGS_MODEL = "Xenova\/all-MiniLM-L6-v2";
+  const EMBEDDINGS_URL = '/embeddings.json';
+
+  let embeddingsData = null;
+  let embeddingsModel = null;
+  let modelLoading = false;
+
+  
+  async function loadEmbeddingsData() {
+    if (embeddingsData) return embeddingsData;
+    try {
+      const response = await fetch(EMBEDDINGS_URL);
+      if (!response.ok) return null;
+      embeddingsData = await response.json();
+      return embeddingsData;
+    } catch (error) {
+      console.warn('Failed to load embeddings:', error);
+      return null;
+    }
+  }
+
+  
+  async function loadEmbeddingsModel() {
+    if (embeddingsModel) return embeddingsModel;
+    if (modelLoading) {
+      return new Promise((resolve) => {
+        const check = setInterval(() => {
+          if (embeddingsModel) {
+            clearInterval(check);
+            resolve(embeddingsModel);
+          }
+        }, 100);
+      });
+    }
+
+    modelLoading = true;
+    try {
+      
+      if (!window.pipeline) {
+        await new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.2/dist/transformers.min.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+      }
+
+      const { pipeline } = window;
+      embeddingsModel = await pipeline('feature-extraction', EMBEDDINGS_MODEL, {
+        quantized: true,
+        revision: 'main'
+      });
+      
+      modelLoading = false;
+      return embeddingsModel;
+    } catch (error) {
+      modelLoading = false;
+      console.error('Failed to load model:', error);
+      return null;
+    }
+  }
+
+  
+  function cosineSimilarity(vecA, vecB) {
+    if (vecA.length !== vecB.length) return 0;
+    let dot = 0, normA = 0, normB = 0;
+    for (let i = 0; i < vecA.length; i++) {
+      dot += vecA[i] * vecB[i];
+      normA += vecA[i] * vecA[i];
+      normB += vecB[i] * vecB[i];
+    }
+    const denom = Math.sqrt(normA) * Math.sqrt(normB);
+    return denom === 0 ? 0 : dot / denom;
+  }
+
+  
+  async function semanticSearch(query, limit = 10) {
+    if (!embeddingsData || !embeddingsModel) return [];
+    
+    try {
+      const output = await embeddingsModel(query, { pooling: 'mean', normalize: true });
+      const queryVec = Array.from(output.data);
+      
+      const similarities = [];
+      for (const [url, doc] of Object.entries(embeddingsData)) {
+        const sim = cosineSimilarity(queryVec, doc.embedding);
+        similarities.push({
+          url: doc.url,
+          title: doc.title,
+          content: doc.content.substring(0, 200),
+          similarity: sim
+        });
+      }
+      
+      similarities.sort((a, b) => b.similarity - a.similarity);
+      return similarities.slice(0, limit);
+    } catch (error) {
+      console.error('Semantic search error:', error);
+      return [];
+    }
+  }
+
+  
+  async function enhanceSearchResults(query) {
+    if (!AI_SEARCH_ENABLED || !query || query.length < 2) return;
+
+    
+    const wrappers = Array.from(document.querySelectorAll('.hextra-search-wrapper')).filter(el => el.clientHeight > 0);
+    if (wrappers.length === 0) return;
+    
+    const wrapper = wrappers[0];
+    const resultsElement = wrapper.querySelector('.hextra-search-results');
+    if (!resultsElement) return;
+
+    
+    if (!embeddingsData) {
+      await loadEmbeddingsData();
+      if (!embeddingsData) return;
+    }
+
+    
+    if (!embeddingsModel && !modelLoading) {
+      await loadEmbeddingsModel();
+      if (!embeddingsModel) return;
+    }
+
+    
+    const semanticResults = await semanticSearch(query, 5);
+    if (semanticResults.length === 0) return;
+
+    
+    const existingResults = new Set();
+    Array.from(resultsElement.querySelectorAll('a')).forEach(a => {
+      existingResults.add(a.getAttribute('href'));
+    });
+
+    
+    let added = false;
+    semanticResults.forEach(result => {
+      if (!existingResults.has(result.url) && result.similarity > 0.3) {
+        
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = result.url;
+        a.className = 'hextra-search-result-semantic';
+        
+        const titleDiv = document.createElement('div');
+        titleDiv.className = 'hextra-search-title';
+        titleDiv.textContent = result.title;
+        
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'hextra-search-excerpt';
+        contentDiv.textContent = result.content;
+        
+        a.appendChild(titleDiv);
+        a.appendChild(contentDiv);
+        li.appendChild(a);
+        
+        
+        resultsElement.appendChild(li);
+        added = true;
+      }
+    });
+
+    if (added) {
+      
+      const count = resultsElement.querySelectorAll('li').length;
+      resultsElement.dataset.count = count;
+    }
+  }
+
+  
+  function initAIEnhancement() {
+    const inputs = document.querySelectorAll('.hextra-search-input');
+    inputs.forEach(input => {
+      let enhanceTimeout;
+      const originalHandler = input.oninput;
+      
+      input.addEventListener('input', function(e) {
+        const query = e.target.value;
+        
+        
+        clearTimeout(enhanceTimeout);
+        
+        
+        if (query && query.length >= 2) {
+          enhanceTimeout = setTimeout(() => {
+            enhanceSearchResults(query);
+          }, 800); 
+        }
+      });
+    });
+  }
+
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      setTimeout(initAIEnhancement, 2000); 
+    });
+  } else {
+    setTimeout(initAIEnhancement, 2000);
+  }
+
+})();
+</script>
   </body>
 </html>

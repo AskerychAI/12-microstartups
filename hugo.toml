@@ -34,6 +34,18 @@ theme = 'hextra-main'
 
   [params.blog.article]
     displayPagination = true
+  
+  [params.search]
+    enable = true
+    type = "flexsearch"
+    
+    [params.search.flexsearch]
+      index = "content"
+      tokenize = "forward"
+    
+    [params.search.ai]
+      enable = true
+      model = "Xenova/all-MiniLM-L6-v2"
 
 [services]
   [services.googleAnalytics]
@@ -119,3 +131,10 @@ enableRobotsTXT = true
   pageRef = "/posts/kak-nayti-ideyu-microstartapa"
   parent = "baza-znaniy"
   weight = 8
+
+[[menu.main]]
+  identifier = "search"
+  name = "Поиск"
+  [menu.main.params]
+    type = "search"
+  weight = 10
