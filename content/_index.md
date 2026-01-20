@@ -5,9 +5,7 @@ date: 2025-12-25T20:00:00+03:00
 
 ### Это блог о том, как один человек с помощью no-code и ИИ может создать работающий бизнес за месяц, чтобы проверить спрос и получить первые деньги, не уходя с основной работы.
 <br/>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/F239VHpPLNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-top: 56.25%; width: 100%"><iframe src="https://kinescope.io/embed/oKcs5y36ygbfqDq8G8CWpd" allow="autoplay; fullscreen; picture-in-picture; encrypted-media; gyroscope; accelerometer; clipboard-write; screen-wake-lock;" frameborder="0" allowfullscreen style="position: absolute; width: 100%; height: 100%; top: 0; left: 0;"></iframe></div>
 
 Привет! Мое имя Аскер.
 Этот проект — живой эксперимент по построению бизнеса нового типа. Я не просто автоматизирую задачи, а создаю систему, где я как основатель задаю стратегию и видение, а команда ИИ-агентов выполняет операционную работу: анализ, разработку, маркетинг. Мы фокусируемся на микростартапах — небольших, но прибыльных SaaS-продуктах, которые запускаются за считанные дни. В блоге вы найдете не только отчеты о запусках, но и глубокие разборы методологии: как превратить личную экспертизу в продукт, как выстраивать процессы с ИИ и как масштабироваться, оставаясь командой из нескольких человек.
