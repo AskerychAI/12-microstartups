@@ -17,7 +17,7 @@ jobs:
         with:
           fetch-depth: 0  # нужна полная история для сравнения
 
-      - name: Detect and Process New Posts
+      - name: Detect and Send New Posts
         id: process
         run: |
           # Отладочная информация
@@ -45,7 +45,9 @@ jobs:
           
           echo "new_posts=true" >> $GITHUB_OUTPUT
           
-          # Обрабатываем каждый новый пост
+          POST_COUNT=0
+          
+          # Обрабатываем каждый новый пост и сразу отправляем
           for file in $CHANGED_FILES; do
             if [ -f "$file" ]; then
               # Пропускаем _index.md
@@ -112,105 +114,56 @@ jobs:
               # Очищаем саммари от лишних пробелов и переносов строк
               SUMMARY_TEXT=$(echo "$SUMMARY_TEXT" | tr '\n' ' ' | sed 's/[[:space:]]\+/ /g' | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')
               
-              # Формируем JSON одной строкой для надежности
-              TITLE_JSON=$(echo "$TITLE" | jq -Rs .)
-              SUMMARY_JSON=$(echo "$SUMMARY_TEXT" | jq -Rs .)
-              URL_JSON=$(echo "$POST_URL" | jq -Rs .)
+              echo "Sending post: $TITLE"
+              echo "URL: $POST_URL"
               
-              POST_DATA=$(jq -n \
-                --arg title "$TITLE" \
-                --arg summary "$SUMMARY_TEXT" \
-                --arg url "$POST_URL" \
-                '{title: $title, summary: $summary, url: $url}')
+              # Формируем сообщение
+              MESSAGE="🆕 *Новый пост на блоге*\n\n"
+              MESSAGE="${MESSAGE}*${TITLE}*\n\n"
               
-              # Сохраняем данные поста (одна строка JSON)
-              echo "$POST_DATA" >> posts_data.jsonl
+              if [ -n "$SUMMARY_TEXT" ] && [ "$SUMMARY_TEXT" != "null" ] && [ "$SUMMARY_TEXT" != "" ]; then
+                MESSAGE="${MESSAGE}${SUMMARY_TEXT}\n\n"
+              fi
+              
+              MESSAGE="${MESSAGE}📖 [Читать полностью →](${POST_URL})"
+              
+              # Экранируем сообщение для JSON
+              MESSAGE_JSON=$(echo "$MESSAGE" | jq -Rs .)
+              
+              # Формируем JSON для отправки
+              PAYLOAD=$(jq -n \
+                --arg chat_id "$TELEGRAM_CHAT_ID" \
+                --argjson text "$MESSAGE_JSON" \
+                '{chat_id: $chat_id, text: $text, parse_mode: "Markdown", disable_web_page_preview: false}')
+              
+              # Отправляем в Telegram
+              RESPONSE=$(curl -s -w "\nHTTP_CODE:%{http_code}" -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -H "Content-Type: application/json" \
+                -d "$PAYLOAD")
+              
+              HTTP_CODE=$(echo "$RESPONSE" | grep "HTTP_CODE:" | cut -d: -f2)
+              RESPONSE_BODY=$(echo "$RESPONSE" | sed '/HTTP_CODE:/d')
+              
+              echo "HTTP Code: $HTTP_CODE"
+              echo "Telegram API response: $RESPONSE_BODY"
+              
+              # Проверяем ответ
+              if echo "$RESPONSE_BODY" | jq -e '.ok == true' > /dev/null 2>&1; then
+                echo "✅ Message sent successfully"
+                POST_COUNT=$((POST_COUNT + 1))
+              else
+                ERROR_DESC=$(echo "$RESPONSE_BODY" | jq -r '.description // "Unknown error"' 2>/dev/null || echo "Parse error")
+                echo "❌ Error sending message: $ERROR_DESC"
+                echo "Full response: $RESPONSE_BODY"
+                # Не выходим с ошибкой, продолжаем отправку остальных постов
+              fi
+              
+              # Небольшая задержка между сообщениями
+              sleep 1
             fi
           done
           
-          # Если файл с данными пуст, значит новых постов нет
-          if [ ! -f posts_data.jsonl ] || [ ! -s posts_data.jsonl ]; then
-            echo "new_posts=false" >> $GITHUB_OUTPUT
-            exit 0
-          fi
-
-      - name: Send to Telegram
-        if: steps.process.outputs.new_posts == 'true'
-        run: |
-          echo "Reading posts from posts_data.jsonl"
-          cat posts_data.jsonl
-          echo ""
-          
-          # Читаем каждый пост из файла и отправляем
-          while IFS= read -r line; do
-            # Пропускаем пустые строки
-            if [ -z "$line" ] || [ "$line" = "" ]; then
-              continue
-            fi
-            
-            # Проверяем, что строка является валидным JSON
-            if ! echo "$line" | jq -e . > /dev/null 2>&1; then
-              echo "⚠️ Skipping invalid JSON line: $line"
-              continue
-            fi
-            
-            # Извлекаем данные из JSON
-            TITLE=$(echo "$line" | jq -r '.title // "Без названия"')
-            SUMMARY=$(echo "$line" | jq -r '.summary // ""')
-            URL=$(echo "$line" | jq -r '.url // ""')
-            
-            echo "Sending post: $TITLE"
-            echo "URL: $URL"
-            
-            # Формируем сообщение
-            MESSAGE="🆕 *Новый пост на блоге*\n\n"
-            MESSAGE="${MESSAGE}*${TITLE}*\n\n"
-            
-            if [ -n "$SUMMARY" ] && [ "$SUMMARY" != "null" ] && [ "$SUMMARY" != "" ]; then
-              MESSAGE="${MESSAGE}${SUMMARY}\n\n"
-            fi
-            
-            MESSAGE="${MESSAGE}📖 [Читать полностью →](${URL})"
-            
-            # Экранируем сообщение для JSON
-            MESSAGE_JSON=$(echo "$MESSAGE" | jq -Rs .)
-            
-            # Формируем JSON для отправки
-            PAYLOAD=$(jq -n \
-              --arg chat_id "$TELEGRAM_CHAT_ID" \
-              --argjson text "$MESSAGE_JSON" \
-              '{chat_id: $chat_id, text: $text, parse_mode: "Markdown", disable_web_page_preview: false}')
-            
-            # Отправляем в Telegram
-            RESPONSE=$(curl -s -w "\nHTTP_CODE:%{http_code}" -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-              -H "Content-Type: application/json" \
-              -d "$PAYLOAD")
-            
-            HTTP_CODE=$(echo "$RESPONSE" | grep "HTTP_CODE:" | cut -d: -f2)
-            RESPONSE_BODY=$(echo "$RESPONSE" | sed '/HTTP_CODE:/d')
-            
-            echo "HTTP Code: $HTTP_CODE"
-            echo "Telegram API response: $RESPONSE_BODY"
-            
-            # Проверяем ответ
-            if echo "$RESPONSE_BODY" | jq -e '.ok == true' > /dev/null 2>&1; then
-              echo "✅ Message sent successfully"
-            else
-              ERROR_DESC=$(echo "$RESPONSE_BODY" | jq -r '.description // "Unknown error"' 2>/dev/null || echo "Parse error")
-              echo "❌ Error sending message: $ERROR_DESC"
-              echo "Full response: $RESPONSE_BODY"
-              # Не выходим с ошибкой, продолжаем отправку остальных постов
-            fi
-            
-            # Небольшая задержка между сообщениями
-            sleep 1
-          done < posts_data.jsonl
+          echo "✅ Успешно отправлено $POST_COUNT пост(ов) в Telegram"
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-
-      - name: Summary
-        if: steps.process.outputs.new_posts == 'true'
-        run: |
-          POST_COUNT=$(wc -l < posts_data.jsonl)
-          echo "✅ Успешно отправлено $POST_COUNT пост(ов) в Telegram"
