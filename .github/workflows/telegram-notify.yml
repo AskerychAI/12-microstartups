@@ -117,18 +117,17 @@ jobs:
               echo "Sending post: $TITLE"
               echo "URL: $POST_URL"
               
-              # Формируем сообщение
-              MESSAGE="🆕 *Новый пост на блоге*\n\n"
-              MESSAGE="${MESSAGE}*${TITLE}*\n\n"
+              # Формируем сообщение с реальными переносами строк
+              MESSAGE=$(printf "🆕 *Новый пост на блоге*\n\n**%s**\n\n" "$TITLE")
               
               if [ -n "$SUMMARY_TEXT" ] && [ "$SUMMARY_TEXT" != "null" ] && [ "$SUMMARY_TEXT" != "" ]; then
-                MESSAGE="${MESSAGE}${SUMMARY_TEXT}\n\n"
+                MESSAGE=$(printf "%s%s\n\n" "$MESSAGE" "$SUMMARY_TEXT")
               fi
               
-              MESSAGE="${MESSAGE}📖 [Читать полностью →](${POST_URL})"
+              MESSAGE=$(printf "%s📖 [Читать полностью →](%s)" "$MESSAGE" "$POST_URL")
               
-              # Экранируем сообщение для JSON
-              MESSAGE_JSON=$(echo "$MESSAGE" | jq -Rs .)
+              # Экранируем сообщение для JSON (jq -Rs сохраняет реальные переносы строк)
+              MESSAGE_JSON=$(printf "%s" "$MESSAGE" | jq -Rs .)
               
               # Формируем JSON для отправки
               PAYLOAD=$(jq -n \
