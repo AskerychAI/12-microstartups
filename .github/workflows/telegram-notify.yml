@@ -117,23 +117,44 @@ jobs:
               echo "Sending post: $TITLE"
               echo "URL: $POST_URL"
               
-              # Формируем сообщение с реальными переносами строк
-              MESSAGE=$(printf "🆕 *Новый пост на блоге*\n\n**%s**\n\n" "$TITLE")
+              # Экранируем специальные символы для HTML (но не теги, которые мы используем)
+              TITLE_ESCAPED=$(echo "$TITLE" | sed 's/&/\&amp;/g' | sed 's/</\&lt;/g' | sed 's/>/\&gt;/g')
+              SUMMARY_ESCAPED=$(echo "$SUMMARY_TEXT" | sed 's/&/\&amp;/g' | sed 's/</\&lt;/g' | sed 's/>/\&gt;/g')
               
+              # Формируем сообщение с реальными переносами строк через heredoc
+              # Используем HTML разметку для надежного форматирования
+              # Заголовок с жирным выделением <b>текст</b>
               if [ -n "$SUMMARY_TEXT" ] && [ "$SUMMARY_TEXT" != "null" ] && [ "$SUMMARY_TEXT" != "" ]; then
-                MESSAGE=$(printf "%s%s\n\n" "$MESSAGE" "$SUMMARY_TEXT")
+                MESSAGE=$(cat <<EOF
+🆕 <b>Новый пост на блоге</b>
+
+<b>${TITLE_ESCAPED}</b>
+
+${SUMMARY_ESCAPED}
+
+📖 <a href="${POST_URL}">Читать полностью →</a>
+EOF
+)
+              else
+                MESSAGE=$(cat <<EOF
+🆕 <b>Новый пост на блоге</b>
+
+<b>${TITLE_ESCAPED}</b>
+
+📖 <a href="${POST_URL}">Читать полностью →</a>
+EOF
+)
               fi
-              
-              MESSAGE=$(printf "%s📖 [Читать полностью →](%s)" "$MESSAGE" "$POST_URL")
               
               # Экранируем сообщение для JSON (jq -Rs сохраняет реальные переносы строк)
               MESSAGE_JSON=$(printf "%s" "$MESSAGE" | jq -Rs .)
               
               # Формируем JSON для отправки
+              # Используем HTML для надежного форматирования и переносов строк
               PAYLOAD=$(jq -n \
                 --arg chat_id "$TELEGRAM_CHAT_ID" \
                 --argjson text "$MESSAGE_JSON" \
-                '{chat_id: $chat_id, text: $text, parse_mode: "Markdown", disable_web_page_preview: false}')
+                '{chat_id: $chat_id, text: $text, parse_mode: "HTML", disable_web_page_preview: false}')
               
               # Отправляем в Telegram
               RESPONSE=$(curl -s -w "\nHTTP_CODE:%{http_code}" -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
