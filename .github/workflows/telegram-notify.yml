@@ -17,8 +17,8 @@ jobs:
         with:
           fetch-depth: 0  # нужна полная история для сравнения
 
-      - name: Detect and Send New Posts
-        id: process
+      - name: Detect New Posts
+        id: detect
         run: |
           # Отладочная информация
           echo "Event name: ${{ github.event_name }}"
@@ -38,16 +38,41 @@ jobs:
           echo "$CHANGED_FILES"
           
           if [ -z "$CHANGED_FILES" ]; then
-            echo "No new posts found"
+            echo "❌ No new posts found"
             echo "new_posts=false" >> $GITHUB_OUTPUT
+            echo "::notice::No new posts detected, skipping Telegram notification"
             exit 0
           fi
           
+          # Сохраняем список файлов для следующего шага
+          echo "$CHANGED_FILES" > changed_files.txt
+          
+          FILE_COUNT=$(echo "$CHANGED_FILES" | wc -l | tr -d ' ')
+          echo "✅ Found $FILE_COUNT changed file(s)"
           echo "new_posts=true" >> $GITHUB_OUTPUT
+          echo "::notice::Found $FILE_COUNT new post(s) to send to Telegram"
+
+      - name: Send Posts to Telegram
+        if: steps.detect.outputs.new_posts == 'true'
+        run: |
+          echo "🚀 Starting Telegram notification step"
+          echo "Previous step output: new_posts = ${{ steps.detect.outputs.new_posts }}"
           
           POST_COUNT=0
           
-          # Обрабатываем каждый новый пост и сразу отправляем
+          # Читаем список измененных файлов
+          if [ ! -f changed_files.txt ]; then
+            echo "❌ Error: changed_files.txt not found!"
+            exit 1
+          fi
+          
+          CHANGED_FILES=$(cat changed_files.txt)
+          
+          echo "📋 Processing files from previous step:"
+          echo "$CHANGED_FILES"
+          echo ""
+          
+          # Обрабатываем каждый новый пост и отправляем
           for file in $CHANGED_FILES; do
             if [ -f "$file" ]; then
               # Пропускаем _index.md
@@ -100,8 +125,8 @@ jobs:
                     sed 's/#\{1,6\}[[:space:]]*//g' | \
                     sed 's/\*\*//g' | \
                     sed 's/\*//g' | \
-                    sed 's/```[^`]*```//g' | \
-                    sed 's/`[^`]*`//g' | \
+                    sed 's/```.*```//g' | \
+                    sed "s/\`[^\`]*\`//g" | \
                     head -c 500)
                   
                   # Добавляем многоточие если текст обрезан
