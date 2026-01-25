@@ -74,6 +74,7 @@ enableRobotsTXT = true
 [[menu.main]]
   identifier = "baza-znaniy"
   name = "База знаний"
+  pageRef = "/pages/baza-znaniy"
   weight = 3
 
 [[menu.main]]
