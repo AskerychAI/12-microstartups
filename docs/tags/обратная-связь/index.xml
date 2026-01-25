@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12 microstartups – Обратная Связь</title>
-    <link>https://ch12ms.online/tags/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/</link>
+    <link>http://localhost:61465/tags/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/</link>
     <description>Recent content in Обратная Связь on 12 microstartups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0300</lastBuildDate>
     
-	  <atom:link href="https://ch12ms.online/tags/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61465/tags/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Как запросить обратную связь у клиента</title>
-      <link>https://ch12ms.online/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</link>
+      <link>http://localhost:61465/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</guid>
+      <guid>http://localhost:61465/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</guid>
       <description>
         
         

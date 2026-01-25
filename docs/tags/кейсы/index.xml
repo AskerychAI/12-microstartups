@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12 microstartups – Кейсы</title>
-    <link>https://ch12ms.online/tags/%D0%BA%D0%B5%D0%B9%D1%81%D1%8B/</link>
+    <link>http://localhost:61465/tags/%D0%BA%D0%B5%D0%B9%D1%81%D1%8B/</link>
     <description>Recent content in Кейсы on 12 microstartups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Wed, 07 Jan 2026 19:36:00 +0300</lastBuildDate>
     
-	  <atom:link href="https://ch12ms.online/tags/%D0%BA%D0%B5%D0%B9%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61465/tags/%D0%BA%D0%B5%D0%B9%D1%81%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>История Джона Йонгфука: как 12 стартапов за 12 месяцев привели к успеху Bannerbear</title>
-      <link>https://ch12ms.online/posts/istoriya-jona-yongfuka/</link>
+      <link>http://localhost:61465/posts/istoriya-jona-yongfuka/</link>
       <pubDate>Wed, 07 Jan 2026 19:36:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/istoriya-jona-yongfuka/</guid>
+      <guid>http://localhost:61465/posts/istoriya-jona-yongfuka/</guid>
       <description>
         
         

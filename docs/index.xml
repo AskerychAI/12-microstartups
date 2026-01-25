@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12 microstartups – 12 микростартапов за 12 месяцев</title>
-    <link>https://ch12ms.online/</link>
+    <link>http://localhost:61465/</link>
     <description>Recent content in 12 микростартапов за 12 месяцев on 12 microstartups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 25 Dec 2025 20:00:00 +0300</lastBuildDate>
     
-	  <atom:link href="https://ch12ms.online/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61465/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Забудьте о Кремниевой долине: как запустить прибыльный микростартап за 10 дней, не написав ни строчки кода</title>
-      <link>https://ch12ms.online/posts/zabudte-o-kremnievoy-doline/</link>
+      <link>http://localhost:61465/posts/zabudte-o-kremnievoy-doline/</link>
       <pubDate>Wed, 21 Jan 2026 20:55:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/zabudte-o-kremnievoy-doline/</guid>
+      <guid>http://localhost:61465/posts/zabudte-o-kremnievoy-doline/</guid>
       <description>
         
         
@@ -72,14 +72,14 @@
     
     <item>
       <title>Ошибка выжившего — миф, придуманный проигравшими</title>
-      <link>https://ch12ms.online/posts/oshibka-vyzhivshego-eto-mif/</link>
+      <link>http://localhost:61465/posts/oshibka-vyzhivshego-eto-mif/</link>
       <pubDate>Sun, 18 Jan 2026 10:45:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/oshibka-vyzhivshego-eto-mif/</guid>
+      <guid>http://localhost:61465/posts/oshibka-vyzhivshego-eto-mif/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/1-Ошибка выжившего.png&#34; alt=&#34;Ошибка выжившего&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:61465/images/1-Ошибка выжившего.png&#34; alt=&#34;Ошибка выжившего&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;В бизнесе и предпринимательстве есть удобное объяснение чужого успеха — ошибка выжившего.
 Когда человек делает не так, как 95% остальных, а потом у него получается, это принято объяснять так: «ему просто повезло», «он исключение», «мы видим только тех, кто выжил, а остальные остались за кадром».&lt;/p&gt;
 &lt;p&gt;На первый взгляд это звучит разумно. Даже научно.
@@ -168,10 +168,10 @@
     
     <item>
       <title>ИИ для старта, команда для роста, или почему микростартап - это только начало</title>
-      <link>https://ch12ms.online/posts/ii-dlya-starta/</link>
+      <link>http://localhost:61465/posts/ii-dlya-starta/</link>
       <pubDate>Fri, 09 Jan 2026 12:23:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/ii-dlya-starta/</guid>
+      <guid>http://localhost:61465/posts/ii-dlya-starta/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@
     
     <item>
       <title>История Джона Йонгфука: как 12 стартапов за 12 месяцев привели к успеху Bannerbear</title>
-      <link>https://ch12ms.online/posts/istoriya-jona-yongfuka/</link>
+      <link>http://localhost:61465/posts/istoriya-jona-yongfuka/</link>
       <pubDate>Wed, 07 Jan 2026 19:36:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/istoriya-jona-yongfuka/</guid>
+      <guid>http://localhost:61465/posts/istoriya-jona-yongfuka/</guid>
       <description>
         
         
@@ -232,14 +232,14 @@
     
     <item>
       <title>Как продвигать микростартапы: problem-first подход и поиск низковисящих плодов</title>
-      <link>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</link>
+      <link>http://localhost:61465/posts/kak-prodvigat-microstartapi/</link>
       <pubDate>Mon, 05 Jan 2026 21:41:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</guid>
+      <guid>http://localhost:61465/posts/kak-prodvigat-microstartapi/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/alexey-image.png&#34; alt=&#34;Вопрос Алексея о времени на тракцию&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:61465/images/alexey-image.png&#34; alt=&#34;Вопрос Алексея о времени на тракцию&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Лёша, спасибо за вопрос - ты правильно зацепил самую важную часть. Давай разложу по полочкам.&lt;/p&gt;
 &lt;p&gt;Мы в челлендже не идём по &amp;ldquo;классическому пути&amp;rdquo;. Более того, я бы даже сказал так: классический путь часто и приводит в тупик. Когда люди сначала придумывают идею, влюбляются в неё, а потом начинают бегать по рынку и искать, кому бы её &amp;ldquo;пристроить&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;У нас другой подход. Он зиждется на двух принципах.&lt;/p&gt;
@@ -265,14 +265,14 @@
     
     <item>
       <title>Для чего нужен челлендж: моя история и цели</title>
-      <link>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</link>
+      <link>http://localhost:61465/posts/dlya-chego-nujen-chelendj/</link>
       <pubDate>Mon, 05 Jan 2026 20:00:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</guid>
+      <guid>http://localhost:61465/posts/dlya-chego-nujen-chelendj/</guid>
       <description>
         
         
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/artyom-image.png&#34; alt=&#34;Вопрос Артёма о целях челленджа&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;img src=&#34;http://localhost:61465/images/artyom-image.png&#34; alt=&#34;Вопрос Артёма о целях челленджа&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Артём спросил, зачем мне этот челлендж. Идея крутилась давно, но я не мог понять, как её оформить. Параллельно я увлёкся темой one-person company и solo-предпринимательства, а весной наткнулся на термин &amp;ldquo;микростартап&amp;rdquo;. Я залип, но тогда я был увлечен заказной разработкой и тема встала на паузу.&lt;/p&gt;
 &lt;p&gt;Настоящий сдвиг произошёл позже. Летом 2025 года я всерьёз занялся своей персональной стратегией по методу Александра Кравцова. Книга так и называется - &amp;ldquo;Персональная стратегия&amp;rdquo;. Я до сих пор по ней работаю и могу честно сказать: это один из самых практичных инструментов, с которыми я сталкивался.&lt;/p&gt;
 &lt;p&gt;Когда я сформулировал свои долгосрочные цели и посмотрел на сегодняшний день уже из будущего, стало очевидно: мне нужно идти в сторону собственного IT-продукта. Не абстрактного, а такого, который шаг за шагом прокладывает дорогу к большому будущему. Так история с микростартапами вернулась - но уже в другом качестве.&lt;/p&gt;

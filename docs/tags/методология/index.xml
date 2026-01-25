@@ -1,13 +1,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>12 microstartups – Методология</title>
-    <link>https://ch12ms.online/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
+    <link>http://localhost:61465/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/</link>
     <description>Recent content in Методология on 12 microstartups</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 25 Jan 2026 11:28:00 +0300</lastBuildDate>
     
-	  <atom:link href="https://ch12ms.online/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:61465/tags/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -17,10 +17,10 @@
     
     <item>
       <title>Создание и структура лендинга</title>
-      <link>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link>
+      <link>http://localhost:61465/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid>
+      <guid>http://localhost:61465/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid>
       <description>
         
         
@@ -234,10 +234,10 @@
     
     <item>
       <title>Как написать оффер</title>
-      <link>https://ch12ms.online/pages/08-instrukciya-4-kak-napisat-offer/</link>
+      <link>http://localhost:61465/pages/08-instrukciya-4-kak-napisat-offer/</link>
       <pubDate>Sun, 25 Jan 2026 11:28:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/pages/08-instrukciya-4-kak-napisat-offer/</guid>
+      <guid>http://localhost:61465/pages/08-instrukciya-4-kak-napisat-offer/</guid>
       <description>
         
         
@@ -658,10 +658,10 @@ Proof: [скриншот]
     
     <item>
       <title>Как написать welcome-письмо</title>
-      <link>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link>
+      <link>http://localhost:61465/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link>
       <pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid>
+      <guid>http://localhost:61465/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid>
       <description>
         
         
@@ -947,10 +947,10 @@ FAQ: [ссылка]
     
     <item>
       <title>Как запросить обратную связь у клиента</title>
-      <link>https://ch12ms.online/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</link>
+      <link>http://localhost:61465/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</link>
       <pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate>
       
-      <guid>https://ch12ms.online/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</guid>
+      <guid>http://localhost:61465/pages/10-instrukciya-6-kak-zaprosit-obratnuyu-svayz-u-klienta/</guid>
       <description>
         
         
