@@ -1,30 +1,4 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>12 microstartups – Валидация Идей</title>
-    <link>https://ch12ms.online/tags/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B4%D0%B5%D0%B9/</link>
-    <description>Recent content in Валидация Идей on 12 microstartups</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 01 Feb 2026 21:09:00 +0300</lastBuildDate>
-    
-	  <atom:link href="https://ch12ms.online/tags/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B4%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Начинаю свой персональный челендж</title>
-      <link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link>
-      <pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Начинаю свой персональный челендж&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Валидация Идей</title><link>https://ch12ms.online/tags/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B4%D0%B5%D0%B9/</link><description>Recent content in Валидация Идей on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Sun, 01 Feb 2026 21:09:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/%D0%B2%D0%B0%D0%BB%D0%B8%D0%B4%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B4%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>Начинаю свой персональный челендж</title><link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link><pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate><guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid><description>
 &lt;p&gt;Друзья, всем привет!&lt;/p&gt;
 &lt;p&gt;На дворе февраль, а это значит, что мы переходим к практической части нашего большого годового эксперимента. Я закрыл все обязательства по теоретической базе и фреймворк-фундаменту и теперь перехожу к главному — работе над конкретным проектом.&lt;/p&gt;
 &lt;p&gt;Прямо сейчас я занимаюсь разработкой коммерческого варианта одного из своих проверенных продуктов. Я понимаю, что он очень специфический и, возможно, не даст большого эффекта, но на нем я проверю этапы от разработки и валидации до, дай бог, масштабирования.&lt;/p&gt;
@@ -32,18 +6,12 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Чек-лист валидации идеи&lt;/strong&gt; — чтобы шаг за шагом проверить, насколько найденная идея востребована.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8"target="_blank" rel="noopener"&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Готовый план первых шагов&lt;/strong&gt; — дорожная карта из большого гайда по поиску и валидации идей.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9"target="_blank" rel="noopener"&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Друзья, предлагаю и вам начинать свои первые пробы, свой путь. Я буду публиковать обновления в режиме реального времени (не ежедневно, но когда будет что рассказать).&lt;/p&gt;
-&lt;p&gt;А вам предлагаю делиться в комментариях своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;А вам предлагаю делиться в &lt;a href="https://t.me/ch12ms"target="_blank" rel="noopener"&gt;комментариях&lt;/a&gt; своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;</description></item></channel></rss>

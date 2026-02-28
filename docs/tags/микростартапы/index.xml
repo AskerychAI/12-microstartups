@@ -1,40 +1,14 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>12 microstartups – Микростартапы</title>
-    <link>https://ch12ms.online/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B/</link>
-    <description>Recent content in Микростартапы on 12 microstartups</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 01 Feb 2026 21:09:00 +0300</lastBuildDate>
-    
-	  <atom:link href="https://ch12ms.online/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Как найти идею для микростартапа: полное руководство по поиску и валидации идей</title>
-      <link>https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/</link>
-      <pubDate>Mon, 06 Jan 2025 12:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/posts/images/kak-nayti-ideyu-microstartapa/telegram-cloud-photo-size-2-5393067744011423134-y.jpg&#34; alt=&#34;Карта поиска идей&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Микростартапы</title><link>https://ch12ms.online/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B/</link><description>Recent content in Микростартапы on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B/index.xml" rel="self" type="application/rss+xml"/><item><title>Как найти идею для микростартапа: полное руководство по поиску и валидации идей</title><link>https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/</link><pubDate>Mon, 06 Jan 2025 12:00:00 +0300</pubDate><guid>https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/</guid><description>
+&lt;p&gt;&lt;img src="https://ch12ms.online/posts/images/kak-nayti-ideyu-microstartapa/telegram-cloud-photo-size-2-5393067744011423134-y.jpg" alt="Карта поиска идей" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Один из самых частых вопросов, который я слышу от людей, интересующихся микростартапами - где брать идеи? Кажется, что все хорошие идеи уже заняты, что конкуренция везде огромная, и что найти что-то новое практически невозможно. Но на самом деле идей вокруг нас больше, чем кажется. Просто нужно знать, где искать.&lt;/p&gt;
 &lt;p&gt;Эта статья - полное руководство по поиску и валидации идей для микростартапов. В статье вы найдете исчерпывающий перечень методов генерации идей и конкретные источники, практические инструменты, кейсы успешных проектов и чек-лист, который поможет определить, стоит ли идея реализации.&lt;/p&gt;
 &lt;p&gt;Мы разберём систематический подход к поиску идей, начиная с базового принципа &amp;ldquo;сначала боль, потом идея&amp;rdquo;, через структурированные методы генерации, конкретные источники, до практического pipeline превращения потока идей в реальные микростартапы.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;1. Введение: почему поиск идей - это не лотерея&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-введение-почему-поиск-идей---это-не-лотерея&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d0%be%d0%b8%d1%81%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d0%bb%d0%be%d1%82%d0%b5%d1%80%d0%b5%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Многие предприниматели ищут идеи &amp;ldquo;из воздуха&amp;rdquo; - ждут момента озарения, когда вдруг появится гениальная концепция, которая изменит мир. На самом деле, идеи для микростартапов почти никогда не берутся &amp;ldquo;из воздуха&amp;rdquo; - их системно выкапывают из чужих и своих процессов, используя набор подходов.&lt;/p&gt;
+&lt;h2&gt;1. Введение: почему поиск идей - это не лотерея&lt;span class="hx:absolute hx:-mt-20" id="1-введение-почему-поиск-идей---это-не-лотерея"&gt;&lt;/span&gt;
+&lt;a href="#1-%d0%b2%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d0%bf%d0%be%d0%b8%d1%81%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d0%bb%d0%be%d1%82%d0%b5%d1%80%d0%b5%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Многие предприниматели ищут идеи &amp;ldquo;из воздуха&amp;rdquo; - ждут момента озарения, когда вдруг появится гениальная концепция, которая изменит мир. На самом деле, идеи для микростартапов почти никогда не берутся &amp;ldquo;из воздуха&amp;rdquo; - их системно выкапывают из чужих и своих процессов, используя набор подходов.&lt;/p&gt;
 &lt;p&gt;Ключевое открытие:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Технические навыки больше не барьер для создания софтверного бизнеса.&lt;/p&gt;
-
+&lt;p&gt;Технические навыки больше не барьер для создания софтверного бизнеса.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;23-летний Blake Anderson зарабатывает $600,000 в месяц, создавая мобильные приложения с помощью ChatGPT, не умея программировать. Дэвид Бресслер построил Formula Bot - инструмент для генерации Excel-формул - с выручкой $220,000 в месяц, не написав ни строчки кода самостоятельно.&lt;/p&gt;
 &lt;p&gt;Доступность AI, no-code инструментов и платформенной инфраструктуры снизила барьеры входа в бизнес на 70-90%, создав беспрецедентные возможности для индивидуальных основателей и малых команд. Сегодня для запуска успешного продукта гораздо важнее умение находить реальную проблему и понимать потребности клиента, чем обладать глубокими техническими навыками.&lt;/p&gt;
@@ -50,12 +24,12 @@
 &lt;li&gt;Практическое задание для применения знаний&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;2. Базовый принцип: сначала боль, потом идея&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-базовый-принцип-сначала-боль-потом-идея&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bd%d1%86%d0%b8%d0%bf-%d1%81%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%b0-%d0%b1%d0%be%d0%bb%d1%8c-%d0%bf%d0%be%d1%82%d0%be%d0%bc-%d0%b8%d0%b4%d0%b5%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1. Problem-first подход: почему это работает&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;21-problem-first-подход-почему-это-работает&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#21-problem-first-%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d1%8d%d1%82%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Для микростартапов особенно хорошо работает &lt;strong&gt;problem-first подход&lt;/strong&gt;: сначала находишь узкую, повторяющуюся боль в понятной тебе аудитории, потом придумываешь автоматизацию вокруг неё.&lt;/p&gt;
+&lt;h2&gt;2. Базовый принцип: сначала боль, потом идея&lt;span class="hx:absolute hx:-mt-20" id="2-базовый-принцип-сначала-боль-потом-идея"&gt;&lt;/span&gt;
+&lt;a href="#2-%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bd%d1%86%d0%b8%d0%bf-%d1%81%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d0%b0-%d0%b1%d0%be%d0%bb%d1%8c-%d0%bf%d0%be%d1%82%d0%be%d0%bc-%d0%b8%d0%b4%d0%b5%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;2.1. Problem-first подход: почему это работает&lt;span class="hx:absolute hx:-mt-20" id="21-problem-first-подход-почему-это-работает"&gt;&lt;/span&gt;
+&lt;a href="#21-problem-first-%d0%bf%d0%be%d0%b4%d1%85%d0%be%d0%b4-%d0%bf%d0%be%d1%87%d0%b5%d0%bc%d1%83-%d1%8d%d1%82%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Для микростартапов особенно хорошо работает &lt;strong&gt;problem-first подход&lt;/strong&gt;: сначала находишь узкую, повторяющуюся боль в понятной тебе аудитории, потом придумываешь автоматизацию вокруг неё.&lt;/p&gt;
 &lt;p&gt;Это принципиально отличается от подхода &amp;ldquo;idea-first&amp;rdquo;, когда сначала придумывается идея, а потом ищутся люди, которым она может быть нужна. Problem-first подход начинается с реальной проблемы, которую люди испытывают прямо сейчас, и для которой они уже готовы платить.&lt;/p&gt;
-&lt;h3&gt;2.2. Типы болей, из которых растут микростартапы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;22-типы-болей-из-которых-растут-микростартапы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#22-%d1%82%d0%b8%d0%bf%d1%8b-%d0%b1%d0%be%d0%bb%d0%b5%d0%b9-%d0%b8%d0%b7-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d1%85-%d1%80%d0%b0%d1%81%d1%82%d1%83%d1%82-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Какие боли лучше всего подходят для микростартапов? Вот основные категории:&lt;/p&gt;
+&lt;h3&gt;2.2. Типы болей, из которых растут микростартапы&lt;span class="hx:absolute hx:-mt-20" id="22-типы-болей-из-которых-растут-микростартапы"&gt;&lt;/span&gt;
+&lt;a href="#22-%d1%82%d0%b8%d0%bf%d1%8b-%d0%b1%d0%be%d0%bb%d0%b5%d0%b9-%d0%b8%d0%b7-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d1%85-%d1%80%d0%b0%d1%81%d1%82%d1%83%d1%82-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Какие боли лучше всего подходят для микростартапов? Вот основные категории:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Повторяющиеся ручные действия в бизнес-процессах:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Отчёты, которые готовятся вручную каждый день/неделю/месяц&lt;/li&gt;
@@ -81,8 +55,8 @@
 &lt;li&gt;Решения, которые слишком сложные для простых задач&lt;/li&gt;
 &lt;li&gt;Инструменты, которые слишком дорогие для малого бизнеса&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2.3. Личный опыт как источник идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;23-личный-опыт-как-источник-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#23-%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9-%d0%be%d0%bf%d1%8b%d1%82-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Начните с собственного опыта. Какие проблемы вы решаете каждый день? Что раздражает в работе? Какие задачи выполняете вручную, хотя они могли бы быть автоматизированы?&lt;/p&gt;
+&lt;h3&gt;2.3. Личный опыт как источник идей&lt;span class="hx:absolute hx:-mt-20" id="23-личный-опыт-как-источник-идей"&gt;&lt;/span&gt;
+&lt;a href="#23-%d0%bb%d0%b8%d1%87%d0%bd%d1%8b%d0%b9-%d0%be%d0%bf%d1%8b%d1%82-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Начните с собственного опыта. Какие проблемы вы решаете каждый день? Что раздражает в работе? Какие задачи выполняете вручную, хотя они могли бы быть автоматизированы?&lt;/p&gt;
 &lt;p&gt;Часто лучшие идеи приходят из личной боли. Вы знаете проблему изнутри, понимаете, что именно не работает, и можете предложить решение, которое действительно нужно.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Практика:&lt;/strong&gt; Неделю фиксируйте все раздражающие рутинные действия - свои и ваших клиентов. Каждый кейс превращайте в потенциальную &amp;ldquo;фичу-сервис&amp;rdquo;. Записывайте:&lt;/p&gt;
 &lt;ul&gt;
@@ -94,10 +68,10 @@
 &lt;/ul&gt;
 &lt;p&gt;После недели у вас будет список из 20-30 потенциальных идей, основанных на реальных проблемах.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;3. Структурированные методы генерации идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-структурированные-методы-генерации-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы понимаете базовый принцип problem-first подхода, перейдём к структурированным методам генерации идей. Эти методы помогут систематизировать процесс поиска и создать поток потенциальных идей.&lt;/p&gt;
-&lt;h3&gt;3.1. Метод 10-10-10: системная генерация идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;31-метод-10-10-10-системная-генерация-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#31-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-10-10-10-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%bd%d0%b0%d1%8f-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Метод 10-10-10 - это методика из indie-hacker среды, которая помогает создать поле из 20-30 адекватных вариантов и увидеть паттерны.&lt;/p&gt;
+&lt;h2&gt;3. Структурированные методы генерации идей&lt;span class="hx:absolute hx:-mt-20" id="3-структурированные-методы-генерации-идей"&gt;&lt;/span&gt;
+&lt;a href="#3-%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d1%8b-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы понимаете базовый принцип problem-first подхода, перейдём к структурированным методам генерации идей. Эти методы помогут систематизировать процесс поиска и создать поток потенциальных идей.&lt;/p&gt;
+&lt;h3&gt;3.1. Метод 10-10-10: системная генерация идей&lt;span class="hx:absolute hx:-mt-20" id="31-метод-10-10-10-системная-генерация-идей"&gt;&lt;/span&gt;
+&lt;a href="#31-%d0%bc%d0%b5%d1%82%d0%be%d0%b4-10-10-10-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d0%bd%d0%b0%d1%8f-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Метод 10-10-10 - это методика из indie-hacker среды, которая помогает создать поле из 20-30 адекватных вариантов и увидеть паттерны.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как это работает:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;10 болей&lt;/strong&gt; в конкретной нише (например, владельцы онлайн-курсов, владельцы маркетплейсов и т.п.)&lt;/li&gt;
@@ -145,19 +119,18 @@
 &lt;li&gt;Бесплатный инструмент с премиум-функциями&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Цель метода:&lt;/strong&gt; Не получить одну &amp;ldquo;идеальную&amp;rdquo; идею, а создать поле из 20-30 адекватных вариантов и увидеть паттерны. Часто лучшая идея появляется не сразу, а после анализа множества вариантов.&lt;/p&gt;
-&lt;h3&gt;3.2. Intersection Method: пересечение компетенций&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;32-intersection-method-пересечение-компетенций&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#32-intersection-method-%d0%bf%d0%b5%d1%80%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%b5%d1%82%d0%b5%d0%bd%d1%86%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intersection Method (метод пересечения) - это подход &amp;ldquo;ищи пересечение&amp;rdquo; ваших компетенций, болей аудитории и трендов.&lt;/p&gt;
+&lt;h3&gt;3.2. Intersection Method: пересечение компетенций&lt;span class="hx:absolute hx:-mt-20" id="32-intersection-method-пересечение-компетенций"&gt;&lt;/span&gt;
+&lt;a href="#32-intersection-method-%d0%bf%d0%b5%d1%80%d0%b5%d1%81%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%b5%d1%82%d0%b5%d0%bd%d1%86%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Intersection Method (метод пересечения) - это подход &amp;ldquo;ищи пересечение&amp;rdquo; ваших компетенций, болей аудитории и трендов.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Формула:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;Ваши компетенции × Болевые точки аудитории × Тренды = Идея микростартапа&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Ваши компетенции × Болевые точки аудитории × Тренды = Идея микростартапа&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Как применять:&lt;/strong&gt;&lt;/p&gt;
@@ -170,49 +143,49 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Пример матрицы:&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Компетенции / Сегменты&lt;/th&gt;
-          &lt;th&gt;Владельцы курсов&lt;/th&gt;
-          &lt;th&gt;Владельцы маркетплейсов&lt;/th&gt;
-          &lt;th&gt;Инфлюенсеры&lt;/th&gt;
-          &lt;th&gt;Малый бизнес&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;n8n автоматизация&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Авто-выдача сертификатов&lt;/td&gt;
-          &lt;td&gt;Авто-обработка заказов&lt;/td&gt;
-          &lt;td&gt;Авто-постинг&lt;/td&gt;
-          &lt;td&gt;Авто-отчёты&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;AI-ассистенты&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;AI-ответы на вопросы&lt;/td&gt;
-          &lt;td&gt;AI-поддержка клиентов&lt;/td&gt;
-          &lt;td&gt;AI-контент&lt;/td&gt;
-          &lt;td&gt;AI-менеджер&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Бизнес-процессы&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Оптимизация воронки&lt;/td&gt;
-          &lt;td&gt;Автоматизация склада&lt;/td&gt;
-          &lt;td&gt;Аналитика контента&lt;/td&gt;
-          &lt;td&gt;Оптимизация процессов&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Финмодели&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;ROI курсов&lt;/td&gt;
-          &lt;td&gt;Прибыльность товаров&lt;/td&gt;
-          &lt;td&gt;Монетизация&lt;/td&gt;
-          &lt;td&gt;Управление финансами&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Компетенции / Сегменты&lt;/th&gt;
+&lt;th&gt;Владельцы курсов&lt;/th&gt;
+&lt;th&gt;Владельцы маркетплейсов&lt;/th&gt;
+&lt;th&gt;Инфлюенсеры&lt;/th&gt;
+&lt;th&gt;Малый бизнес&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;n8n автоматизация&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Авто-выдача сертификатов&lt;/td&gt;
+&lt;td&gt;Авто-обработка заказов&lt;/td&gt;
+&lt;td&gt;Авто-постинг&lt;/td&gt;
+&lt;td&gt;Авто-отчёты&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;AI-ассистенты&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;AI-ответы на вопросы&lt;/td&gt;
+&lt;td&gt;AI-поддержка клиентов&lt;/td&gt;
+&lt;td&gt;AI-контент&lt;/td&gt;
+&lt;td&gt;AI-менеджер&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Бизнес-процессы&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;Оптимизация воронки&lt;/td&gt;
+&lt;td&gt;Автоматизация склада&lt;/td&gt;
+&lt;td&gt;Аналитика контента&lt;/td&gt;
+&lt;td&gt;Оптимизация процессов&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Финмодели&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;ROI курсов&lt;/td&gt;
+&lt;td&gt;Прибыльность товаров&lt;/td&gt;
+&lt;td&gt;Монетизация&lt;/td&gt;
+&lt;td&gt;Управление финансами&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;На пересечении&lt;/strong&gt; &amp;ldquo;AI-ассистенты&amp;rdquo; × &amp;ldquo;Владельцы курсов&amp;rdquo; = &amp;ldquo;AI-помощник для кураторов курсов, который отвечает на вопросы студентов на основе материалов курса&amp;rdquo;&lt;/p&gt;
-&lt;h3&gt;3.3. SCAMPER: улучшение существующих продуктов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;33-scamper-улучшение-существующих-продуктов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#33-scamper-%d1%83%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d1%83%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;SCAMPER - это framework для систематической модификации существующих идей через семь линз. Если есть понятный софт в нише, но он &amp;ldquo;бесит&amp;rdquo; пользователей, можно пройтись по нему через SCAMPER.&lt;/p&gt;
+&lt;h3&gt;3.3. SCAMPER: улучшение существующих продуктов&lt;span class="hx:absolute hx:-mt-20" id="33-scamper-улучшение-существующих-продуктов"&gt;&lt;/span&gt;
+&lt;a href="#33-scamper-%d1%83%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%b8%d0%b5-%d1%81%d1%83%d1%89%d0%b5%d1%81%d1%82%d0%b2%d1%83%d1%8e%d1%89%d0%b8%d1%85-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;SCAMPER - это framework для систематической модификации существующих идей через семь линз. Если есть понятный софт в нише, но он &amp;ldquo;бесит&amp;rdquo; пользователей, можно пройтись по нему через SCAMPER.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;S - Substitute (Заменить):&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Что можно заменить AI/автоматом?&lt;/li&gt;
@@ -257,8 +230,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Часто идея микро-SaaS (читай, микростартап) = &amp;ldquo;срезанный&amp;rdquo; и радикально упрощённый существующий продукт с одним хорошо решённым сценарием.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Пример: Notion - это упрощённая версия комплексных систем управления проектами, сфокусированная на простоте и гибкости.&lt;/p&gt;
-&lt;h3&gt;3.4. White Space Analysis: анализ белых пятен рынка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;34-white-space-analysis-анализ-белых-пятен-рынка&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#34-white-space-analysis-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7-%d0%b1%d0%b5%d0%bb%d1%8b%d1%85-%d0%bf%d1%8f%d1%82%d0%b5%d0%bd-%d1%80%d1%8b%d0%bd%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;White Space Analysis - систематический метод обнаружения неосвоенных возможностей через пятиступенчатый процесс:&lt;/p&gt;
+&lt;h3&gt;3.4. White Space Analysis: анализ белых пятен рынка&lt;span class="hx:absolute hx:-mt-20" id="34-white-space-analysis-анализ-белых-пятен-рынка"&gt;&lt;/span&gt;
+&lt;a href="#34-white-space-analysis-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7-%d0%b1%d0%b5%d0%bb%d1%8b%d1%85-%d0%bf%d1%8f%d1%82%d0%b5%d0%bd-%d1%80%d1%8b%d0%bd%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;White Space Analysis - систематический метод обнаружения неосвоенных возможностей через пятиступенчатый процесс:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Определите scope&lt;/strong&gt; (область или границы исследования, проекта или анализа) - сузьте фокус до специфических категорий вместо попытки охватить всё&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Соберите данные&lt;/strong&gt; - через онлайн-опросы, качественное исследование, мониторинг социальных медиа&lt;/li&gt;
@@ -273,8 +246,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Пример:&lt;/strong&gt;
 Клиенты хотят экологичную упаковку, но ни один поставщик в нише не предлагает её - это white space. Вы можете стать первым, кто закроет эту потребность.&lt;/p&gt;
-&lt;h3&gt;3.5. Арбитраж рынка как источник идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;35-арбитраж-рынка-как-источник-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#35-%d0%b0%d1%80%d0%b1%d0%b8%d1%82%d1%80%d0%b0%d0%b6-%d1%80%d1%8b%d0%bd%d0%ba%d0%b0-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Арбитраж - это практическое использование рыночных неэффективностей (цена, правила, доступ, внимание) как постоянный источник идей для микро-бизнесов. Находите асимметрию, упаковываете решение и монетизируете спред или эффективность.&lt;/p&gt;
+&lt;h3&gt;3.5. Арбитраж рынка как источник идей&lt;span class="hx:absolute hx:-mt-20" id="35-арбитраж-рынка-как-источник-идей"&gt;&lt;/span&gt;
+&lt;a href="#35-%d0%b0%d1%80%d0%b1%d0%b8%d1%82%d1%80%d0%b0%d0%b6-%d1%80%d1%8b%d0%bd%d0%ba%d0%b0-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Арбитраж - это практическое использование рыночных неэффективностей (цена, правила, доступ, внимание) как постоянный источник идей для микро-бизнесов. Находите асимметрию, упаковываете решение и монетизируете спред или эффективность.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Основные виды арбитража:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Сервисный арбитраж:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -303,8 +276,8 @@
 &lt;li&gt;Закупка вне сезона, хранение до пика&lt;/li&gt;
 &lt;li&gt;Пример: Покупка рождественских украшений в январе, продажа в декабре&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3.6. Когнитивные техники генерации идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;36-когнитивные-техники-генерации-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#36-%d0%ba%d0%be%d0%b3%d0%bd%d0%b8%d1%82%d0%b8%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b8-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Когнитивные техники помогают выйти за рамки привычного мышления и найти неочевидные решения.&lt;/p&gt;
+&lt;h3&gt;3.6. Когнитивные техники генерации идей&lt;span class="hx:absolute hx:-mt-20" id="36-когнитивные-техники-генерации-идей"&gt;&lt;/span&gt;
+&lt;a href="#36-%d0%ba%d0%be%d0%b3%d0%bd%d0%b8%d1%82%d0%b8%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d0%ba%d0%b8-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Когнитивные техники помогают выйти за рамки привычного мышления и найти неочевидные решения.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Латеральное мышление (Edward de Bono):&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Метод случайного входа:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -372,10 +345,10 @@
 &lt;li&gt;Критично использовать AI для синтеза и анализа, не для сырого сбора данных&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;4. Где искать идеи: конкретные источники&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-где-искать-идеи-конкретные-источники&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%d0%b3%d0%b4%d0%b5-%d0%b8%d1%81%d0%ba%d0%b0%d1%82%d1%8c-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%ba%d0%be%d0%bd%d0%ba%d1%80%d0%b5%d1%82%d0%bd%d1%8b%d0%b5-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы знаете методы генерации идей, перейдём к конкретным источникам, где можно найти проблемы и идеи для микростартапов.&lt;/p&gt;
-&lt;h3&gt;4.1. Сообщества и площадки, где люди жалуются&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;41-сообщества-и-площадки-где-люди-жалуются&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#41-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d0%b8-%d0%bf%d0%bb%d0%be%d1%89%d0%b0%d0%b4%d0%ba%d0%b8-%d0%b3%d0%b4%d0%b5-%d0%bb%d1%8e%d0%b4%d0%b8-%d0%b6%d0%b0%d0%bb%d1%83%d1%8e%d1%82%d1%81%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Reddit - золотая жила исследований:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;4. Где искать идеи: конкретные источники&lt;span class="hx:absolute hx:-mt-20" id="4-где-искать-идеи-конкретные-источники"&gt;&lt;/span&gt;
+&lt;a href="#4-%d0%b3%d0%b4%d0%b5-%d0%b8%d1%81%d0%ba%d0%b0%d1%82%d1%8c-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%ba%d0%be%d0%bd%d0%ba%d1%80%d0%b5%d1%82%d0%bd%d1%8b%d0%b5-%d0%b8%d1%81%d1%82%d0%be%d1%87%d0%bd%d0%b8%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы знаете методы генерации идей, перейдём к конкретным источникам, где можно найти проблемы и идеи для микростартапов.&lt;/p&gt;
+&lt;h3&gt;4.1. Сообщества и площадки, где люди жалуются&lt;span class="hx:absolute hx:-mt-20" id="41-сообщества-и-площадки-где-люди-жалуются"&gt;&lt;/span&gt;
+&lt;a href="#41-%d1%81%d0%be%d0%be%d0%b1%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0-%d0%b8-%d0%bf%d0%bb%d0%be%d1%89%d0%b0%d0%b4%d0%ba%d0%b8-%d0%b3%d0%b4%d0%b5-%d0%bb%d1%8e%d0%b4%d0%b8-%d0%b6%d0%b0%d0%bb%d1%83%d1%8e%d1%82%d1%81%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Reddit - золотая жила исследований:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Reddit недооценён как золотая жила исследований - 101.7 миллионов ежедневных активных пользователей, 40% интернет-юзеров считают Reddit рекомендации наиболее влиятельными для покупок, 97.5% SERP результатов теперь содержат Reddit посты.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ключевые сабреддиты для поиска идей:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -410,8 +383,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Тактика работы с сообществами:&lt;/strong&gt;
 Не просто читайте, а сохраняйте скрины/цитаты в &amp;ldquo;банк проблем&amp;rdquo; с тегами по нишам. Ведите базу проблем, к которой можете вернуться позже.&lt;/p&gt;
-&lt;h3&gt;4.2. Тренд-аналитические инструменты&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;42-тренд-аналитические-инструменты&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#42-%d1%82%d1%80%d0%b5%d0%bd%d0%b4-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://explodingtopics.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Exploding Topics&lt;/a&gt; - сервис для обнаружения трендов за 6-12 месяцев до мейнстрима:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;4.2. Тренд-аналитические инструменты&lt;span class="hx:absolute hx:-mt-20" id="42-тренд-аналитические-инструменты"&gt;&lt;/span&gt;
+&lt;a href="#42-%d1%82%d1%80%d0%b5%d0%bd%d0%b4-%d0%b0%d0%bd%d0%b0%d0%bb%d0%b8%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%bc%d0%b5%d0%bd%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://explodingtopics.com/"target="_blank" rel="noopener"&gt;Exploding Topics&lt;/a&gt; - сервис для обнаружения трендов за 6-12 месяцев до мейнстрима:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Exploding Topics анализирует миллионы поисков, разговоров, упоминаний через Reddit, Twitter, Google, идентифицируя тренды за 6-12 месяцев до массового распространения из базы 779,000+ отслеживаемых концепций.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как использовать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -420,7 +393,7 @@
 &lt;li&gt;Изучайте связанные тренды - часто рядом с одним трендом возникают другие возможности&lt;/li&gt;
 &lt;li&gt;Цена: от $39/месяц (Pro), есть бесплатная версия&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://sparktoro.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SparkToro&lt;/a&gt; - где аудитория тусуется и что обсуждает:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://sparktoro.com/"target="_blank" rel="noopener"&gt;SparkToro&lt;/a&gt; - где аудитория тусуется и что обсуждает:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;SparkToro показывает, где ваша аудитория hangout (места, где аудитория проводит время онлайн - платформы, сообщества и сайты, где ваша целевая аудитория активно общается и взаимодействует) онлайн и что обсуждает, включая трендовые темы, хештеги для вирального потенциала, демографику, психографику.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как использовать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -429,13 +402,13 @@
 &lt;li&gt;Найдите каналы для продвижения&lt;/li&gt;
 &lt;li&gt;Цена: от $38/месяц (Starter), есть бесплатная версия&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://frontpagestats.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Frontpagemetrics&lt;/a&gt; - отслеживание Reddit:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://frontpagestats.com/"target="_blank" rel="noopener"&gt;Frontpagemetrics&lt;/a&gt; - отслеживание Reddit:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Frontpagemetrics позволяет отслеживать 3M+ субреддитов, находить тренды, анализировать популярность тем.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://tacticalarbitrage.com/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tactical Arbitrage&lt;/a&gt; - для ретейл-сканов:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://tacticalarbitrage.com/"target="_blank" rel="noopener"&gt;Tactical Arbitrage&lt;/a&gt; - для ретейл-сканов:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Tactical Arbitrage сканирует 80+ миллионов продуктов на Amazon, находит арбитражные возможности без ручного поиска. Полезно для идей в e-commerce. Цена: от $80/месяц.&lt;/p&gt;
-&lt;p&gt;Российские аналоги приведены &lt;a href=&#34;https://dtf.ru/ai_review/3842421-sravnenie-luchshikh-servisov-analitiki-dlya-marketpleysov-v-rossii&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;тут&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;4.3. Экосистемы и маркетплейсы приложений&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;43-экосистемы-и-маркетплейсы-приложений&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#43-%d1%8d%d0%ba%d0%be%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b8-%d0%bc%d0%b0%d1%80%d0%ba%d0%b5%d1%82%d0%bf%d0%bb%d0%b5%d0%b9%d1%81%d1%8b-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Хороший источник идей - &lt;strong&gt;экосистемы и маркетплейсы приложений&lt;/strong&gt;, где пользователи уже ищут узкие решения.&lt;/p&gt;
+&lt;p&gt;Российские аналоги приведены &lt;a href="https://dtf.ru/ai_review/3842421-sravnenie-luchshikh-servisov-analitiki-dlya-marketpleysov-v-rossii"target="_blank" rel="noopener"&gt;тут&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;4.3. Экосистемы и маркетплейсы приложений&lt;span class="hx:absolute hx:-mt-20" id="43-экосистемы-и-маркетплейсы-приложений"&gt;&lt;/span&gt;
+&lt;a href="#43-%d1%8d%d0%ba%d0%be%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%b8-%d0%bc%d0%b0%d1%80%d0%ba%d0%b5%d1%82%d0%bf%d0%bb%d0%b5%d0%b9%d1%81%d1%8b-%d0%bf%d1%80%d0%b8%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Хороший источник идей - &lt;strong&gt;экосистемы и маркетплейсы приложений&lt;/strong&gt;, где пользователи уже ищут узкие решения.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;App Store&amp;rsquo;ы платформ:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Shopify App Store&lt;/strong&gt; - приложения для интернет-магазинов&lt;/li&gt;
@@ -460,53 +433,53 @@
 &lt;li&gt;AI-обработка отзывов&lt;/li&gt;
 &lt;li&gt;Автоматическая синхронизация данных&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Основные маркетплейсы приложений для популярных CRM/платформ в РФ — это встроенные каталоги расширений (приложений, виджетов, интеграций) у самих вендоров. Ниже — таблица по ключевым системам.&lt;a href=&#34;https://www.bitrix24.ru/apps/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bitrix24+7&lt;/a&gt;​&lt;/p&gt;
-&lt;h2&gt;Маркетплейсы сервисов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;маркетплейсы-сервисов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bc%d0%b0%d1%80%d0%ba%d0%b5%d1%82%d0%bf%d0%bb%d0%b5%d0%b9%d1%81%d1%8b-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Платформа / класс&lt;/th&gt;
-          &lt;th&gt;Название маркетплейса / каталога&lt;/th&gt;
-          &lt;th&gt;Тип расширений&lt;/th&gt;
-          &lt;th&gt;Кратко, что даёт&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Bitrix24&lt;/td&gt;
-          &lt;td&gt;Bitrix24.Маркет (Битрикс24 Маркетплейс)&lt;/td&gt;
-          &lt;td&gt;Приложения, виджеты, интеграции&lt;/td&gt;
-          &lt;td&gt;Расширение CRM, задач, телефонии, интеграции с мессенджерами, банками, маркетплейсами и др.&lt;a href=&#34;https://www.bitrix24.ru/apps/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;bitrix24+3&lt;/a&gt;​&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;amoCRM&lt;/td&gt;
-          &lt;td&gt;Каталог виджетов / «Дополнения amoCRM»&lt;/td&gt;
-          &lt;td&gt;Виджеты и интеграции&lt;/td&gt;
-          &lt;td&gt;Телефония, мессенджеры, формы сайтов, платежи, склад, маркетинг, аналитика и автоматизация на базе виджетов.&lt;a href=&#34;https://cmdf5.ru/widjety-amocrm&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cmdf5+3&lt;/a&gt;​&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;SaaS‑CRM (обзорный класс)&lt;/td&gt;
-          &lt;td&gt;Встроенные каталоги у ELMA365, RetailCRM, SberCRM и др.&lt;/td&gt;
-          &lt;td&gt;Интеграции, модули&lt;/td&gt;
-          &lt;td&gt;Подключение телефонии, 1С, маркетплейсов, почты, мессенджеров через каталоги интеграций или low‑code‑модули.&lt;a href=&#34;https://www.crm2web.ru/tags/saas_crm/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;crm2web+1&lt;/a&gt;​&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;E‑commerce платформы&lt;/td&gt;
-          &lt;td&gt;Каталоги приложений у RetailCRM, конструкторов сайтов и магазинов&lt;/td&gt;
-          &lt;td&gt;Плагины, модули, интеграции&lt;/td&gt;
-          &lt;td&gt;Оплата, доставка, фулфилмент, маркетинг и сквозная аналитика через готовые модули.&lt;a href=&#34;https://it-solution.ru/bitriks24_market/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;it-solution+2&lt;/a&gt;​&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Платформы интеграции&lt;/td&gt;
-          &lt;td&gt;Каталоги связок у Albato и аналогов&lt;/td&gt;
-          &lt;td&gt;Коннекторы и сценарии&lt;/td&gt;
-          &lt;td&gt;Маркетплейс готовых интеграций между CRM, мессенджерами, лендингами, рекламой и аналитикой.&lt;a href=&#34;https://marketing-tech.ru/online-services_tags/connectors/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;marketing-tech&lt;/a&gt;​&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+&lt;p&gt;Основные маркетплейсы приложений для популярных CRM/платформ в РФ — это встроенные каталоги расширений (приложений, виджетов, интеграций) у самих вендоров. Ниже — таблица по ключевым системам.&lt;a href="https://www.bitrix24.ru/apps/"target="_blank" rel="noopener"&gt;bitrix24+7&lt;/a&gt;​&lt;/p&gt;
+&lt;h2&gt;Маркетплейсы сервисов&lt;span class="hx:absolute hx:-mt-20" id="маркетплейсы-сервисов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bc%d0%b0%d1%80%d0%ba%d0%b5%d1%82%d0%bf%d0%bb%d0%b5%d0%b9%d1%81%d1%8b-%d1%81%d0%b5%d1%80%d0%b2%d0%b8%d1%81%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Платформа / класс&lt;/th&gt;
+&lt;th&gt;Название маркетплейса / каталога&lt;/th&gt;
+&lt;th&gt;Тип расширений&lt;/th&gt;
+&lt;th&gt;Кратко, что даёт&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Bitrix24&lt;/td&gt;
+&lt;td&gt;Bitrix24.Маркет (Битрикс24 Маркетплейс)&lt;/td&gt;
+&lt;td&gt;Приложения, виджеты, интеграции&lt;/td&gt;
+&lt;td&gt;Расширение CRM, задач, телефонии, интеграции с мессенджерами, банками, маркетплейсами и др.&lt;a href="https://www.bitrix24.ru/apps/"target="_blank" rel="noopener"&gt;bitrix24+3&lt;/a&gt;​&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;amoCRM&lt;/td&gt;
+&lt;td&gt;Каталог виджетов / «Дополнения amoCRM»&lt;/td&gt;
+&lt;td&gt;Виджеты и интеграции&lt;/td&gt;
+&lt;td&gt;Телефония, мессенджеры, формы сайтов, платежи, склад, маркетинг, аналитика и автоматизация на базе виджетов.&lt;a href="https://cmdf5.ru/widjety-amocrm"target="_blank" rel="noopener"&gt;cmdf5+3&lt;/a&gt;​&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;SaaS‑CRM (обзорный класс)&lt;/td&gt;
+&lt;td&gt;Встроенные каталоги у ELMA365, RetailCRM, SberCRM и др.&lt;/td&gt;
+&lt;td&gt;Интеграции, модули&lt;/td&gt;
+&lt;td&gt;Подключение телефонии, 1С, маркетплейсов, почты, мессенджеров через каталоги интеграций или low‑code‑модули.&lt;a href="https://www.crm2web.ru/tags/saas_crm/"target="_blank" rel="noopener"&gt;crm2web+1&lt;/a&gt;​&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;E‑commerce платформы&lt;/td&gt;
+&lt;td&gt;Каталоги приложений у RetailCRM, конструкторов сайтов и магазинов&lt;/td&gt;
+&lt;td&gt;Плагины, модули, интеграции&lt;/td&gt;
+&lt;td&gt;Оплата, доставка, фулфилмент, маркетинг и сквозная аналитика через готовые модули.&lt;a href="https://it-solution.ru/bitriks24_market/"target="_blank" rel="noopener"&gt;it-solution+2&lt;/a&gt;​&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Платформы интеграции&lt;/td&gt;
+&lt;td&gt;Каталоги связок у Albato и аналогов&lt;/td&gt;
+&lt;td&gt;Коннекторы и сценарии&lt;/td&gt;
+&lt;td&gt;Маркетплейс готовых интеграций между CRM, мессенджерами, лендингами, рекламой и аналитикой.&lt;a href="https://marketing-tech.ru/online-services_tags/connectors/"target="_blank" rel="noopener"&gt;marketing-tech&lt;/a&gt;​&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;Если нужны детально: можно отдельно расписать по каждому вендору (Bitrix24, amoCRM, ELMA365, RetailCRM и т.д.) список категорий приложений и типовые ценовые модели маркетплейсов.&lt;/p&gt;
-&lt;h3&gt;4.4. Готовые подборки идей (как карты, не для копирования)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;44-готовые-подборки-идей-как-карты-не-для-копирования&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#44-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d1%8b%d0%b5-%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80%d0%ba%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9-%d0%ba%d0%b0%d0%ba-%d0%ba%d0%b0%d1%80%d1%82%d1%8b-%d0%bd%d0%b5-%d0%b4%d0%bb%d1%8f-%d0%ba%d0%be%d0%bf%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Есть сайты и рассылки с разборами микро-SaaS идей, но используйте их не как &amp;ldquo;список идей, что копировать&amp;rdquo;, а как карту: какие типы задач монетизируются, какие паттерны повторяются.&lt;/p&gt;
+&lt;h3&gt;4.4. Готовые подборки идей (как карты, не для копирования)&lt;span class="hx:absolute hx:-mt-20" id="44-готовые-подборки-идей-как-карты-не-для-копирования"&gt;&lt;/span&gt;
+&lt;a href="#44-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d1%8b%d0%b5-%d0%bf%d0%be%d0%b4%d0%b1%d0%be%d1%80%d0%ba%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b9-%d0%ba%d0%b0%d0%ba-%d0%ba%d0%b0%d1%80%d1%82%d1%8b-%d0%bd%d0%b5-%d0%b4%d0%bb%d1%8f-%d0%ba%d0%be%d0%bf%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Есть сайты и рассылки с разборами микро-SaaS идей, но используйте их не как &amp;ldquo;список идей, что копировать&amp;rdquo;, а как карту: какие типы задач монетизируются, какие паттерны повторяются.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;UnoiaTech:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Описывает источники идей (маркетплейсы, конкуренты, продуктовые сервисы)&lt;/li&gt;
@@ -536,8 +509,8 @@
 &lt;li&gt;Какие бизнес-модели работают?&lt;/li&gt;
 &lt;li&gt;Какие инструменты используются?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4.5. Скучные ниши - золотые жилы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;45-скучные-ниши---золотые-жилы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#45-%d1%81%d0%ba%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%bd%d0%b8%d1%88%d0%b8---%d0%b7%d0%be%d0%bb%d0%be%d1%82%d1%8b%d0%b5-%d0%b6%d0%b8%d0%bb%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Почему &amp;ldquo;скучные&amp;rdquo; бизнесы часто прибыльнее:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;4.5. Скучные ниши - золотые жилы&lt;span class="hx:absolute hx:-mt-20" id="45-скучные-ниши---золотые-жилы"&gt;&lt;/span&gt;
+&lt;a href="#45-%d1%81%d0%ba%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%bd%d0%b8%d1%88%d0%b8---%d0%b7%d0%be%d0%bb%d0%be%d1%82%d1%8b%d0%b5-%d0%b6%d0%b8%d0%bb%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Почему &amp;ldquo;скучные&amp;rdquo; бизнесы часто прибыльнее:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Скучные&amp;rdquo; не значит легкий. Это просто работа, которой ты бы не хотел заниматься, когда рос. Типа, никто не решает в 15 лет: &amp;ldquo;Хочу стать сантехником&amp;rdquo;. Именно поэтому такие бизнесы процветают - они сталкиваются с меньшей конкуренцией, имеют стабильный спрос и строятся на понятных, проверенных временем бизнес-моделях.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Примеры &amp;ldquo;скучных&amp;rdquo; микростартапов:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -563,10 +536,10 @@
 &lt;li&gt;Проверенные бизнес-модели&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;5. Как превратить поток идей в рабочий pipeline&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-как-превратить-поток-идей-в-рабочий-pipeline&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-%d0%ba%d0%b0%d0%ba-%d0%bf%d1%80%d0%b5%d0%b2%d1%80%d0%b0%d1%82%d0%b8%d1%82%d1%8c-%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9-%d0%b2-%d1%80%d0%b0%d0%b1%d0%be%d1%87%d0%b8%d0%b9-pipeline&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Итак, теперь у вас есть методы генерации идей и источники, где их искать. Но как превратить поток идей в реальные микростартапы? Нужен систематический pipeline: генерация → фильтрация → валидация.&lt;/p&gt;
-&lt;h3&gt;5.1. Этап 1: Сбор идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;51-этап-1-сбор-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#51-%d1%8d%d1%82%d0%b0%d0%bf-1-%d1%81%d0%b1%d0%be%d1%80-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ежедневно: минимум 3-5 записанных &amp;ldquo;болей&amp;rdquo; или неэффективных процессов&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;5. Как превратить поток идей в рабочий pipeline&lt;span class="hx:absolute hx:-mt-20" id="5-как-превратить-поток-идей-в-рабочий-pipeline"&gt;&lt;/span&gt;
+&lt;a href="#5-%d0%ba%d0%b0%d0%ba-%d0%bf%d1%80%d0%b5%d0%b2%d1%80%d0%b0%d1%82%d0%b8%d1%82%d1%8c-%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b8%d0%b4%d0%b5%d0%b9-%d0%b2-%d1%80%d0%b0%d0%b1%d0%be%d1%87%d0%b8%d0%b9-pipeline" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Итак, теперь у вас есть методы генерации идей и источники, где их искать. Но как превратить поток идей в реальные микростартапы? Нужен систематический pipeline: генерация → фильтрация → валидация.&lt;/p&gt;
+&lt;h3&gt;5.1. Этап 1: Сбор идей&lt;span class="hx:absolute hx:-mt-20" id="51-этап-1-сбор-идей"&gt;&lt;/span&gt;
+&lt;a href="#51-%d1%8d%d1%82%d0%b0%d0%bf-1-%d1%81%d0%b1%d0%be%d1%80-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ежедневно: минимум 3-5 записанных &amp;ldquo;болей&amp;rdquo; или неэффективных процессов&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Источники для ежедневного сбора:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Ваши собственные процессы (что раздражает в работе?)&lt;/li&gt;
@@ -589,23 +562,22 @@
 &lt;li&gt;на худой конец просто заметочник в вашем телефоне&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Пример записи:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Проблема: Владельцы онлайн-курсов тратят 3 часа в день на ответы на вопросы студентов
 Контекст: Курсы с 100&amp;#43; студентами, вопросы повторяются
 Источник: /r/Teachers, пост с 500&amp;#43; upvotes
-Тег: #образование #автоматизация&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Тег: #образование #автоматизация&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;5.2. Этап 2: Грубая фильтрация (раз в неделю)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;52-этап-2-грубая-фильтрация-раз-в-неделю&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#52-%d1%8d%d1%82%d0%b0%d0%bf-2-%d0%b3%d1%80%d1%83%d0%b1%d0%b0%d1%8f-%d1%84%d0%b8%d0%bb%d1%8c%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%80%d0%b0%d0%b7-%d0%b2-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d1%8e&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Отбрасываете всё, что:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;5.2. Этап 2: Грубая фильтрация (раз в неделю)&lt;span class="hx:absolute hx:-mt-20" id="52-этап-2-грубая-фильтрация-раз-в-неделю"&gt;&lt;/span&gt;
+&lt;a href="#52-%d1%8d%d1%82%d0%b0%d0%bf-2-%d0%b3%d1%80%d1%83%d0%b1%d0%b0%d1%8f-%d1%84%d0%b8%d0%bb%d1%8c%d1%82%d1%80%d0%b0%d1%86%d0%b8%d1%8f-%d1%80%d0%b0%d0%b7-%d0%b2-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d1%8e" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Отбрасываете всё, что:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Требует тяжёлых интеграций без явной окупаемости:&lt;/strong&gt;&lt;/p&gt;
@@ -638,8 +610,8 @@
 &lt;li&gt;Валидируемые (можно быстро проверить спрос)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; Из 20-30 идей остаётся 3-5 перспективных&lt;/p&gt;
-&lt;h3&gt;5.3. Этап 3: Углубление по топ-3 идеям&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;53-этап-3-углубление-по-топ-3-идеям&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#53-%d1%8d%d1%82%d0%b0%d0%bf-3-%d1%83%d0%b3%d0%bb%d1%83%d0%b1%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be-%d1%82%d0%be%d0%bf-3-%d0%b8%d0%b4%d0%b5%d1%8f%d0%bc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Для каждой из топ-3 идей:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;5.3. Этап 3: Углубление по топ-3 идеям&lt;span class="hx:absolute hx:-mt-20" id="53-этап-3-углубление-по-топ-3-идеям"&gt;&lt;/span&gt;
+&lt;a href="#53-%d1%8d%d1%82%d0%b0%d0%bf-3-%d1%83%d0%b3%d0%bb%d1%83%d0%b1%d0%bb%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be-%d1%82%d0%be%d0%bf-3-%d0%b8%d0%b4%d0%b5%d1%8f%d0%bc" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Для каждой из топ-3 идей:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;10-15 диалогов с людьми, у кого эта боль:&lt;/strong&gt;&lt;/p&gt;
@@ -668,8 +640,8 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; Выбираете 1-2 идеи для дальнейшей работы&lt;/p&gt;
-&lt;h3&gt;5.4. Этап 4: Быстрая техническая оценка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;54-этап-4-быстрая-техническая-оценка&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#54-%d1%8d%d1%82%d0%b0%d0%bf-4-%d0%b1%d1%8b%d1%81%d1%82%d1%80%d0%b0%d1%8f-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%86%d0%b5%d0%bd%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Для выбранной идеи:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;5.4. Этап 4: Быстрая техническая оценка&lt;span class="hx:absolute hx:-mt-20" id="54-этап-4-быстрая-техническая-оценка"&gt;&lt;/span&gt;
+&lt;a href="#54-%d1%8d%d1%82%d0%b0%d0%bf-4-%d0%b1%d1%8b%d1%81%d1%82%d1%80%d0%b0%d1%8f-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%86%d0%b5%d0%bd%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Для выбранной идеи:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Можно ли реализовать с помощью доступных инструментов?&lt;/strong&gt;&lt;/p&gt;
@@ -698,8 +670,8 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; Одна идея с планом реализации&lt;/p&gt;
-&lt;h3&gt;5.5. Короткий список реальных микростартапов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;55-короткий-список-реальных-микростартапов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#55-%d0%ba%d0%be%d1%80%d0%be%d1%82%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;После всех этапов у вас должен остаться &lt;strong&gt;короткий список&lt;/strong&gt; из 1-2 идей, которые:&lt;/p&gt;
+&lt;h3&gt;5.5. Короткий список реальных микростартапов&lt;span class="hx:absolute hx:-mt-20" id="55-короткий-список-реальных-микростартапов"&gt;&lt;/span&gt;
+&lt;a href="#55-%d0%ba%d0%be%d1%80%d0%be%d1%82%d0%ba%d0%b8%d0%b9-%d1%81%d0%bf%d0%b8%d1%81%d0%be%d0%ba-%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;После всех этапов у вас должен остаться &lt;strong&gt;короткий список&lt;/strong&gt; из 1-2 идей, которые:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Решают реальную проблему&lt;/li&gt;
 &lt;li&gt;Есть готовность платить&lt;/li&gt;
@@ -708,10 +680,10 @@
 &lt;/ul&gt;
 &lt;p&gt;Эти идеи готовы к валидации и разработке MVP.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;6. Чек-лист валидации идеи&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-чек-лист-валидации-идеи&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Прежде чем начать разработку, проверьте идею по чек-листу валидации. Если хотя бы один пункт не выполнен - стоит доработать идею или найти другую.&lt;/p&gt;
-&lt;h3&gt;6.1. Проблема подтверждена&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;61-проблема-подтверждена&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#61-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема описана конкретно:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;6. Чек-лист валидации идеи&lt;span class="hx:absolute hx:-mt-20" id="6-чек-лист-валидации-идеи"&gt;&lt;/span&gt;
+&lt;a href="#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Прежде чем начать разработку, проверьте идею по чек-листу валидации. Если хотя бы один пункт не выполнен - стоит доработать идею или найти другую.&lt;/p&gt;
+&lt;h3&gt;6.1. Проблема подтверждена&lt;span class="hx:absolute hx:-mt-20" id="61-проблема-подтверждена"&gt;&lt;/span&gt;
+&lt;a href="#61-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема описана конкретно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ Не &amp;ldquo;люди хотят удобство&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;✅ А &amp;ldquo;менеджеры тратят 3 часа в день на подготовку отчётов&amp;rdquo;&lt;/li&gt;
@@ -726,8 +698,8 @@
 &lt;li&gt;Не раз в год, а хотя бы раз в неделю/месяц&lt;/li&gt;
 &lt;li&gt;Постоянная боль, а не разовая ситуация&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.2. Есть готовность платить&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;62-есть-готовность-платить&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#62-%d0%b5%d1%81%d1%82%d1%8c-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d1%82%d0%b8%d1%82%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;При опросе минимум 3 человек хотя бы один сказал, что готов платить за решение:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.2. Есть готовность платить&lt;span class="hx:absolute hx:-mt-20" id="62-есть-готовность-платить"&gt;&lt;/span&gt;
+&lt;a href="#62-%d0%b5%d1%81%d1%82%d1%8c-%d0%b3%d0%be%d1%82%d0%be%d0%b2%d0%bd%d0%be%d1%81%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d1%82%d0%b8%d1%82%d1%8c" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;При опросе минимум 3 человек хотя бы один сказал, что готов платить за решение:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Люди не просто подтверждают проблему, но и готовы её решить за деньги&lt;/li&gt;
 &lt;/ul&gt;
@@ -741,8 +713,8 @@
 &lt;li&gt;Не &amp;ldquo;хорошо бы, чтобы было&amp;rdquo;, а &amp;ldquo;необходимо, или остро необходимо&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Боль достаточно сильная, чтобы люди готовы были платить&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.3. Размер аудитории достаточен&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;63-размер-аудитории-достаточен&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#63-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80-%d0%b0%d1%83%d0%b4%d0%b8%d1%82%d0%be%d1%80%d0%b8%d0%b8-%d0%b4%d0%be%d1%81%d1%82%d0%b0%d1%82%d0%be%d1%87%d0%b5%d0%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Целевая аудитория определена конкретно:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.3. Размер аудитории достаточен&lt;span class="hx:absolute hx:-mt-20" id="63-размер-аудитории-достаточен"&gt;&lt;/span&gt;
+&lt;a href="#63-%d1%80%d0%b0%d0%b7%d0%bc%d0%b5%d1%80-%d0%b0%d1%83%d0%b4%d0%b8%d1%82%d0%be%d1%80%d0%b8%d0%b8-%d0%b4%d0%be%d1%81%d1%82%d0%b0%d1%82%d0%be%d1%87%d0%b5%d0%bd" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Целевая аудитория определена конкретно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ Не &amp;ldquo;все предприниматели&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;✅ А &amp;ldquo;владельцы малого бизнеса в сфере услуг с 5-20 сотрудниками&amp;rdquo;&lt;/li&gt;
@@ -757,8 +729,8 @@
 &lt;li&gt;Минимум 1000-10000 потенциальных клиентов&lt;/li&gt;
 &lt;li&gt;Рынок достаточно большой&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.4. Конкуренты изучены&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;64-конкуренты-изучены&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#64-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8%d0%b7%d1%83%d1%87%d0%b5%d0%bd%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Найдено минимум 3 конкурента или альтернативных решения:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.4. Конкуренты изучены&lt;span class="hx:absolute hx:-mt-20" id="64-конкуренты-изучены"&gt;&lt;/span&gt;
+&lt;a href="#64-%d0%ba%d0%be%d0%bd%d0%ba%d1%83%d1%80%d0%b5%d0%bd%d1%82%d1%8b-%d0%b8%d0%b7%d1%83%d1%87%d0%b5%d0%bd%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Найдено минимум 3 конкурента или альтернативных решения:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Если конкурентов нет вообще - возможно, спроса тоже нет&lt;/li&gt;
 &lt;li&gt;Если конкуренты есть - значит, спрос есть&lt;/li&gt;
@@ -773,8 +745,8 @@
 &lt;li&gt;Или используют, но недовольны&lt;/li&gt;
 &lt;li&gt;Значит, есть возможность улучшить&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.5. Техническая реализуемость&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;65-техническая-реализуемость&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#65-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d1%83%d0%b5%d0%bc%d0%be%d1%81%d1%82%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Решение можно реализовать с помощью доступных инструментов:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.5. Техническая реализуемость&lt;span class="hx:absolute hx:-mt-20" id="65-техническая-реализуемость"&gt;&lt;/span&gt;
+&lt;a href="#65-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d1%83%d0%b5%d0%bc%d0%be%d1%81%d1%82%d1%8c" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Решение можно реализовать с помощью доступных инструментов:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;No-code, AI, готовые API&lt;/li&gt;
 &lt;li&gt;Не нужна сложная разработка&lt;/li&gt;
@@ -789,8 +761,8 @@
 &lt;li&gt;MVP для микростартапа за 1-2 недели&lt;/li&gt;
 &lt;li&gt;Соответствует формату микростартапа&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.6. Бизнес-модель определена&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;66-бизнес-модель-определена&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#66-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d1%8c-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Выбрана модель монетизации:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.6. Бизнес-модель определена&lt;span class="hx:absolute hx:-mt-20" id="66-бизнес-модель-определена"&gt;&lt;/span&gt;
+&lt;a href="#66-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81-%d0%bc%d0%be%d0%b4%d0%b5%d0%bb%d1%8c-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b5%d0%bd%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Выбрана модель монетизации:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Подписка, разовые платежи, pay-per-use и т.д.&lt;/li&gt;
 &lt;li&gt;Модель соответствует ценности продукта&lt;/li&gt;
@@ -806,8 +778,8 @@
 &lt;li&gt;Доход с клиента (LTV)&lt;/li&gt;
 &lt;li&gt;Соотношение LTV:CAC должно быть минимум 3:1&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6.7. Есть план запуска&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;67-есть-план-запуска&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#67-%d0%b5%d1%81%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d0%bd-%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Понятно, как привлечь первых 10 клиентов:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;6.7. Есть план запуска&lt;span class="hx:absolute hx:-mt-20" id="67-есть-план-запуска"&gt;&lt;/span&gt;
+&lt;a href="#67-%d0%b5%d1%81%d1%82%d1%8c-%d0%bf%d0%bb%d0%b0%d0%bd-%d0%b7%d0%b0%d0%bf%d1%83%d1%81%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Понятно, как привлечь первых 10 клиентов:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Конкретные каналы определены&lt;/li&gt;
 &lt;li&gt;Есть план действий&lt;/li&gt;
@@ -836,10 +808,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Помните:&lt;/strong&gt; Лучше потратить 2-3 дня на валидацию идеи, чем 2 недели на создание продукта, который никому не нужен.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;7. Кейсы: как это работает на практике&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-кейсы-как-это-работает-на-практике&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#7-%d0%ba%d0%b5%d0%b9%d1%81%d1%8b-%d0%ba%d0%b0%d0%ba-%d1%8d%d1%82%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь давайте посмотрим на реальные кейсы успешных микростартапов, чтобы понять, как на практике работает поиск идей и их реализация.&lt;/p&gt;
-&lt;h3&gt;7.1. Джон Йонгфук: от 12 стартапов к Bannerbear&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;71-джон-йонгфук-от-12-стартапов-к-bannerbear&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#71-%d0%b4%d0%b6%d0%be%d0%bd-%d0%b9%d0%be%d0%bd%d0%b3%d1%84%d1%83%d0%ba-%d0%be%d1%82-12-%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2-%d0%ba-bannerbear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;7. Кейсы: как это работает на практике&lt;span class="hx:absolute hx:-mt-20" id="7-кейсы-как-это-работает-на-практике"&gt;&lt;/span&gt;
+&lt;a href="#7-%d0%ba%d0%b5%d0%b9%d1%81%d1%8b-%d0%ba%d0%b0%d0%ba-%d1%8d%d1%82%d0%be-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь давайте посмотрим на реальные кейсы успешных микростартапов, чтобы понять, как на практике работает поиск идей и их реализация.&lt;/p&gt;
+&lt;h3&gt;7.1. Джон Йонгфук: от 12 стартапов к Bannerbear&lt;span class="hx:absolute hx:-mt-20" id="71-джон-йонгфук-от-12-стартапов-к-bannerbear"&gt;&lt;/span&gt;
+&lt;a href="#71-%d0%b4%d0%b6%d0%be%d0%bd-%d0%b9%d0%be%d0%bd%d0%b3%d1%84%d1%83%d0%ba-%d0%be%d1%82-12-%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2-%d0%ba-bannerbear" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Джон Йонгфук запустил челлендж &amp;ldquo;12 стартапов за 12 месяцев&amp;rdquo; в сентябре 2018 года, чтобы натренировать навык быстрого запуска продуктов. Первые семь проектов (Digital Downloads, App Store Assets, App Designer, Tech Jobs Asia, Compliance Tool, Timezone Overview, Video Discussion) не принесли выручки из-за отсутствия монетизации.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как генерировал идеи:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Перед стартом Джон создал Google Sheet для оценки идей:&lt;/p&gt;
@@ -865,8 +837,8 @@
 &lt;li&gt;Решение реальных задач (ручная работа с визуалами) важнее поверхностных запросов&lt;/li&gt;
 &lt;li&gt;Личные боли дают сильный product-market fit (ситуация, когда решение идеально соответствует потребностям аудитории, что приводит к органическому росту и высокой удовлетворённости клиентов)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;7.2. Дэвид Бресслер: Formula Bot - от Excel-рутины к $220K MRR&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;72-дэвид-бресслер-formula-bot---от-excel-рутины-к-220k-mrr&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#72-%d0%b4%d1%8d%d0%b2%d0%b8%d0%b4-%d0%b1%d1%80%d0%b5%d1%81%d1%81%d0%bb%d0%b5%d1%80-formula-bot---%d0%be%d1%82-excel-%d1%80%d1%83%d1%82%d0%b8%d0%bd%d1%8b-%d0%ba-220k-mrr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;7.2. Дэвид Бресслер: Formula Bot - от Excel-рутины к $220K MRR&lt;span class="hx:absolute hx:-mt-20" id="72-дэвид-бресслер-formula-bot---от-excel-рутины-к-220k-mrr"&gt;&lt;/span&gt;
+&lt;a href="#72-%d0%b4%d1%8d%d0%b2%d0%b8%d0%b4-%d0%b1%d1%80%d0%b5%d1%81%d1%81%d0%bb%d0%b5%d1%80-formula-bot---%d0%be%d1%82-excel-%d1%80%d1%83%d1%82%d0%b8%d0%bd%d1%8b-%d0%ba-220k-mrr" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Дэвид Бресслер работал аналитиком данных и устал от рутинного написания Excel-формул. Он создал Formula Bot - AI-инструмент, который генерирует Excel-формулы по текстовому описанию.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Источник идеи:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -893,8 +865,8 @@
 &lt;li&gt;Не нужно быть разработчиком для создания софта&lt;/li&gt;
 &lt;li&gt;Встречайте пользователей там, где они уже работают&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;7.3. Bhanu Teja: SiteGPT и Feather - $100K+ MRR в 24 года&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;73-bhanu-teja-sitegpt-и-feather---100k-mrr-в-24-года&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#73-bhanu-teja-sitegpt-%d0%b8-feather---100k-mrr-%d0%b2-24-%d0%b3%d0%be%d0%b4%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;7.3. Bhanu Teja: SiteGPT и Feather - $100K+ MRR в 24 года&lt;span class="hx:absolute hx:-mt-20" id="73-bhanu-teja-sitegpt-и-feather---100k-mrr-в-24-года"&gt;&lt;/span&gt;
+&lt;a href="#73-bhanu-teja-sitegpt-%d0%b8-feather---100k-mrr-%d0%b2-24-%d0%b3%d0%be%d0%b4%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;История:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Bhanu Teja в 24 года из Индии достиг $102,600 месячной выручки с Feather (блог через Notion, $7.6K/месяц) и SiteGPT (кастомные chatbots через GPT, $95K/месяц).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Источник идей:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -914,8 +886,8 @@
 &lt;li&gt;Молодой возраст не барьер&lt;/li&gt;
 &lt;li&gt;Решение скучных бизнес-проблем AI прибыльнее bleeding-edge tech (экспериментальные, нестабильные технологии на самом переднем крае инноваций, которые ещё не прошли достаточного тестирования и могут быть ненадёжными)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;7.4. PhotoAI, Chatbase, PDFai: успешные &amp;ldquo;AI-обёртки&amp;rdquo;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;74-photoai-chatbase-pdfai-успешные-ai-обёртки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#74-photoai-chatbase-pdfai-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d1%8b%d0%b5-ai-%d0%be%d0%b1%d1%91%d1%80%d1%82%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;PhotoAI:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;7.4. PhotoAI, Chatbase, PDFai: успешные &amp;ldquo;AI-обёртки&amp;rdquo;&lt;span class="hx:absolute hx:-mt-20" id="74-photoai-chatbase-pdfai-успешные-ai-обёртки"&gt;&lt;/span&gt;
+&lt;a href="#74-photoai-chatbase-pdfai-%d1%83%d1%81%d0%bf%d0%b5%d1%88%d0%bd%d1%8b%d0%b5-ai-%d0%be%d0%b1%d1%91%d1%80%d1%82%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;PhotoAI:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Сервис для генерации изображений&lt;/li&gt;
 &lt;li&gt;$77K MRR&lt;/li&gt;
@@ -942,10 +914,10 @@
 &lt;li&gt;Быстрая реализация&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;8. Частые ошибки и как их избежать&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-частые-ошибки-и-как-их-избежать&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#8-%d1%87%d0%b0%d1%81%d1%82%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8-%d0%b8-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%85-%d0%b8%d0%b7%d0%b1%d0%b5%d0%b6%d0%b0%d1%82%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда мы разобрали успешные кейсы, давайте посмотрим на частые ошибки, которые делают предприниматели при поиске идей, и как их избежать.&lt;/p&gt;
-&lt;h3&gt;8.1. Искать идею &amp;ldquo;из воздуха&amp;rdquo;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;81-искать-идею-из-воздуха&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#81-%d0%b8%d1%81%d0%ba%d0%b0%d1%82%d1%8c-%d0%b8%d0%b4%d0%b5%d1%8e-%d0%b8%d0%b7-%d0%b2%d0%be%d0%b7%d0%b4%d1%83%d1%85%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h2&gt;8. Частые ошибки и как их избежать&lt;span class="hx:absolute hx:-mt-20" id="8-частые-ошибки-и-как-их-избежать"&gt;&lt;/span&gt;
+&lt;a href="#8-%d1%87%d0%b0%d1%81%d1%82%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8-%d0%b8-%d0%ba%d0%b0%d0%ba-%d0%b8%d1%85-%d0%b8%d0%b7%d0%b1%d0%b5%d0%b6%d0%b0%d1%82%d1%8c" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда мы разобрали успешные кейсы, давайте посмотрим на частые ошибки, которые делают предприниматели при поиске идей, и как их избежать.&lt;/p&gt;
+&lt;h3&gt;8.1. Искать идею &amp;ldquo;из воздуха&amp;rdquo;&lt;span class="hx:absolute hx:-mt-20" id="81-искать-идею-из-воздуха"&gt;&lt;/span&gt;
+&lt;a href="#81-%d0%b8%d1%81%d0%ba%d0%b0%d1%82%d1%8c-%d0%b8%d0%b4%d0%b5%d1%8e-%d0%b8%d0%b7-%d0%b2%d0%be%d0%b7%d0%b4%d1%83%d1%85%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Случайный поиск вместо системного подхода. Предприниматели ждут момента озарения, когда вдруг появится гениальная идея.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Используйте problem-first подход и структурированные методы:&lt;/p&gt;
@@ -954,8 +926,8 @@
 &lt;li&gt;Используйте методы 10-10-10, SCAMPER, White Space Analysis&lt;/li&gt;
 &lt;li&gt;Системно собирайте идеи, а не ждите озарения&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8.2. Слишком широкий фокус&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;82-слишком-широкий-фокус&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#82-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d1%88%d0%b8%d1%80%d0%be%d0%ba%d0%b8%d0%b9-%d1%84%d0%be%d0%ba%d1%83%d1%81&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h3&gt;8.2. Слишком широкий фокус&lt;span class="hx:absolute hx:-mt-20" id="82-слишком-широкий-фокус"&gt;&lt;/span&gt;
+&lt;a href="#82-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d1%88%d0%b8%d1%80%d0%be%d0%ba%d0%b8%d0%b9-%d1%84%d0%be%d0%ba%d1%83%d1%81" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Попытка решить слишком общую проблему: &amp;ldquo;помочь бизнесу зарабатывать больше&amp;rdquo;, &amp;ldquo;улучшить работу компаний&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Сужайте фокус до конкретной задачи:&lt;/p&gt;
@@ -969,8 +941,8 @@
 &lt;li&gt;Легче найти первых клиентов&lt;/li&gt;
 &lt;li&gt;Проще позиционировать продукт&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8.3. Игнорирование валидации&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;83-игнорирование-валидации&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#83-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h3&gt;8.3. Игнорирование валидации&lt;span class="hx:absolute hx:-mt-20" id="83-игнорирование-валидации"&gt;&lt;/span&gt;
+&lt;a href="#83-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Тратить недели и месяцы на разработку, а потом выясняется, что никому это не нужно. Проблема не в том, что идея плохая, а в том, что не проверили спрос до того, как начали делать.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Валидируйте идею ДО разработки:&lt;/p&gt;
@@ -981,8 +953,8 @@
 &lt;li&gt;Используйте чек-лист валидации из раздела 6&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Помните:&lt;/strong&gt; Лучше потратить неделю на проверку идеи, чем месяц на создание того, что никому не нужно.&lt;/p&gt;
-&lt;h3&gt;8.4. Погоня за &amp;ldquo;гениальной&amp;rdquo; идеей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;84-погоня-за-гениальной-идеей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#84-%d0%bf%d0%be%d0%b3%d0%be%d0%bd%d1%8f-%d0%b7%d0%b0-%d0%b3%d0%b5%d0%bd%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d0%b8%d0%b4%d0%b5%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h3&gt;8.4. Погоня за &amp;ldquo;гениальной&amp;rdquo; идеей&lt;span class="hx:absolute hx:-mt-20" id="84-погоня-за-гениальной-идеей"&gt;&lt;/span&gt;
+&lt;a href="#84-%d0%bf%d0%be%d0%b3%d0%be%d0%bd%d1%8f-%d0%b7%d0%b0-%d0%b3%d0%b5%d0%bd%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b9-%d0%b8%d0%b4%d0%b5%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Ожидание прорывной концепции, которая изменит мир. Предприниматели годами ищут &amp;ldquo;ту самую&amp;rdquo; идею, упуская реальные возможности.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Идея не должна быть гениальной. Она должна решать реальную проблему для конкретных людей:&lt;/p&gt;
@@ -997,8 +969,8 @@
 &lt;li&gt;Formula Bot (Excel-формулы) - $220K MRR&lt;/li&gt;
 &lt;li&gt;InboxDone (управление почтой) - $1.5M+ выручки&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8.5. Копирование без понимания проблемы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;85-копирование-без-понимания-проблемы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#85-%d0%ba%d0%be%d0%bf%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b1%d0%b5%d0%b7-%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h3&gt;8.5. Копирование без понимания проблемы&lt;span class="hx:absolute hx:-mt-20" id="85-копирование-без-понимания-проблемы"&gt;&lt;/span&gt;
+&lt;a href="#85-%d0%ba%d0%be%d0%bf%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b1%d0%b5%d0%b7-%d0%bf%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Повторение идеи без валидации и понимания проблемы. Видели успешный продукт, решили сделать такой же, но не поняли, какую проблему он решает и для кого.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Сначала поймите проблему, потом ищите решение:&lt;/p&gt;
@@ -1008,8 +980,8 @@
 &lt;li&gt;Валидируйте, есть ли эта проблема у вашей аудитории&lt;/li&gt;
 &lt;li&gt;Только потом думайте о решении&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8.6. Слишком сложная реализация&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;86-слишком-сложная-реализация&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#86-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b0%d1%8f-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
+&lt;h3&gt;8.6. Слишком сложная реализация&lt;span class="hx:absolute hx:-mt-20" id="86-слишком-сложная-реализация"&gt;&lt;/span&gt;
+&lt;a href="#86-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b0%d1%8f-%d1%80%d0%b5%d0%b0%d0%bb%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt;
 Попытка создать то, для чего нужны навыки, которых нет, или ресурсы, которых нет. Замахнуться на сложное и не закончить.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt;
 Выбирайте то, что можно реализовать:&lt;/p&gt;
@@ -1021,10 +993,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Помните:&lt;/strong&gt; Лучше выбрать что-то проще, но сделать это хорошо, чем замахнуться на сложное и не закончить.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;9. Практическое задание: ваш первый pipeline идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-практическое-задание-ваш-первый-pipeline-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы знаете методы поиска идей, источники, pipeline генерации и чек-лист валидации, пора применить знания на практике. Вот пошаговое практическое задание.&lt;/p&gt;
-&lt;h3&gt;9.1. Недельный эксперимент: сбор идей&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;91-недельный-эксперимент-сбор-идей&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#91-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d1%82-%d1%81%d0%b1%d0%be%d1%80-%d0%b8%d0%b4%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Неделю собирайте по 3-5 болей ежедневно.&lt;/p&gt;
+&lt;h2&gt;9. Практическое задание: ваш первый pipeline идей&lt;span class="hx:absolute hx:-mt-20" id="9-практическое-задание-ваш-первый-pipeline-идей"&gt;&lt;/span&gt;
+&lt;a href="#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь, когда вы знаете методы поиска идей, источники, pipeline генерации и чек-лист валидации, пора применить знания на практике. Вот пошаговое практическое задание.&lt;/p&gt;
+&lt;h3&gt;9.1. Недельный эксперимент: сбор идей&lt;span class="hx:absolute hx:-mt-20" id="91-недельный-эксперимент-сбор-идей"&gt;&lt;/span&gt;
+&lt;a href="#91-%d0%bd%d0%b5%d0%b4%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d1%8d%d0%ba%d1%81%d0%bf%d0%b5%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d1%82-%d1%81%d0%b1%d0%be%d1%80-%d0%b8%d0%b4%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Неделю собирайте по 3-5 болей ежедневно.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;День 1-7: Сбор идей&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ежедневно записывайте:&lt;/p&gt;
 &lt;ul&gt;
@@ -1047,25 +1019,24 @@
 &lt;li&gt;Airtable - более структурированная база&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Пример записи:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Дата: 06.01.2025
 Проблема: Владельцы онлайн-курсов тратят 3 часа в день на ответы на вопросы студентов
 Контекст: Курсы с 100&amp;#43; студентами, вопросы повторяются, однотипные ответы
 Источник: /r/Teachers, пост с 500&amp;#43; upvotes, комментарий: &amp;#34;I wish there was a bot for this&amp;#34;
-Тег: #образование #автоматизация #AI&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Тег: #образование #автоматизация #AI&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; После недели у вас будет список из 20-30 потенциальных идей, основанных на реальных проблемах.&lt;/p&gt;
-&lt;h3&gt;9.2. Применение метода 10-10-10 для одной ниши&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;92-применение-метода-10-10-10-для-одной-ниши&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#92-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b0-10-10-10-%d0%b4%d0%bb%d1%8f-%d0%be%d0%b4%d0%bd%d0%be%d0%b9-%d0%bd%d0%b8%d1%88%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Выберите одну нишу и примените метод 10-10-10.&lt;/p&gt;
+&lt;h3&gt;9.2. Применение метода 10-10-10 для одной ниши&lt;span class="hx:absolute hx:-mt-20" id="92-применение-метода-10-10-10-для-одной-ниши"&gt;&lt;/span&gt;
+&lt;a href="#92-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bc%d0%b5%d1%82%d0%be%d0%b4%d0%b0-10-10-10-%d0%b4%d0%bb%d1%8f-%d0%be%d0%b4%d0%bd%d0%be%d0%b9-%d0%bd%d0%b8%d1%88%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Выберите одну нишу и примените метод 10-10-10.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Шаг 1: Выберите нишу&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Например: владельцы онлайн-курсов&lt;/li&gt;
@@ -1101,8 +1072,8 @@
 &lt;li&gt;&amp;hellip;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; У вас будет подробный разбор одной ниши с множеством вариантов идей.&lt;/p&gt;
-&lt;h3&gt;9.3. Топ-3 идеи для углубления&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;93-топ-3-идеи-для-углубления&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#93-%d1%82%d0%be%d0%bf-3-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%b4%d0%bb%d1%8f-%d1%83%d0%b3%d0%bb%d1%83%d0%b1%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Из вашего списка идей выберите топ-3 и углубитесь в каждую.&lt;/p&gt;
+&lt;h3&gt;9.3. Топ-3 идеи для углубления&lt;span class="hx:absolute hx:-mt-20" id="93-топ-3-идеи-для-углубления"&gt;&lt;/span&gt;
+&lt;a href="#93-%d1%82%d0%be%d0%bf-3-%d0%b8%d0%b4%d0%b5%d0%b8-%d0%b4%d0%bb%d1%8f-%d1%83%d0%b3%d0%bb%d1%83%d0%b1%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Задание:&lt;/strong&gt; Из вашего списка идей выберите топ-3 и углубитесь в каждую.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Шаг 1: Грубая фильтрация&lt;/strong&gt;
 Отбросьте всё, что:&lt;/p&gt;
 &lt;ul&gt;
@@ -1174,10 +1145,10 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Результат:&lt;/strong&gt; У вас будет 1-2 идеи, которые прошли все проверки и готовы к разработке MVP.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;10. Заключение: ваша золотая жила ждёт&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;10-заключение-ваша-золотая-жила-ждёт&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#10-%d0%b7%d0%b0%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88%d0%b0-%d0%b7%d0%be%d0%bb%d0%be%d1%82%d0%b0%d1%8f-%d0%b6%d0%b8%d0%bb%d0%b0-%d0%b6%d0%b4%d1%91%d1%82&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Мы прошли полный путь от понимания базового принципа problem-first подхода через структурированные методы генерации идей, конкретные источники, pipeline превращения потока идей в реальные проекты до чек-листа валидации и практических заданий.&lt;/p&gt;
-&lt;h3&gt;Ключевые выводы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ключевые-выводы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%b2%d1%8b%d0%b5-%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Идеи не берутся &amp;ldquo;из воздуха&amp;rdquo; - их системно находят&lt;/strong&gt;
+&lt;h2&gt;10. Заключение: ваша золотая жила ждёт&lt;span class="hx:absolute hx:-mt-20" id="10-заключение-ваша-золотая-жила-ждёт"&gt;&lt;/span&gt;
+&lt;a href="#10-%d0%b7%d0%b0%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88%d0%b0-%d0%b7%d0%be%d0%bb%d0%be%d1%82%d0%b0%d1%8f-%d0%b6%d0%b8%d0%bb%d0%b0-%d0%b6%d0%b4%d1%91%d1%82" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Мы прошли полный путь от понимания базового принципа problem-first подхода через структурированные методы генерации идей, конкретные источники, pipeline превращения потока идей в реальные проекты до чек-листа валидации и практических заданий.&lt;/p&gt;
+&lt;h3&gt;Ключевые выводы&lt;span class="hx:absolute hx:-mt-20" id="ключевые-выводы"&gt;&lt;/span&gt;
+&lt;a href="#%d0%ba%d0%bb%d1%8e%d1%87%d0%b5%d0%b2%d1%8b%d0%b5-%d0%b2%d1%8b%d0%b2%d0%be%d0%b4%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Идеи не берутся &amp;ldquo;из воздуха&amp;rdquo; - их системно находят&lt;/strong&gt;
 Идеи для микростартапов почти никогда не берутся &amp;ldquo;из воздуха&amp;rdquo; - их системно выкапывают из чужих и своих процессов, используя набор подходов. Problem-first подход работает лучше, чем idea-first.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. &amp;ldquo;Скучные&amp;rdquo; ниши часто прибыльнее &amp;ldquo;гениальных&amp;rdquo;&lt;/strong&gt;
 &amp;ldquo;Скучные&amp;rdquo; бизнесы в нишевых рынках часто оказываются наиболее прибыльными с низкой конкуренцией. Storage Squad, Formula Bot, InboxDone - все решают &amp;ldquo;скучные&amp;rdquo; задачи и приносят миллионы.&lt;/p&gt;
@@ -1187,8 +1158,8 @@
 Доступность AI, no-code инструментов и платформенной инфраструктуры снизила барьеры входа в бизнес на 70-90%. Сегодня для запуска успешного продукта гораздо важнее умение находить реальную проблему и понимать потребности клиента, чем обладать глубокими техническими навыками.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;5. Систематический подход превосходит ожидание вдохновения&lt;/strong&gt;
 Систематическое применение методов (10-10-10, SCAMPER, White Space Analysis, арбитраж) превосходит ожидание вдохновения. Эти teachable repeatable skills для generating non-obvious opportunities.&lt;/p&gt;
-&lt;h3&gt;Что делать дальше&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-делать-дальше&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b4%d0%b0%d0%bb%d1%8c%d1%88%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Начните с личного опыта&lt;/strong&gt;
+&lt;h3&gt;Что делать дальше&lt;span class="hx:absolute hx:-mt-20" id="что-делать-дальше"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b4%d0%b0%d0%bb%d1%8c%d1%88%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Начните с личного опыта&lt;/strong&gt;
 Какие проблемы вы решаете каждый день? Что раздражает в работе? Какие задачи выполняете вручную, хотя они могли бы быть автоматизированы?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2. Настройте систему сбора идей&lt;/strong&gt;
 Ежедневно собирайте по 3-5 болей. Ведите базу проблем с тегами по нишам. Систематизируйте процесс сбора идей.&lt;/p&gt;
@@ -1199,27 +1170,13 @@
 &lt;p&gt;&lt;strong&gt;5. Начните сегодня&lt;/strong&gt;
 Момент действия - сейчас. Начните с одной техники, одного инструмента, одного customer interview. Momentum создаётся через action, не планирование.&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Перестаньте искать революцию. Вместо этого оглянитесь вокруг. Какую скучную, но наболевшую проблему в вашей жизни или работе вы могли бы решить уже завтра?&lt;/p&gt;
-
+&lt;p&gt;Перестаньте искать революцию. Вместо этого оглянитесь вокруг. Какую скучную, но наболевшую проблему в вашей жизни или работе вы могли бы решить уже завтра?&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Ваша золотая жила ждёт. Начните сегодня.&lt;/p&gt;
-&lt;p&gt;С уважением к вам и вашим инициативам, Аскер.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Создание и структура лендинга</title>
-      <link>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link>
-      <pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Шаблон структуры лендинга для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать простой и эффективный лендинг для вашего микростартапа. Мы разберём, какие блоки должны быть на странице, в каком порядке их расположить, и как быстро создать лендинг на Tilda или иных конструкторах, без программирования.&lt;/p&gt;
-&lt;h2&gt;Что такое лендинг и зачем он нужен&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-такое-лендинг-и-зачем-он-нужен&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd-%d0%bd%d1%83%d0%b6%d0%b5%d0%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Лендинг&lt;/strong&gt; (landing page) — это одностраничный сайт, который рассказывает о вашем продукте и предлагает его купить. Простыми словами, это &amp;ldquo;витрина&amp;rdquo; вашего микростартапа в интернете.&lt;/p&gt;
+&lt;p&gt;С уважением к вам и вашим инициативам, Аскер.&lt;/p&gt;</description></item><item><title>Создание и структура лендинга</title><link>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate><guid>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid><description>
+&lt;h1&gt;Шаблон структуры лендинга для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать простой и эффективный лендинг для вашего микростартапа. Мы разберём, какие блоки должны быть на странице, в каком порядке их расположить, и как быстро создать лендинг на Tilda или иных конструкторах, без программирования.&lt;/p&gt;
+&lt;h2&gt;Что такое лендинг и зачем он нужен&lt;span class="hx:absolute hx:-mt-20" id="что-такое-лендинг-и-зачем-он-нужен"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd-%d0%bd%d1%83%d0%b6%d0%b5%d0%bd" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Лендинг&lt;/strong&gt; (landing page) — это одностраничный сайт, который рассказывает о вашем продукте и предлагает его купить. Простыми словами, это &amp;ldquo;витрина&amp;rdquo; вашего микростартапа в интернете.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем он нужен:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Показать продукт потенциальным клиентам&lt;/li&gt;
@@ -1228,10 +1185,10 @@
 &lt;li&gt;Выдать доступ к продукту после покупки&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Для микростартапа лендинг должен быть простым и понятным. Не нужно тратить недели на дизайн — главное, чтобы он работал и принимал платежи. Лучше простой рабочий лендинг, чем красивый, но неработающий.&lt;/p&gt;
-&lt;h2&gt;Обязательные блоки лендинга&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;обязательные-блоки-лендинга&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Лендинг состоит из нескольких блоков (секций), которые идут друг за другом. Каждый блок решает свою задачу.&lt;/p&gt;
-&lt;h3&gt;Блок 1: Заголовок (Hero)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-1-заголовок-hero&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-1-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%be%d0%ba-hero&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Первое, что видит пользователь при заходе на страницу.&lt;/p&gt;
+&lt;h2&gt;Обязательные блоки лендинга&lt;span class="hx:absolute hx:-mt-20" id="обязательные-блоки-лендинга"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Лендинг состоит из нескольких блоков (секций), которые идут друг за другом. Каждый блок решает свою задачу.&lt;/p&gt;
+&lt;h3&gt;Блок 1: Заголовок (Hero)&lt;span class="hx:absolute hx:-mt-20" id="блок-1-заголовок-hero"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-1-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%be%d0%ba-hero" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Первое, что видит пользователь при заходе на страницу.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Заголовок&lt;/strong&gt; — краткое описание проблемы или решения (1 предложение)&lt;/li&gt;
@@ -1244,8 +1201,8 @@
 &lt;li&gt;✅ &amp;ldquo;AI-помощник, который отвечает на вопросы студентов вместо вас. Экономьте 3 часа в день.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;крючок&amp;rdquo;, который должен зацепить внимание пользователя за первые 3 секунды.&lt;/p&gt;
-&lt;h3&gt;Блок 2: Проблема&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-2-проблема&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-2-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Описание проблемы, которую решает ваш продукт.&lt;/p&gt;
+&lt;h3&gt;Блок 2: Проблема&lt;span class="hx:absolute hx:-mt-20" id="блок-2-проблема"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-2-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Описание проблемы, которую решает ваш продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Конкретное описание проблемы (не абстрактное)&lt;/li&gt;
@@ -1258,8 +1215,8 @@
 &lt;li&gt;✅ &amp;ldquo;Владельцы онлайн-курсов тратят 3 часа в день на ответы на вопросы студентов. Это отнимает время от создания контента и развития бизнеса.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите пользователю, что вы понимаете его боль.&lt;/p&gt;
-&lt;h3&gt;Блок 3: Решение&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-3-решение&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-3-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как ваш продукт решает описанную проблему.&lt;/p&gt;
+&lt;h3&gt;Блок 3: Решение&lt;span class="hx:absolute hx:-mt-20" id="блок-3-решение"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-3-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как ваш продукт решает описанную проблему.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Краткое описание решения (как работает продукт)&lt;/li&gt;
@@ -1271,8 +1228,8 @@
 &lt;li&gt;&amp;ldquo;AI-помощник анализирует материалы вашего курса и автоматически отвечает на вопросы студентов на основе этих материалов. Вы просто загружаете материалы один раз, и система работает сама.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Объясните, как ваш продукт решает проблему простыми словами.&lt;/p&gt;
-&lt;h3&gt;Блок 4: Примеры использования (Use Cases)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-4-примеры-использования-use-cases&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-4-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-use-cases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Конкретные примеры того, как можно использовать продукт.&lt;/p&gt;
+&lt;h3&gt;Блок 4: Примеры использования (Use Cases)&lt;span class="hx:absolute hx:-mt-20" id="блок-4-примеры-использования-use-cases"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-4-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-use-cases" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Конкретные примеры того, как можно использовать продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2-3 примера использования&lt;/li&gt;
@@ -1285,8 +1242,8 @@
 &lt;li&gt;&amp;ldquo;Пример 2: Владелец курса получает 50 вопросов в день → AI обрабатывает 90% из них автоматически&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите реальные ситуации, когда продукт полезен.&lt;/p&gt;
-&lt;h3&gt;Блок 5: Цены и тарифы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-5-цены-и-тарифы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-5-%d1%86%d0%b5%d0%bd%d1%8b-%d0%b8-%d1%82%d0%b0%d1%80%d0%b8%d1%84%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о стоимости продукта.&lt;/p&gt;
+&lt;h3&gt;Блок 5: Цены и тарифы&lt;span class="hx:absolute hx:-mt-20" id="блок-5-цены-и-тарифы"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-5-%d1%86%d0%b5%d0%bd%d1%8b-%d0%b8-%d1%82%d0%b0%d1%80%d0%b8%d1%84%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о стоимости продукта.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Цена (или несколько тарифов)&lt;/li&gt;
@@ -1300,8 +1257,8 @@
 &lt;li&gt;&lt;strong&gt;Предоплатные пакеты&lt;/strong&gt; (10/50/100 запросов за $15/$49/$99) — для продуктов с ограниченным использованием&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите цену честно и понятно. Не прячьте её внизу страницы.&lt;/p&gt;
-&lt;h3&gt;Блок 6: Форма оплаты / Кнопка покупки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-6-форма-оплаты--кнопка-покупки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-6-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d1%8b--%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b0-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Способ, которым пользователь может заплатить.&lt;/p&gt;
+&lt;h3&gt;Блок 6: Форма оплаты / Кнопка покупки&lt;span class="hx:absolute hx:-mt-20" id="блок-6-форма-оплаты--кнопка-покупки"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-6-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d1%8b--%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b0-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Способ, которым пользователь может заплатить.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Кнопка &amp;ldquo;Купить&amp;rdquo; или форма оплаты&lt;/li&gt;
@@ -1309,8 +1266,8 @@
 &lt;li&gt;Чёткие инструкции, что делать после оплаты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;касса&amp;rdquo; вашего лендинга. Без неё пользователь не сможет заплатить.&lt;/p&gt;
-&lt;h3&gt;Блок 7: FAQ (часто задаваемые вопросы)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-7-faq-часто-задаваемые-вопросы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-7-faq-%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d0%b2%d0%b0%d0%b5%d0%bc%d1%8b%d0%b5-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ответы на типичные вопросы пользователей.&lt;/p&gt;
+&lt;h3&gt;Блок 7: FAQ (часто задаваемые вопросы)&lt;span class="hx:absolute hx:-mt-20" id="блок-7-faq-часто-задаваемые-вопросы"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-7-faq-%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d0%b2%d0%b0%d0%b5%d0%bc%d1%8b%d0%b5-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ответы на типичные вопросы пользователей.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;3-5 самых частых вопросов&lt;/li&gt;
@@ -1324,8 +1281,8 @@
 &lt;li&gt;&amp;ldquo;Какие материалы можно загружать?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Предотвратите возражения пользователей заранее.&lt;/p&gt;
-&lt;h3&gt;Блок 8: Контакты / Поддержка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-8-контакты--поддержка&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-8-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b--%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как с вами связаться.&lt;/p&gt;
+&lt;h3&gt;Блок 8: Контакты / Поддержка&lt;span class="hx:absolute hx:-mt-20" id="блок-8-контакты--поддержка"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-8-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b--%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как с вами связаться.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Email для поддержки&lt;/li&gt;
@@ -1334,8 +1291,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите, что вы доступны и готовы помочь.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Порядок расположения блоков&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;порядок-расположения-блоков&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba-%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b1%d0%bb%d0%be%d0%ba%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Рекомендуемый порядок блоков сверху вниз:&lt;/p&gt;
+&lt;h2&gt;Порядок расположения блоков&lt;span class="hx:absolute hx:-mt-20" id="порядок-расположения-блоков"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba-%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b1%d0%bb%d0%be%d0%ba%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Рекомендуемый порядок блоков сверху вниз:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Заголовок (Hero)&lt;/strong&gt; — первое впечатление&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Проблема&lt;/strong&gt; — показываем боль&lt;/li&gt;
@@ -1348,8 +1305,8 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Самые важные блоки (проблема, решение, цена, кнопка покупки) должны быть видны без прокрутки страницы (выше линии сгиба).&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Что НЕ нужно на лендинге&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-не-нужно-на-лендинге&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%bd%d0%b0-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
+&lt;h2&gt;Что НЕ нужно на лендинге&lt;span class="hx:absolute hx:-mt-20" id="что-не-нужно-на-лендинге"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%bd%d0%b0-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
 &lt;p&gt;❌ &lt;strong&gt;Видео и сложные анимации&lt;/strong&gt; — они замедляют загрузку и отвлекают
 ❌ &lt;strong&gt;Длинные тексты&lt;/strong&gt; — никто не будет читать 10 экранов текста
 ❌ &lt;strong&gt;Множество кнопок&lt;/strong&gt; — одна главная кнопка &amp;ldquo;Купить&amp;rdquo; лучше, чем 10 разных
@@ -1358,9 +1315,9 @@
 ❌ &lt;strong&gt;Сложная навигация&lt;/strong&gt; — это одностраничный сайт, меню не нужно&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Правило:&lt;/strong&gt; Если блок не помогает продать продукт — уберите его.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Примеры хороших лендингов микростартапов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;примеры-хороших-лендингов-микростартапов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b8%d1%85-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%be%d0%b2-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-1-ai-помощник-для-курсов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Примеры хороших лендингов микростартапов&lt;span class="hx:absolute hx:-mt-20" id="примеры-хороших-лендингов-микростартапов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b8%d1%85-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%be%d0%b2-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class="hx:absolute hx:-mt-20" id="пример-1-ai-помощник-для-курсов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Заголовок: &amp;ldquo;AI отвечает на вопросы студентов вместо вас&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Проблема: &amp;ldquo;Тратите 3 часа в день на ответы&amp;rdquo;&lt;/li&gt;
@@ -1369,8 +1326,8 @@
 &lt;li&gt;Цена: $29/месяц или $199 lifetime&lt;/li&gt;
 &lt;li&gt;Кнопка: &amp;ldquo;Начать бесплатно 7 дней&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-2-генератор-описаний-товаров&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class="hx:absolute hx:-mt-20" id="пример-2-генератор-описаний-товаров"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Заголовок: &amp;ldquo;Генерируйте описания товаров за секунды&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Проблема: &amp;ldquo;Ручное написание описаний занимает часы&amp;rdquo;&lt;/li&gt;
@@ -1381,37 +1338,37 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Общее правило:&lt;/strong&gt; Простота, конкретность, понятная ценность.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Чек-лист перед публикацией&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;чек-лист-перед-публикацией&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед запуском:&lt;/p&gt;
+&lt;h2&gt;Чек-лист перед публикацией&lt;span class="hx:absolute hx:-mt-20" id="чек-лист-перед-публикацией"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед запуском:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Заголовок понятен и цепляет внимание&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Проблема описана конкретно (не абстрактно)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Решение объяснено простыми словами&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Есть 2-3 примера использования&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Цена указана честно и понятно&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Кнопка &amp;ldquo;Купить&amp;rdquo; видна и работает&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Платежи настроены и протестированы&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Лендинг работает на мобильных устройствах&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; FAQ отвечает на типичные вопросы&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Контакты для поддержки указаны&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Заголовок понятен и цепляет внимание&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Проблема описана конкретно (не абстрактно)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Решение объяснено простыми словами&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Есть 2-3 примера использования&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Цена указана честно и понятно&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Кнопка &amp;ldquo;Купить&amp;rdquo; видна и работает&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Платежи настроены и протестированы&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Лендинг работает на мобильных устройствах&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; FAQ отвечает на типичные вопросы&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Контакты для поддержки указаны&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;Типичные ошибки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком абстрактное описание&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-1-слишком-абстрактное-описание&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b0%d0%b1%d1%81%d1%82%d1%80%d0%b0%d0%ba%d1%82%d0%bd%d0%be%d0%b5-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; &amp;ldquo;Мы помогаем бизнесу расти&amp;rdquo;&lt;/p&gt;
+&lt;h2&gt;Типичные ошибки&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки"&gt;&lt;/span&gt;
+&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком абстрактное описание&lt;span class="hx:absolute hx:-mt-20" id="ошибка-1-слишком-абстрактное-описание"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b0%d0%b1%d1%81%d1%82%d1%80%d0%b0%d0%ba%d1%82%d0%bd%d0%be%d0%b5-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; &amp;ldquo;Мы помогаем бизнесу расти&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Конкретизируйте: &amp;ldquo;Экономим 3 часа в день на рутинных задачах&amp;rdquo;&lt;/p&gt;
-&lt;h3&gt;Ошибка 2: Скрытая цена&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-2-скрытая-цена&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b0%d1%8f-%d1%86%d0%b5%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Цена указана только в форме оплаты&lt;/p&gt;
+&lt;h3&gt;Ошибка 2: Скрытая цена&lt;span class="hx:absolute hx:-mt-20" id="ошибка-2-скрытая-цена"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b0%d1%8f-%d1%86%d0%b5%d0%bd%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Цена указана только в форме оплаты&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Покажите цену сразу, в блоке тарифов&lt;/p&gt;
-&lt;h3&gt;Ошибка 3: Слишком много текста&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-3-слишком-много-текста&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 экранов текста, который никто не читает&lt;/p&gt;
+&lt;h3&gt;Ошибка 3: Слишком много текста&lt;span class="hx:absolute hx:-mt-20" id="ошибка-3-слишком-много-текста"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 экранов текста, который никто не читает&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Сократите до сути. Если нужно больше информации — FAQ&lt;/p&gt;
-&lt;h3&gt;Ошибка 4: Не работает на мобильных&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-4-не-работает-на-мобильных&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d1%8b%d1%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Лендинг выглядит хорошо только на компьютере&lt;/p&gt;
+&lt;h3&gt;Ошибка 4: Не работает на мобильных&lt;span class="hx:absolute hx:-mt-20" id="ошибка-4-не-работает-на-мобильных"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d1%8b%d1%85" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Лендинг выглядит хорошо только на компьютере&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Всегда проверяйте мобильную версию перед публикацией&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Глоссарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;глоссарий&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;CTA (Call To Action)&lt;/strong&gt; — призыв к действию. Кнопка или ссылка, которая побуждает пользователя совершить действие (купить, зарегистрироваться, скачать).&lt;/p&gt;
+&lt;h2&gt;Глоссарий&lt;span class="hx:absolute hx:-mt-20" id="глоссарий"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;CTA (Call To Action)&lt;/strong&gt; — призыв к действию. Кнопка или ссылка, которая побуждает пользователя совершить действие (купить, зарегистрироваться, скачать).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hero (герой-блок)&lt;/strong&gt; — первый блок на лендинге, который видит пользователь. Обычно содержит заголовок, подзаголовок и главную кнопку.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Landing Page (лендинг)&lt;/strong&gt; — одностраничный сайт, созданный для конкретной цели (продажа продукта, сбор заявок, регистрация).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Use Case (кейс использования)&lt;/strong&gt; — конкретный пример того, как можно использовать продукт в реальной ситуации.&lt;/p&gt;
@@ -1420,23 +1377,10 @@
 &lt;p&gt;&lt;strong&gt;Conversion Rate (конверсия)&lt;/strong&gt; — процент посетителей, которые совершили целевое действие (купили, зарегистрировались) от общего числа посетителей.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A/B Testing (A/B тестирование)&lt;/strong&gt; — сравнение двух версий страницы, чтобы понять, какая работает лучше. На старте не обязательно.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Последнее обновление: 23-01-2026&lt;/em&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Как написать welcome-письмо</title>
-      <link>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Как написать welcome-письма для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать эффективное welcome-письмо, которое клиент получает сразу после покупки. Мы разберём структуру письма, примеры для разных продуктов/&lt;/p&gt;
-&lt;h2&gt;Что такое welcome-письмо и зачем оно нужно&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-такое-welcome-письмо-и-зачем-оно-нужно&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%be-%d0%bd%d1%83%d0%b6%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо&lt;/strong&gt; (приветственное письмо) — это первое письмо, которое клиент получает после покупки вашего продукта. Простыми словами, это &amp;ldquo;добро пожаловать&amp;rdquo; от вашего микростартапа.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Последнее обновление: 23-01-2026&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Как написать welcome-письмо</title><link>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate><guid>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid><description>
+&lt;h1&gt;Как написать welcome-письма для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать эффективное welcome-письмо, которое клиент получает сразу после покупки. Мы разберём структуру письма, примеры для разных продуктов/&lt;/p&gt;
+&lt;h2&gt;Что такое welcome-письмо и зачем оно нужно&lt;span class="hx:absolute hx:-mt-20" id="что-такое-welcome-письмо-и-зачем-оно-нужно"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%be-%d0%bd%d1%83%d0%b6%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо&lt;/strong&gt; (приветственное письмо) — это первое письмо, которое клиент получает после покупки вашего продукта. Простыми словами, это &amp;ldquo;добро пожаловать&amp;rdquo; от вашего микростартапа.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем оно нужно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Поблагодарить клиента за покупку&lt;/li&gt;
@@ -1446,10 +1390,10 @@
 &lt;li&gt;Направить клиента к продукту&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Welcome-письмо — это первое впечатление о вашем продукте. Если клиент не понимает, что делать дальше, он может разочароваться и запросить возврат денег.&lt;/p&gt;
-&lt;h2&gt;Структура welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;структура-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Хорошее welcome-письмо состоит из нескольких частей, которые идут друг за другом.&lt;/p&gt;
-&lt;h3&gt;1. Приветствие и благодарность&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-приветствие-и-благодарность&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%b8-%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%bd%d0%be%d1%81%d1%82%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Личное приветствие клиента и благодарность за покупку.&lt;/p&gt;
+&lt;h2&gt;Структура welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="структура-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Хорошее welcome-письмо состоит из нескольких частей, которые идут друг за другом.&lt;/p&gt;
+&lt;h3&gt;1. Приветствие и благодарность&lt;span class="hx:absolute hx:-mt-20" id="1-приветствие-и-благодарность"&gt;&lt;/span&gt;
+&lt;a href="#1-%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%b8-%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%bd%d0%be%d1%81%d1%82%d1%8c" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Личное приветствие клиента и благодарность за покупку.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Создать дружелюбный тон и показать, что вы цените клиента.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как написать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1462,8 +1406,8 @@
 &lt;li&gt;&amp;ldquo;Привет, [Имя]! Спасибо за покупку [название продукта]. Я рад, что вы выбрали нас.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Начните с дружелюбного приветствия и благодарности.&lt;/p&gt;
-&lt;h3&gt;2. Подтверждение покупки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-подтверждение-покупки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о том, что клиент купил.&lt;/p&gt;
+&lt;h3&gt;2. Подтверждение покупки&lt;span class="hx:absolute hx:-mt-20" id="2-подтверждение-покупки"&gt;&lt;/span&gt;
+&lt;a href="#2-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о том, что клиент купил.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Дать клиенту уверенность, что покупка прошла успешно.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1476,8 +1420,8 @@
 &lt;li&gt;&amp;ldquo;Вы приобрели [название продукта] [дата]. Ваш доступ активирован.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Подтвердите, что покупка прошла успешно.&lt;/p&gt;
-&lt;h3&gt;3. Инструкция по началу работы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-инструкция-по-началу-работы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Пошаговая инструкция, как начать использовать продукт.&lt;/p&gt;
+&lt;h3&gt;3. Инструкция по началу работы&lt;span class="hx:absolute hx:-mt-20" id="3-инструкция-по-началу-работы"&gt;&lt;/span&gt;
+&lt;a href="#3-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Пошаговая инструкция, как начать использовать продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Помочь клиенту быстро начать использовать продукт и получить результат.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как написать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1497,8 +1441,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Дайте клиенту чёткую инструкцию, что делать дальше.&lt;/p&gt;
-&lt;h3&gt;4. Полезные ссылки и ресурсы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-полезные-ссылки-и-ресурсы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%b5-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b8-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ссылки на важные страницы и ресурсы.&lt;/p&gt;
+&lt;h3&gt;4. Полезные ссылки и ресурсы&lt;span class="hx:absolute hx:-mt-20" id="4-полезные-ссылки-и-ресурсы"&gt;&lt;/span&gt;
+&lt;a href="#4-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%b5-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b8-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ссылки на важные страницы и ресурсы.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Помочь клиенту найти нужную информацию быстро.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1517,8 +1461,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Дайте клиенту все нужные ссылки в одном месте.&lt;/p&gt;
-&lt;h3&gt;5. Контакты для поддержки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-контакты-для-поддержки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как связаться с вами при вопросах или проблемах.&lt;/p&gt;
+&lt;h3&gt;5. Контакты для поддержки&lt;span class="hx:absolute hx:-mt-20" id="5-контакты-для-поддержки"&gt;&lt;/span&gt;
+&lt;a href="#5-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как связаться с вами при вопросах или проблемах.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Показать, что вы доступны и готовы помочь.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1531,133 +1475,107 @@
 &lt;li&gt;&amp;ldquo;Если возникнут вопросы — пишите на [email]. Отвечаю в течение 24 часов.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите клиенту, как с вами связаться.&lt;/p&gt;
-&lt;h2&gt;Полный пример welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;полный-пример-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d0%be%d0%bb%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Вот как выглядит полное welcome-письмо, собранное вместе:&lt;/p&gt;
+&lt;h2&gt;Полный пример welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="полный-пример-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d0%be%d0%bb%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Вот как выглядит полное welcome-письмо, собранное вместе:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Тема письма:&lt;/strong&gt; Добро пожаловать в [название продукта]!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст письма:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку [название продукта]. Я рад, что вы выбрали нас.
-
 Вы приобрели [название продукта] [дата]. Ваш доступ активирован.
-
 Чтобы начать использовать продукт:
-
 1. Перейдите по ссылке: [ссылка на продукт]
 2. Заполните форму запуска (займёт 2 минуты)
 3. Загрузите ваши материалы курса (если нужно)
 4. Готово! AI-помощник начнёт работать автоматически
-
 Полезные ссылки:
 - Доступ к продукту: [ссылка]
 - FAQ и инструкции: [ссылка]
 - Поддержка: [email]
-
 Если возникнут вопросы — пишите на [email]. Отвечаю в течение 24 часов.
-
 С уважением,
-[Ваше имя]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+[Ваше имя]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Примеры welcome-писем для разных типов продуктов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;примеры-welcome-писем-для-разных-типов-продуктов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-welcome-%d0%bf%d0%b8%d1%81%d0%b5%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%80%d0%b0%d0%b7%d0%bd%d1%8b%d1%85-%d1%82%d0%b8%d0%bf%d0%be%d0%b2-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-1-ai-помощник-для-курсов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать в AI-помощника для вашего курса!&lt;/p&gt;
+&lt;h2&gt;Примеры welcome-писем для разных типов продуктов&lt;span class="hx:absolute hx:-mt-20" id="примеры-welcome-писем-для-разных-типов-продуктов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-welcome-%d0%bf%d0%b8%d1%81%d0%b5%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%80%d0%b0%d0%b7%d0%bd%d1%8b%d1%85-%d1%82%d0%b8%d0%bf%d0%be%d0%b2-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class="hx:absolute hx:-mt-20" id="пример-1-ai-помощник-для-курсов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать в AI-помощника для вашего курса!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку AI-помощника для курсов. Теперь ваши студенты будут получать ответы автоматически.
-
 Чтобы начать:
-
 1. Перейдите по ссылке: [ссылка]
 2. Загрузите материалы вашего курса (PDF, текст, видео-транскрипты)
 3. Настройте ответы (опционально)
 4. Готово! Студенты могут задавать вопросы, и AI будет отвечать автоматически
-
 FAQ: [ссылка]
 Поддержка: [email]
-
-Если что-то непонятно — пишите, помогу!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Если что-то непонятно — пишите, помогу!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-2-генератор-описаний-товаров&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать! Начните генерировать описания за секунды&lt;/p&gt;
+&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class="hx:absolute hx:-mt-20" id="пример-2-генератор-описаний-товаров"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать! Начните генерировать описания за секунды&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку генератора описаний товаров.
-
 Ваш доступ активирован. Чтобы начать:
-
 1. Перейдите по ссылке: [ссылка]
 2. Загрузите таблицу с названиями товаров (Excel или CSV)
 3. Нажмите &amp;#34;Сгенерировать&amp;#34;
 4. Получите готовую таблицу с описаниями на email
-
 Примеры использования: [ссылка]
 Поддержка: [email]
-
-Удачи с продажами!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Удачи с продажами!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Пример 3: Автоматизация для бизнеса&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-3-автоматизация-для-бизнеса&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-3-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Ваша автоматизация готова к запуску!&lt;/p&gt;
+&lt;h3&gt;Пример 3: Автоматизация для бизнеса&lt;span class="hx:absolute hx:-mt-20" id="пример-3-автоматизация-для-бизнеса"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-3-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Ваша автоматизация готова к запуску!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку [название продукта].
-
 Чтобы начать использовать автоматизацию:
-
 1. Перейдите по ссылке: [ссылка]
 2. Подключите ваши сервисы (инструкция: [ссылка])
 3. Настройте workflow под ваши задачи
 4. Активируйте автоматизацию
-
 Видео-инструкция: [ссылка]
 Поддержка: [email]
-
-Если нужна помощь с настройкой — пишите!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Если нужна помощь с настройкой — пишите!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Когда отправлять welcome-письмо&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;когда-отправлять-welcome-письмо&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%ba%d0%be%d0%b3%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Оптимальное время:&lt;/strong&gt; Сразу после успешной оплаты (в течение нескольких минут).&lt;/p&gt;
+&lt;h2&gt;Когда отправлять welcome-письмо&lt;span class="hx:absolute hx:-mt-20" id="когда-отправлять-welcome-письмо"&gt;&lt;/span&gt;
+&lt;a href="#%d0%ba%d0%be%d0%b3%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Оптимальное время:&lt;/strong&gt; Сразу после успешной оплаты (в течение нескольких минут).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Почему важно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Клиент ожидает подтверждения покупки&lt;/li&gt;
@@ -1665,8 +1583,8 @@ FAQ: [ссылка]
 &lt;li&gt;Снижает количество вопросов &amp;ldquo;Где мой доступ?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Отправляйте welcome-письмо сразу после оплаты, автоматически.&lt;/p&gt;
-&lt;h2&gt;Что НЕ нужно в welcome-письме&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-не-нужно-в-welcome-письме&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%b2-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
+&lt;h2&gt;Что НЕ нужно в welcome-письме&lt;span class="hx:absolute hx:-mt-20" id="что-не-нужно-в-welcome-письме"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%b2-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
 &lt;p&gt;❌ &lt;strong&gt;Длинные тексты&lt;/strong&gt; — никто не будет читать 10 абзацев
 ❌ &lt;strong&gt;Множество ссылок&lt;/strong&gt; — 3-5 ссылок достаточно
 ❌ &lt;strong&gt;Технический жаргон&lt;/strong&gt; — используйте простые слова
@@ -1674,34 +1592,34 @@ FAQ: [ссылка]
 ❌ &lt;strong&gt;Сложные инструкции&lt;/strong&gt; — разбейте на простые шаги
 ❌ &lt;strong&gt;Обещания, которые не можете выполнить&lt;/strong&gt; — будьте честны&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Правило:&lt;/strong&gt; Если элемент не помогает клиенту начать использовать продукт — уберите его.&lt;/p&gt;
-&lt;h2&gt;Чек-лист создания welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;чек-лист-создания-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед настройкой:&lt;/p&gt;
+&lt;h2&gt;Чек-лист создания welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="чек-лист-создания-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед настройкой:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Приветствие и благодарность включены&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Подтверждение покупки есть&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Инструкция по началу работы понятна (3-5 шагов)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Полезные ссылки указаны&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Контакты для поддержки есть&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Письмо персонализировано (имя клиента)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Текст простой и понятный (без жаргона)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Автоматическая отправка настроена через n8n&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Email-сервис подключен и протестирован&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Приветствие и благодарность включены&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Подтверждение покупки есть&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Инструкция по началу работы понятна (3-5 шагов)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Полезные ссылки указаны&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Контакты для поддержки есть&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Письмо персонализировано (имя клиента)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Текст простой и понятный (без жаргона)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Автоматическая отправка настроена через n8n&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Email-сервис подключен и протестирован&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Типичные ошибки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком длинное письмо&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-1-слишком-длинное-письмо&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b4%d0%bb%d0%b8%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 абзацев текста, который никто не читает
+&lt;h2&gt;Типичные ошибки&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки"&gt;&lt;/span&gt;
+&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком длинное письмо&lt;span class="hx:absolute hx:-mt-20" id="ошибка-1-слишком-длинное-письмо"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b4%d0%bb%d0%b8%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 абзацев текста, который никто не читает
 &lt;strong&gt;Решение:&lt;/strong&gt; Сократите до сути. 5-7 коротких абзацев достаточно.&lt;/p&gt;
-&lt;h3&gt;Ошибка 2: Нет инструкции по началу работы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-2-нет-инструкции-по-началу-работы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%bd%d0%b5%d1%82-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Клиент не понимает, что делать дальше
+&lt;h3&gt;Ошибка 2: Нет инструкции по началу работы&lt;span class="hx:absolute hx:-mt-20" id="ошибка-2-нет-инструкции-по-началу-работы"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%bd%d0%b5%d1%82-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Клиент не понимает, что делать дальше
 &lt;strong&gt;Решение:&lt;/strong&gt; Обязательно добавьте пошаговую инструкцию.&lt;/p&gt;
-&lt;h3&gt;Ошибка 3: Не персонализировано&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-3-не-персонализировано&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Письмо начинается с &amp;ldquo;Привет!&amp;rdquo; вместо &amp;ldquo;Привет, Иван!&amp;rdquo;
+&lt;h3&gt;Ошибка 3: Не персонализировано&lt;span class="hx:absolute hx:-mt-20" id="ошибка-3-не-персонализировано"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Письмо начинается с &amp;ldquo;Привет!&amp;rdquo; вместо &amp;ldquo;Привет, Иван!&amp;rdquo;
 &lt;strong&gt;Решение:&lt;/strong&gt; Используйте имя клиента из данных webhook.&lt;/p&gt;
-&lt;h3&gt;Ошибка 4: Не настроена автоматическая отправка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-4-не-настроена-автоматическая-отправка&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Приходится отправлять письма вручную
+&lt;h3&gt;Ошибка 4: Не настроена автоматическая отправка&lt;span class="hx:absolute hx:-mt-20" id="ошибка-4-не-настроена-автоматическая-отправка"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Приходится отправлять письма вручную
 &lt;strong&gt;Решение:&lt;/strong&gt; Настройте автоматическую отправку.&lt;/p&gt;
-&lt;h2&gt;Глоссарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;глоссарий&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо (приветственное письмо)&lt;/strong&gt; — первое письмо, которое клиент получает после покупки продукта. Содержит приветствие, инструкции по началу работы и контакты поддержки.&lt;/p&gt;
+&lt;h2&gt;Глоссарий&lt;span class="hx:absolute hx:-mt-20" id="глоссарий"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо (приветственное письмо)&lt;/strong&gt; — первое письмо, которое клиент получает после покупки продукта. Содержит приветствие, инструкции по началу работы и контакты поддержки.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Персонализация&lt;/strong&gt; — использование данных клиента (имя, название продукта) для создания более личного письма. Увеличивает открываемость и вовлечённость.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email-сервис&lt;/strong&gt; — сервис для отправки email-писем. Примеры: UniSender, Mailjet, SendGrid. Позволяет отправлять письма через API.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;API ключ&lt;/strong&gt; — уникальный код для доступа к API сервиса. Позволяет вашему workflow отправлять письма через email-сервис.&lt;/p&gt;
@@ -1709,21 +1627,28 @@ FAQ: [ссылка]
 &lt;p&gt;&lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt; — протокол для отправки email. Можно использовать любой SMTP-сервер для отправки писем.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Открываемость (open rate)&lt;/strong&gt; — процент людей, которые открыли письмо от общего числа получивших. Показатель эффективности письма.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Последнее обновление: -01-2026&lt;/em&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Начинаю свой персональный челендж</title>
-      <link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link>
-      <pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Начинаю свой персональный челендж&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Последнее обновление: -01-2026&lt;/em&gt;&lt;/p&gt;</description></item><item><title>Широкая воронка проблем</title><link>https://ch12ms.online/posts/shirokaya-voronka-problem/</link><pubDate>Sat, 28 Feb 2026 10:00:00 +0300</pubDate><guid>https://ch12ms.online/posts/shirokaya-voronka-problem/</guid><description>
+&lt;p&gt;Друзья, всем привет.&lt;/p&gt;
+&lt;p&gt;У меня появилась уже третья идея стартапа, но в какой-то момент я поймал себя на мысли: придумывать идеи по одной — это тупиковая стратегия. Собирать по крупицам — долго и хаотично. Если делать серьёзно, то должна быть воронка проблем, и на входе она должна быть максимально широкой.&lt;/p&gt;
+&lt;p&gt;Я немного считерил и пошёл системным путём. Возможно, для кого-то это станет рабочей логикой и на своём фронтире вы сделаете так же.&lt;/p&gt;
+&lt;p&gt;Я занимаюсь внедрением искусственного интеллекта в процессы бэк-офиса. И очевидно, что какое бы цифровое решение мы сейчас ни придумывали — если оно основано на данных и алгоритмике — оно так или иначе будет связано с ИИ. Значит, искать нужно не «идею», а процессы, где у ИИ есть потенциал.&lt;/p&gt;
+&lt;p&gt;Что я сделал?&lt;/p&gt;
+&lt;p&gt;У меня есть рабочий инструмент — библиотека всех процессов бэк-офиса по всем функциям: финансы, маркетинг, HR, логистика, документооборот и так далее. Но она была детализирована только до первого и второго уровня. Первое, что я сделал, — детализировал её до третьего уровня.&lt;/p&gt;
+&lt;p&gt;Грубо говоря, если в функции HR есть подфункция «рекрутинг» или «онбординг», то третий уровень — это уже конкретные задачи внутри рекрутинга и онбординга. Так получаются реальные точки приложения.&lt;/p&gt;
+&lt;p&gt;Очевидно, что я не со всеми процессами бэк-офиса работал, есть белые пятна. Поэтому я снова считерил — взял готовую таксономию процессов от APQC. Это по сути стандарт каталогизации бизнес-процессов. Понятно, что это не «как есть» в конкретной компании, а модель того, как процессы должны быть структурированы.&lt;/p&gt;
+&lt;p&gt;Я свёл их каталог со своей библиотекой и с его помощью детализировал процессы до третьего уровня. В итоге у меня получился массив примерно из 300 бизнес-процессов с разной степенью готовности и применимости к ИИ.&lt;/p&gt;
+&lt;p&gt;Дальше — фильтрация.&lt;/p&gt;
+&lt;p&gt;У меня есть методология анализа бизнес-процессов, внутри которой — оценка применимости ИИ по восьми критериям. Я взял эти 300 процессов и прогнал их по этим восьми критериям по пятибалльной шкале.&lt;/p&gt;
+&lt;p&gt;Получился короткий список — 63 процесса.&lt;/p&gt;
+&lt;p&gt;Следующий шаг — уже не просто «где можно применить ИИ», а из чего может получиться стартап. Для этого я разработал дополнительные критерии, адаптированные под российский рынок. С учётом законодательства, с учётом того, что мы не изобретаем всё с нуля, а оркестрируем и собираем конструкцию из уже существующих решений.&lt;/p&gt;
+&lt;p&gt;По этим критериям я повторно ранжировал короткий список.&lt;/p&gt;
+&lt;p&gt;В итоге получил 9 кластеров, внутри которых суммарно 53 процесса с наиболее высоким потенциалом.&lt;/p&gt;
+&lt;p&gt;Теперь начинается самое интересное и самое трудоёмкое.&lt;/p&gt;
+&lt;p&gt;Я беру каждый кластер и анализирую его уже в рамках фреймворка запуска AI-стартапа — то есть через продуктовую аналитику. Вопрос один: действительно ли в этих процессах есть системные проблемы, за решение которых рынок готов платить, и можно ли их решить за счёт ИИ?&lt;/p&gt;
+&lt;p&gt;Это уже не этап генерации идей. Это этап инженерной проверки гипотез.&lt;/p&gt;
+&lt;p&gt;Большой, скрупулёзный и во многом рутинный процесс, который полностью на искусственный интеллект не переложишь. Но ключевую вещь я для себя закрыл: я перестал «придумывать» стартап и построил систему отбора.&lt;/p&gt;
+&lt;p&gt;300 процессов → 63 → 9 кластеров → 53 приоритетных направления.&lt;/p&gt;
+&lt;p&gt;Если вам близка логика не интуитивного, а системного поиска возможностей — велком, используйте.&lt;/p&gt;</description></item><item><title>Начинаю свой персональный челендж</title><link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link><pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate><guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid><description>
 &lt;p&gt;Друзья, всем привет!&lt;/p&gt;
 &lt;p&gt;На дворе февраль, а это значит, что мы переходим к практической части нашего большого годового эксперимента. Я закрыл все обязательства по теоретической базе и фреймворк-фундаменту и теперь перехожу к главному — работе над конкретным проектом.&lt;/p&gt;
 &lt;p&gt;Прямо сейчас я занимаюсь разработкой коммерческого варианта одного из своих проверенных продуктов. Я понимаю, что он очень специфический и, возможно, не даст большого эффекта, но на нем я проверю этапы от разработки и валидации до, дай бог, масштабирования.&lt;/p&gt;
@@ -1731,29 +1656,16 @@ FAQ: [ссылка]
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Чек-лист валидации идеи&lt;/strong&gt; — чтобы шаг за шагом проверить, насколько найденная идея востребована.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8"target="_blank" rel="noopener"&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Готовый план первых шагов&lt;/strong&gt; — дорожная карта из большого гайда по поиску и валидации идей.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9"target="_blank" rel="noopener"&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Друзья, предлагаю и вам начинать свои первые пробы, свой путь. Я буду публиковать обновления в режиме реального времени (не ежедневно, но когда будет что рассказать).&lt;/p&gt;
-&lt;p&gt;А вам предлагаю делиться в комментариях своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>ИИ для старта, команда для роста, или почему микростартап - это только начало</title>
-      <link>https://ch12ms.online/posts/ii-dlya-starta/</link>
-      <pubDate>Fri, 09 Jan 2026 12:23:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/ii-dlya-starta/</guid>
-      <description>
-        
-        
-        &lt;p&gt;На днях я говорил, что для запуска первого микростартапа вам не нужно быть разработчиком. И, как обычно бывает, эту мысль многие либо слишком упростили, либо, наоборот, восприняли в штыки. Поэтому давайте я её чуть аккуратнее разложу.&lt;/p&gt;
+&lt;p&gt;А вам предлагаю делиться в &lt;a href="https://t.me/ch12ms"target="_blank" rel="noopener"&gt;комментариях&lt;/a&gt; своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;</description></item><item><title>ИИ для старта, команда для роста, или почему микростартап - это только начало</title><link>https://ch12ms.online/posts/ii-dlya-starta/</link><pubDate>Fri, 09 Jan 2026 12:23:00 +0300</pubDate><guid>https://ch12ms.online/posts/ii-dlya-starta/</guid><description>
+&lt;p&gt;На днях я говорил, что для запуска первого микростартапа вам не нужно быть разработчиком. И, как обычно бывает, эту мысль многие либо слишком упростили, либо, наоборот, восприняли в штыки. Поэтому давайте я её чуть аккуратнее разложу.&lt;/p&gt;
 &lt;p&gt;Чаще всего здесь возникает две крайности. Первая - &amp;ldquo;значит, можно вообще не разбираться в разработке&amp;rdquo;. Вторая - &amp;ldquo;ну да, сейчас можно поиграться, а потом всё равно придётся становиться программистом&amp;rdquo;. И обе эти позиции, если честно, мимо.&lt;/p&gt;
 &lt;p&gt;Вам действительно не обязательно уметь писать код. И точно не нужно срочно пытаться переквалифицироваться в разработчика, даже если под рукой есть ИИ. Но есть одна вещь, которую всё равно придётся освоить. Это понимание того, как в целом устроены IT-системы на уровне логики. Из каких блоков они состоят, где у них узкие места, что начинает ломаться при росте нагрузки. И вот это понимание сегодня вполне можно собрать с помощью ИИ. Я, по сути, так и делал.&lt;/p&gt;
 &lt;p&gt;Но здесь важно не попасть в иллюзию контроля.&lt;/p&gt;
@@ -1764,21 +1676,8 @@ FAQ: [ссылка]
 &lt;p&gt;Зачем тогда вообще нужен этап микростартапа? Чтобы начать спокойно. Без попытки сразу построить идеальную систему. Без желания предусмотреть всё наперёд. Это этап, где вы проверяете гипотезы, набиваете шишки и постепенно начинаете понимать, во что именно вы ввязываетесь.&lt;/p&gt;
 &lt;p&gt;Я не просто так об этом говорю. В ближайшее время я начну показывать, как сам работаю над своими приложениями. И если смотреть со стороны, это выглядит довольно приземлённо. Я почти не пишу код. Большая часть моей работы - это итерации взаимодействия с искусственным интеллектом.&lt;/p&gt;
 &lt;p&gt;При этом я отдаю себе отчёт в ограничениях такого подхода. Я не всегда знаю, какого качества получается код, где там потенциальные слабые места и что именно может поехать под нагрузкой. И именно поэтому для меня очевидно, что когда микростартап начинает превращаться хотя бы в небольшой, но стабильный бизнес, ответственность за надёжность решений должна переходить к профессионалам.&lt;/p&gt;
-&lt;p&gt;При этом нельзя не признать, что современные low-code и no-code платформы уже позволяют собирать достаточно устойчивые решения даже для большого количества пользователей. Просто у любого инструмента есть пределы. И задача предпринимателя - вовремя их увидеть, а не упираться в них лбом.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>История Джона Йонгфука: как 12 стартапов за 12 месяцев привели к успеху Bannerbear</title>
-      <link>https://ch12ms.online/posts/istoriya-jona-yongfuka/</link>
-      <pubDate>Wed, 07 Jan 2026 19:36:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/istoriya-jona-yongfuka/</guid>
-      <description>
-        
-        
-        &lt;p&gt;![Джон Йонгфук](/posts/images/Pasted image 20260107193724.png)&lt;/p&gt;
+&lt;p&gt;При этом нельзя не признать, что современные low-code и no-code платформы уже позволяют собирать достаточно устойчивые решения даже для большого количества пользователей. Просто у любого инструмента есть пределы. И задача предпринимателя - вовремя их увидеть, а не упираться в них лбом.&lt;/p&gt;</description></item><item><title>История Джона Йонгфука: как 12 стартапов за 12 месяцев привели к успеху Bannerbear</title><link>https://ch12ms.online/posts/istoriya-jona-yongfuka/</link><pubDate>Wed, 07 Jan 2026 19:36:00 +0300</pubDate><guid>https://ch12ms.online/posts/istoriya-jona-yongfuka/</guid><description>
+&lt;p&gt;![Джон Йонгфук](/posts/images/Pasted image 20260107193724.png)&lt;/p&gt;
 &lt;p&gt;Друзья, всем привет.&lt;/p&gt;
 &lt;p&gt;Я хочу начать цикл историй про людей, которые okb тем же путем, что выбрал и я. Без команды из десяти разработчиков, без венчурных денег и какого-то сакрального технического знания.&lt;/p&gt;
 &lt;p&gt;Вопреки общим представлениям для того, чтобы &lt;strong&gt;начать&lt;/strong&gt; делать свой микростартап, разработчиком быть не нужно. Разработка появляется позже - в тот момент, когда рынок уже подтвердил, что продукт кому-то действительно нужен. До важно увидеть проблему, проверить спрос и только потом что-то строить.&lt;/p&gt;
@@ -1803,21 +1702,8 @@ FAQ: [ссылка]
 &lt;p&gt;История Джона ценна тем, что он шел понятным маршрутом. Любой из нас может повторить то, что сделал он, и получить, возможно, куда более лучшие результаты.&lt;/p&gt;
 &lt;p&gt;&amp;ndash;&lt;/p&gt;
 &lt;p&gt;Друзья, поделитесь своим мнением о новой рубрике в принципе и истории Джона в частности.
-Как думаете, сможем такое сделать?&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Как продвигать микростартапы: problem-first подход и поиск низковисящих плодов</title>
-      <link>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</link>
-      <pubDate>Mon, 05 Jan 2026 21:41:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/alexey-image.png&#34; alt=&#34;Вопрос Алексея о времени на тракцию&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+Как думаете, сможем такое сделать?&lt;/p&gt;</description></item><item><title>Как продвигать микростартапы: problem-first подход и поиск низковисящих плодов</title><link>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</link><pubDate>Mon, 05 Jan 2026 21:41:00 +0300</pubDate><guid>https://ch12ms.online/posts/kak-prodvigat-microstartapi/</guid><description>
+&lt;p&gt;&lt;img src="https://ch12ms.online/images/alexey-image.png" alt="Вопрос Алексея о времени на тракцию" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Лёша, спасибо за вопрос - ты правильно зацепил самую важную часть. Давай разложу по полочкам.&lt;/p&gt;
 &lt;p&gt;Мы в челлендже не идём по &amp;ldquo;классическому пути&amp;rdquo;. Более того, я бы даже сказал так: классический путь часто и приводит в тупик. Когда люди сначала придумывают идею, влюбляются в неё, а потом начинают бегать по рынку и искать, кому бы её &amp;ldquo;пристроить&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;У нас другой подход. Он зиждется на двух принципах.&lt;/p&gt;
@@ -1836,21 +1722,8 @@ FAQ: [ссылка]
 &lt;p&gt;Не зашло? Отлично. Значит, ты сэкономил месяцы разработки и деньги. Просто переходишь к следующей проблеме. В этом и смысл валидации: не &amp;ldquo;дожать реальность&amp;rdquo;, а услышать её.&lt;/p&gt;
 &lt;p&gt;Если собрать в одну фразу, схема такая:&lt;br&gt;
 сначала находишь носителей проблемы → убеждаешься, что их достаточно → проверяешь, что они готовы платить → и только потом начинаешь что-то строить и масштабировать.&lt;/p&gt;
-&lt;p&gt;Рекомендую прочитать статью про поиск идей. Там я все подробно описал &lt;a href=&#34;https://ch12ms.online/posts/kak-nayti-ideyu-microstartapa/&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ch12ms.online/posts/kak-nayti-ideyu-microstartapa/&lt;/a&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Для чего нужен челлендж: моя история и цели</title>
-      <link>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</link>
-      <pubDate>Mon, 05 Jan 2026 20:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/artyom-image.png&#34; alt=&#34;Вопрос Артёма о целях челленджа&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Рекомендую прочитать статью про поиск идей. Там я все подробно описал &lt;a href="https://ch12ms.online/posts/kak-nayti-ideyu-microstartapa/"target="_blank" rel="noopener"&gt;https://ch12ms.online/posts/kak-nayti-ideyu-microstartapa/&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Для чего нужен челлендж: моя история и цели</title><link>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</link><pubDate>Mon, 05 Jan 2026 20:00:00 +0300</pubDate><guid>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</guid><description>
+&lt;p&gt;&lt;img src="https://ch12ms.online/images/artyom-image.png" alt="Вопрос Артёма о целях челленджа" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Артём спросил, зачем мне этот челлендж. Идея крутилась давно, но я не мог понять, как её оформить. Параллельно я увлёкся темой one-person company и solo-предпринимательства, а весной наткнулся на термин &amp;ldquo;микростартап&amp;rdquo;. Я залип, но тогда я был увлечен заказной разработкой и тема встала на паузу.&lt;/p&gt;
 &lt;p&gt;Настоящий сдвиг произошёл позже. Летом 2025 года я всерьёз занялся своей персональной стратегией по методу Александра Кравцова. Книга так и называется - &amp;ldquo;Персональная стратегия&amp;rdquo;. Я до сих пор по ней работаю и могу честно сказать: это один из самых практичных инструментов, с которыми я сталкивался.&lt;/p&gt;
 &lt;p&gt;Когда я сформулировал свои долгосрочные цели и посмотрел на сегодняшний день уже из будущего, стало очевидно: мне нужно идти в сторону собственного IT-продукта. Не абстрактного, а такого, который шаг за шагом прокладывает дорогу к большому будущему. Так история с микростартапами вернулась - но уже в другом качестве.&lt;/p&gt;
@@ -1866,10 +1739,4 @@ FAQ: [ссылка]
 &lt;p&gt;До конца января я выложу весь образовательный контент целиком. После этого я буду вести блог уже о текущей работе: своих микростартапах, проектах участников, канбан-доске, успехах, ошибках, выводах.&lt;/p&gt;
 &lt;p&gt;Если вам откликается идея идти этим путём вместе - без спешки, без маркетинговых манипуляций и &amp;ldquo;последних мест&amp;rdquo;, - то в конце текста вы найдёте ссылку на описание подписки. Она нужна только тем, кто хочет делать проекты вместе со мной, размещать их на общей канбан-доске и быть в закрытом контуре с более плотной поддержкой.&lt;/p&gt;
 &lt;p&gt;Никаких обязательств. В любой момент можно выйти.&lt;/p&gt;
-&lt;p&gt;Если чувствуете интерес - заходите, посмотрите описание и решите для себя. Ссылка будет в конце.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Если чувствуете интерес - заходите, посмотрите описание и решите для себя. Ссылка будет в конце.&lt;/p&gt;</description></item></channel></rss>

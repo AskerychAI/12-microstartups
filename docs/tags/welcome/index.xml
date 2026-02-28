@@ -1,32 +1,7 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>12 microstartups – Welcome</title>
-    <link>https://ch12ms.online/tags/welcome/</link>
-    <description>Recent content in Welcome on 12 microstartups</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0300</lastBuildDate>
-    
-	  <atom:link href="https://ch12ms.online/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Как написать welcome-письмо</title>
-      <link>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Как написать welcome-письма для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать эффективное welcome-письмо, которое клиент получает сразу после покупки. Мы разберём структуру письма, примеры для разных продуктов/&lt;/p&gt;
-&lt;h2&gt;Что такое welcome-письмо и зачем оно нужно&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-такое-welcome-письмо-и-зачем-оно-нужно&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%be-%d0%bd%d1%83%d0%b6%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо&lt;/strong&gt; (приветственное письмо) — это первое письмо, которое клиент получает после покупки вашего продукта. Простыми словами, это &amp;ldquo;добро пожаловать&amp;rdquo; от вашего микростартапа.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Welcome</title><link>https://ch12ms.online/tags/welcome/</link><description>Recent content in Welcome on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/welcome/index.xml" rel="self" type="application/rss+xml"/><item><title>Как написать welcome-письмо</title><link>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</link><pubDate>Thu, 01 Jan 2026 00:00:00 +0300</pubDate><guid>https://ch12ms.online/pages/09-instrukciya-5-kak-napisat-welcome-pismo/</guid><description>
+&lt;h1&gt;Как написать welcome-письма для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать эффективное welcome-письмо, которое клиент получает сразу после покупки. Мы разберём структуру письма, примеры для разных продуктов/&lt;/p&gt;
+&lt;h2&gt;Что такое welcome-письмо и зачем оно нужно&lt;span class="hx:absolute hx:-mt-20" id="что-такое-welcome-письмо-и-зачем-оно-нужно"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%be-%d0%bd%d1%83%d0%b6%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо&lt;/strong&gt; (приветственное письмо) — это первое письмо, которое клиент получает после покупки вашего продукта. Простыми словами, это &amp;ldquo;добро пожаловать&amp;rdquo; от вашего микростартапа.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем оно нужно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Поблагодарить клиента за покупку&lt;/li&gt;
@@ -36,10 +11,10 @@
 &lt;li&gt;Направить клиента к продукту&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Welcome-письмо — это первое впечатление о вашем продукте. Если клиент не понимает, что делать дальше, он может разочароваться и запросить возврат денег.&lt;/p&gt;
-&lt;h2&gt;Структура welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;структура-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Хорошее welcome-письмо состоит из нескольких частей, которые идут друг за другом.&lt;/p&gt;
-&lt;h3&gt;1. Приветствие и благодарность&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-приветствие-и-благодарность&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%b8-%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%bd%d0%be%d1%81%d1%82%d1%8c&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Личное приветствие клиента и благодарность за покупку.&lt;/p&gt;
+&lt;h2&gt;Структура welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="структура-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Хорошее welcome-письмо состоит из нескольких частей, которые идут друг за другом.&lt;/p&gt;
+&lt;h3&gt;1. Приветствие и благодарность&lt;span class="hx:absolute hx:-mt-20" id="1-приветствие-и-благодарность"&gt;&lt;/span&gt;
+&lt;a href="#1-%d0%bf%d1%80%d0%b8%d0%b2%d0%b5%d1%82%d1%81%d1%82%d0%b2%d0%b8%d0%b5-%d0%b8-%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d0%bd%d0%be%d1%81%d1%82%d1%8c" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Личное приветствие клиента и благодарность за покупку.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Создать дружелюбный тон и показать, что вы цените клиента.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как написать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -52,8 +27,8 @@
 &lt;li&gt;&amp;ldquo;Привет, [Имя]! Спасибо за покупку [название продукта]. Я рад, что вы выбрали нас.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Начните с дружелюбного приветствия и благодарности.&lt;/p&gt;
-&lt;h3&gt;2. Подтверждение покупки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-подтверждение-покупки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о том, что клиент купил.&lt;/p&gt;
+&lt;h3&gt;2. Подтверждение покупки&lt;span class="hx:absolute hx:-mt-20" id="2-подтверждение-покупки"&gt;&lt;/span&gt;
+&lt;a href="#2-%d0%bf%d0%be%d0%b4%d1%82%d0%b2%d0%b5%d1%80%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о том, что клиент купил.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Дать клиенту уверенность, что покупка прошла успешно.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -66,8 +41,8 @@
 &lt;li&gt;&amp;ldquo;Вы приобрели [название продукта] [дата]. Ваш доступ активирован.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Подтвердите, что покупка прошла успешно.&lt;/p&gt;
-&lt;h3&gt;3. Инструкция по началу работы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-инструкция-по-началу-работы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Пошаговая инструкция, как начать использовать продукт.&lt;/p&gt;
+&lt;h3&gt;3. Инструкция по началу работы&lt;span class="hx:absolute hx:-mt-20" id="3-инструкция-по-началу-работы"&gt;&lt;/span&gt;
+&lt;a href="#3-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d1%8f-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Пошаговая инструкция, как начать использовать продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Помочь клиенту быстро начать использовать продукт и получить результат.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Как написать:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -87,8 +62,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Дайте клиенту чёткую инструкцию, что делать дальше.&lt;/p&gt;
-&lt;h3&gt;4. Полезные ссылки и ресурсы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-полезные-ссылки-и-ресурсы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%b5-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b8-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ссылки на важные страницы и ресурсы.&lt;/p&gt;
+&lt;h3&gt;4. Полезные ссылки и ресурсы&lt;span class="hx:absolute hx:-mt-20" id="4-полезные-ссылки-и-ресурсы"&gt;&lt;/span&gt;
+&lt;a href="#4-%d0%bf%d0%be%d0%bb%d0%b5%d0%b7%d0%bd%d1%8b%d0%b5-%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b8-%d1%80%d0%b5%d1%81%d1%83%d1%80%d1%81%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ссылки на важные страницы и ресурсы.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Помочь клиенту найти нужную информацию быстро.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -107,8 +82,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Дайте клиенту все нужные ссылки в одном месте.&lt;/p&gt;
-&lt;h3&gt;5. Контакты для поддержки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-контакты-для-поддержки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как связаться с вами при вопросах или проблемах.&lt;/p&gt;
+&lt;h3&gt;5. Контакты для поддержки&lt;span class="hx:absolute hx:-mt-20" id="5-контакты-для-поддержки"&gt;&lt;/span&gt;
+&lt;a href="#5-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b-%d0%b4%d0%bb%d1%8f-%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как связаться с вами при вопросах или проблемах.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем нужно:&lt;/strong&gt; Показать, что вы доступны и готовы помочь.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что включить:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -121,133 +96,107 @@
 &lt;li&gt;&amp;ldquo;Если возникнут вопросы — пишите на [email]. Отвечаю в течение 24 часов.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите клиенту, как с вами связаться.&lt;/p&gt;
-&lt;h2&gt;Полный пример welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;полный-пример-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d0%be%d0%bb%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Вот как выглядит полное welcome-письмо, собранное вместе:&lt;/p&gt;
+&lt;h2&gt;Полный пример welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="полный-пример-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d0%be%d0%bb%d0%bd%d1%8b%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Вот как выглядит полное welcome-письмо, собранное вместе:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Тема письма:&lt;/strong&gt; Добро пожаловать в [название продукта]!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст письма:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку [название продукта]. Я рад, что вы выбрали нас.
-
 Вы приобрели [название продукта] [дата]. Ваш доступ активирован.
-
 Чтобы начать использовать продукт:
-
 1. Перейдите по ссылке: [ссылка на продукт]
 2. Заполните форму запуска (займёт 2 минуты)
 3. Загрузите ваши материалы курса (если нужно)
 4. Готово! AI-помощник начнёт работать автоматически
-
 Полезные ссылки:
 - Доступ к продукту: [ссылка]
 - FAQ и инструкции: [ссылка]
 - Поддержка: [email]
-
 Если возникнут вопросы — пишите на [email]. Отвечаю в течение 24 часов.
-
 С уважением,
-[Ваше имя]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+[Ваше имя]&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Примеры welcome-писем для разных типов продуктов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;примеры-welcome-писем-для-разных-типов-продуктов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-welcome-%d0%bf%d0%b8%d1%81%d0%b5%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%80%d0%b0%d0%b7%d0%bd%d1%8b%d1%85-%d1%82%d0%b8%d0%bf%d0%be%d0%b2-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-1-ai-помощник-для-курсов&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать в AI-помощника для вашего курса!&lt;/p&gt;
+&lt;h2&gt;Примеры welcome-писем для разных типов продуктов&lt;span class="hx:absolute hx:-mt-20" id="примеры-welcome-писем-для-разных-типов-продуктов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-welcome-%d0%bf%d0%b8%d1%81%d0%b5%d0%bc-%d0%b4%d0%bb%d1%8f-%d1%80%d0%b0%d0%b7%d0%bd%d1%8b%d1%85-%d1%82%d0%b8%d0%bf%d0%be%d0%b2-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class="hx:absolute hx:-mt-20" id="пример-1-ai-помощник-для-курсов"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать в AI-помощника для вашего курса!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку AI-помощника для курсов. Теперь ваши студенты будут получать ответы автоматически.
-
 Чтобы начать:
-
 1. Перейдите по ссылке: [ссылка]
 2. Загрузите материалы вашего курса (PDF, текст, видео-транскрипты)
 3. Настройте ответы (опционально)
 4. Готово! Студенты могут задавать вопросы, и AI будет отвечать автоматически
-
 FAQ: [ссылка]
 Поддержка: [email]
-
-Если что-то непонятно — пишите, помогу!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Если что-то непонятно — пишите, помогу!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-2-генератор-описаний-товаров&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать! Начните генерировать описания за секунды&lt;/p&gt;
+&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class="hx:absolute hx:-mt-20" id="пример-2-генератор-описаний-товаров"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Добро пожаловать! Начните генерировать описания за секунды&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку генератора описаний товаров.
-
 Ваш доступ активирован. Чтобы начать:
-
 1. Перейдите по ссылке: [ссылка]
 2. Загрузите таблицу с названиями товаров (Excel или CSV)
 3. Нажмите &amp;#34;Сгенерировать&amp;#34;
 4. Получите готовую таблицу с описаниями на email
-
 Примеры использования: [ссылка]
 Поддержка: [email]
-
-Удачи с продажами!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Удачи с продажами!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Пример 3: Автоматизация для бизнеса&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-3-автоматизация-для-бизнеса&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-3-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Ваша автоматизация готова к запуску!&lt;/p&gt;
+&lt;h3&gt;Пример 3: Автоматизация для бизнеса&lt;span class="hx:absolute hx:-mt-20" id="пример-3-автоматизация-для-бизнеса"&gt;&lt;/span&gt;
+&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-3-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f-%d0%b4%d0%bb%d1%8f-%d0%b1%d0%b8%d0%b7%d0%bd%d0%b5%d1%81%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Тема:&lt;/strong&gt; Ваша автоматизация готова к запуску!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Текст:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
-
+&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
 &lt;div&gt;&lt;pre&gt;&lt;code&gt;Привет, [Имя]!
-
 Спасибо за покупку [название продукта].
-
 Чтобы начать использовать автоматизацию:
-
 1. Перейдите по ссылке: [ссылка]
 2. Подключите ваши сервисы (инструкция: [ссылка])
 3. Настройте workflow под ваши задачи
 4. Активируйте автоматизацию
-
 Видео-инструкция: [ссылка]
 Поддержка: [email]
-
-Если нужна помощь с настройкой — пишите!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
-  &lt;button
-    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
-    title=&#34;Скопировать код&#34;
-  &gt;
-    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
-  &lt;/button&gt;
+Если нужна помощь с настройкой — пишите!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
+&lt;button
+class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
+title="Скопировать код"
+&gt;
+&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
+&lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h2&gt;Когда отправлять welcome-письмо&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;когда-отправлять-welcome-письмо&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%ba%d0%be%d0%b3%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Оптимальное время:&lt;/strong&gt; Сразу после успешной оплаты (в течение нескольких минут).&lt;/p&gt;
+&lt;h2&gt;Когда отправлять welcome-письмо&lt;span class="hx:absolute hx:-mt-20" id="когда-отправлять-welcome-письмо"&gt;&lt;/span&gt;
+&lt;a href="#%d0%ba%d0%be%d0%b3%d0%b4%d0%b0-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%82%d1%8c-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Оптимальное время:&lt;/strong&gt; Сразу после успешной оплаты (в течение нескольких минут).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Почему важно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Клиент ожидает подтверждения покупки&lt;/li&gt;
@@ -255,8 +204,8 @@ FAQ: [ссылка]
 &lt;li&gt;Снижает количество вопросов &amp;ldquo;Где мой доступ?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Отправляйте welcome-письмо сразу после оплаты, автоматически.&lt;/p&gt;
-&lt;h2&gt;Что НЕ нужно в welcome-письме&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-не-нужно-в-welcome-письме&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%b2-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
+&lt;h2&gt;Что НЕ нужно в welcome-письме&lt;span class="hx:absolute hx:-mt-20" id="что-не-нужно-в-welcome-письме"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%b2-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
 &lt;p&gt;❌ &lt;strong&gt;Длинные тексты&lt;/strong&gt; — никто не будет читать 10 абзацев
 ❌ &lt;strong&gt;Множество ссылок&lt;/strong&gt; — 3-5 ссылок достаточно
 ❌ &lt;strong&gt;Технический жаргон&lt;/strong&gt; — используйте простые слова
@@ -264,34 +213,34 @@ FAQ: [ссылка]
 ❌ &lt;strong&gt;Сложные инструкции&lt;/strong&gt; — разбейте на простые шаги
 ❌ &lt;strong&gt;Обещания, которые не можете выполнить&lt;/strong&gt; — будьте честны&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Правило:&lt;/strong&gt; Если элемент не помогает клиенту начать использовать продукт — уберите его.&lt;/p&gt;
-&lt;h2&gt;Чек-лист создания welcome-письма&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;чек-лист-создания-welcome-письма&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед настройкой:&lt;/p&gt;
+&lt;h2&gt;Чек-лист создания welcome-письма&lt;span class="hx:absolute hx:-mt-20" id="чек-лист-создания-welcome-письма"&gt;&lt;/span&gt;
+&lt;a href="#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d1%81%d0%be%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f-welcome-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед настройкой:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Приветствие и благодарность включены&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Подтверждение покупки есть&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Инструкция по началу работы понятна (3-5 шагов)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Полезные ссылки указаны&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Контакты для поддержки есть&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Письмо персонализировано (имя клиента)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Текст простой и понятный (без жаргона)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Автоматическая отправка настроена через n8n&lt;/li&gt;
-&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Email-сервис подключен и протестирован&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Приветствие и благодарность включены&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Подтверждение покупки есть&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Инструкция по началу работы понятна (3-5 шагов)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Полезные ссылки указаны&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Контакты для поддержки есть&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Письмо персонализировано (имя клиента)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Текст простой и понятный (без жаргона)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Автоматическая отправка настроена через n8n&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Email-сервис подключен и протестирован&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Типичные ошибки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком длинное письмо&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-1-слишком-длинное-письмо&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b4%d0%bb%d0%b8%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 абзацев текста, который никто не читает
+&lt;h2&gt;Типичные ошибки&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки"&gt;&lt;/span&gt;
+&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком длинное письмо&lt;span class="hx:absolute hx:-mt-20" id="ошибка-1-слишком-длинное-письмо"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b4%d0%bb%d0%b8%d0%bd%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%81%d1%8c%d0%bc%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 абзацев текста, который никто не читает
 &lt;strong&gt;Решение:&lt;/strong&gt; Сократите до сути. 5-7 коротких абзацев достаточно.&lt;/p&gt;
-&lt;h3&gt;Ошибка 2: Нет инструкции по началу работы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-2-нет-инструкции-по-началу-работы&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%bd%d0%b5%d1%82-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Клиент не понимает, что делать дальше
+&lt;h3&gt;Ошибка 2: Нет инструкции по началу работы&lt;span class="hx:absolute hx:-mt-20" id="ошибка-2-нет-инструкции-по-началу-работы"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%bd%d0%b5%d1%82-%d0%b8%d0%bd%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%86%d0%b8%d0%b8-%d0%bf%d0%be-%d0%bd%d0%b0%d1%87%d0%b0%d0%bb%d1%83-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Клиент не понимает, что делать дальше
 &lt;strong&gt;Решение:&lt;/strong&gt; Обязательно добавьте пошаговую инструкцию.&lt;/p&gt;
-&lt;h3&gt;Ошибка 3: Не персонализировано&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-3-не-персонализировано&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Письмо начинается с &amp;ldquo;Привет!&amp;rdquo; вместо &amp;ldquo;Привет, Иван!&amp;rdquo;
+&lt;h3&gt;Ошибка 3: Не персонализировано&lt;span class="hx:absolute hx:-mt-20" id="ошибка-3-не-персонализировано"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5-%d0%bf%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b0%d0%bb%d0%b8%d0%b7%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Письмо начинается с &amp;ldquo;Привет!&amp;rdquo; вместо &amp;ldquo;Привет, Иван!&amp;rdquo;
 &lt;strong&gt;Решение:&lt;/strong&gt; Используйте имя клиента из данных webhook.&lt;/p&gt;
-&lt;h3&gt;Ошибка 4: Не настроена автоматическая отправка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-4-не-настроена-автоматическая-отправка&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Приходится отправлять письма вручную
+&lt;h3&gt;Ошибка 4: Не настроена автоматическая отправка&lt;span class="hx:absolute hx:-mt-20" id="ошибка-4-не-настроена-автоматическая-отправка"&gt;&lt;/span&gt;
+&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d0%bd%d0%b0%d1%81%d1%82%d1%80%d0%be%d0%b5%d0%bd%d0%b0-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b0%d1%8f-%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Приходится отправлять письма вручную
 &lt;strong&gt;Решение:&lt;/strong&gt; Настройте автоматическую отправку.&lt;/p&gt;
-&lt;h2&gt;Глоссарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;глоссарий&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо (приветственное письмо)&lt;/strong&gt; — первое письмо, которое клиент получает после покупки продукта. Содержит приветствие, инструкции по началу работы и контакты поддержки.&lt;/p&gt;
+&lt;h2&gt;Глоссарий&lt;span class="hx:absolute hx:-mt-20" id="глоссарий"&gt;&lt;/span&gt;
+&lt;a href="#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Welcome-письмо (приветственное письмо)&lt;/strong&gt; — первое письмо, которое клиент получает после покупки продукта. Содержит приветствие, инструкции по началу работы и контакты поддержки.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Персонализация&lt;/strong&gt; — использование данных клиента (имя, название продукта) для создания более личного письма. Увеличивает открываемость и вовлечённость.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Email-сервис&lt;/strong&gt; — сервис для отправки email-писем. Примеры: UniSender, Mailjet, SendGrid. Позволяет отправлять письма через API.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;API ключ&lt;/strong&gt; — уникальный код для доступа к API сервиса. Позволяет вашему workflow отправлять письма через email-сервис.&lt;/p&gt;
@@ -299,10 +248,4 @@ FAQ: [ссылка]
 &lt;p&gt;&lt;strong&gt;SMTP (Simple Mail Transfer Protocol)&lt;/strong&gt; — протокол для отправки email. Можно использовать любой SMTP-сервер для отправки писем.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Открываемость (open rate)&lt;/strong&gt; — процент людей, которые открыли письмо от общего числа получивших. Показатель эффективности письма.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Последнее обновление: -01-2026&lt;/em&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;&lt;em&gt;Последнее обновление: -01-2026&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
