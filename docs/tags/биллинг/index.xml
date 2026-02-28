@@ -1,7 +1,32 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Биллинг</title><link>https://ch12ms.online/tags/%D0%B1%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3/</link><description>Recent content in Биллинг on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/%D0%B1%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml"/><item><title>Создание и структура лендинга</title><link>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link><pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate><guid>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid><description>
-&lt;h1&gt;Шаблон структуры лендинга для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать простой и эффективный лендинг для вашего микростартапа. Мы разберём, какие блоки должны быть на странице, в каком порядке их расположить, и как быстро создать лендинг на Tilda или иных конструкторах, без программирования.&lt;/p&gt;
-&lt;h2&gt;Что такое лендинг и зачем он нужен&lt;span class="hx:absolute hx:-mt-20" id="что-такое-лендинг-и-зачем-он-нужен"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd-%d0%bd%d1%83%d0%b6%d0%b5%d0%bd" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Лендинг&lt;/strong&gt; (landing page) — это одностраничный сайт, который рассказывает о вашем продукте и предлагает его купить. Простыми словами, это &amp;ldquo;витрина&amp;rdquo; вашего микростартапа в интернете.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12 microstartups – Биллинг</title>
+    <link>https://ch12ms.online/tags/%D0%B1%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3/</link>
+    <description>Recent content in Биллинг on 12 microstartups</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Fri, 23 Jan 2026 00:00:00 +0300</lastBuildDate>
+    
+	  <atom:link href="https://ch12ms.online/tags/%D0%B1%D0%B8%D0%BB%D0%BB%D0%B8%D0%BD%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Создание и структура лендинга</title>
+      <link>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</link>
+      <pubDate>Fri, 23 Jan 2026 00:00:00 +0300</pubDate>
+      
+      <guid>https://ch12ms.online/pages/07-instrukciya-3-sozdanie-i-struktura-lendinga/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Шаблон структуры лендинга для микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам создать простой и эффективный лендинг для вашего микростартапа. Мы разберём, какие блоки должны быть на странице, в каком порядке их расположить, и как быстро создать лендинг на Tilda или иных конструкторах, без программирования.&lt;/p&gt;
+&lt;h2&gt;Что такое лендинг и зачем он нужен&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-такое-лендинг-и-зачем-он-нужен&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd-%d0%bd%d1%83%d0%b6%d0%b5%d0%bd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Лендинг&lt;/strong&gt; (landing page) — это одностраничный сайт, который рассказывает о вашем продукте и предлагает его купить. Простыми словами, это &amp;ldquo;витрина&amp;rdquo; вашего микростартапа в интернете.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем он нужен:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Показать продукт потенциальным клиентам&lt;/li&gt;
@@ -10,10 +35,10 @@
 &lt;li&gt;Выдать доступ к продукту после покупки&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Для микростартапа лендинг должен быть простым и понятным. Не нужно тратить недели на дизайн — главное, чтобы он работал и принимал платежи. Лучше простой рабочий лендинг, чем красивый, но неработающий.&lt;/p&gt;
-&lt;h2&gt;Обязательные блоки лендинга&lt;span class="hx:absolute hx:-mt-20" id="обязательные-блоки-лендинга"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Лендинг состоит из нескольких блоков (секций), которые идут друг за другом. Каждый блок решает свою задачу.&lt;/p&gt;
-&lt;h3&gt;Блок 1: Заголовок (Hero)&lt;span class="hx:absolute hx:-mt-20" id="блок-1-заголовок-hero"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-1-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%be%d0%ba-hero" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Первое, что видит пользователь при заходе на страницу.&lt;/p&gt;
+&lt;h2&gt;Обязательные блоки лендинга&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;обязательные-блоки-лендинга&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%b1%d0%bb%d0%be%d0%ba%d0%b8-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Лендинг состоит из нескольких блоков (секций), которые идут друг за другом. Каждый блок решает свою задачу.&lt;/p&gt;
+&lt;h3&gt;Блок 1: Заголовок (Hero)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-1-заголовок-hero&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-1-%d0%b7%d0%b0%d0%b3%d0%be%d0%bb%d0%be%d0%b2%d0%be%d0%ba-hero&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Первое, что видит пользователь при заходе на страницу.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Заголовок&lt;/strong&gt; — краткое описание проблемы или решения (1 предложение)&lt;/li&gt;
@@ -26,8 +51,8 @@
 &lt;li&gt;✅ &amp;ldquo;AI-помощник, который отвечает на вопросы студентов вместо вас. Экономьте 3 часа в день.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;крючок&amp;rdquo;, который должен зацепить внимание пользователя за первые 3 секунды.&lt;/p&gt;
-&lt;h3&gt;Блок 2: Проблема&lt;span class="hx:absolute hx:-mt-20" id="блок-2-проблема"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-2-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Описание проблемы, которую решает ваш продукт.&lt;/p&gt;
+&lt;h3&gt;Блок 2: Проблема&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-2-проблема&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-2-%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Описание проблемы, которую решает ваш продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Конкретное описание проблемы (не абстрактное)&lt;/li&gt;
@@ -40,8 +65,8 @@
 &lt;li&gt;✅ &amp;ldquo;Владельцы онлайн-курсов тратят 3 часа в день на ответы на вопросы студентов. Это отнимает время от создания контента и развития бизнеса.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите пользователю, что вы понимаете его боль.&lt;/p&gt;
-&lt;h3&gt;Блок 3: Решение&lt;span class="hx:absolute hx:-mt-20" id="блок-3-решение"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-3-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как ваш продукт решает описанную проблему.&lt;/p&gt;
+&lt;h3&gt;Блок 3: Решение&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-3-решение&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-3-%d1%80%d0%b5%d1%88%d0%b5%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как ваш продукт решает описанную проблему.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Краткое описание решения (как работает продукт)&lt;/li&gt;
@@ -53,8 +78,8 @@
 &lt;li&gt;&amp;ldquo;AI-помощник анализирует материалы вашего курса и автоматически отвечает на вопросы студентов на основе этих материалов. Вы просто загружаете материалы один раз, и система работает сама.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Объясните, как ваш продукт решает проблему простыми словами.&lt;/p&gt;
-&lt;h3&gt;Блок 4: Примеры использования (Use Cases)&lt;span class="hx:absolute hx:-mt-20" id="блок-4-примеры-использования-use-cases"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-4-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-use-cases" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Конкретные примеры того, как можно использовать продукт.&lt;/p&gt;
+&lt;h3&gt;Блок 4: Примеры использования (Use Cases)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-4-примеры-использования-use-cases&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-4-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-use-cases&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Конкретные примеры того, как можно использовать продукт.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;2-3 примера использования&lt;/li&gt;
@@ -67,8 +92,8 @@
 &lt;li&gt;&amp;ldquo;Пример 2: Владелец курса получает 50 вопросов в день → AI обрабатывает 90% из них автоматически&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите реальные ситуации, когда продукт полезен.&lt;/p&gt;
-&lt;h3&gt;Блок 5: Цены и тарифы&lt;span class="hx:absolute hx:-mt-20" id="блок-5-цены-и-тарифы"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-5-%d1%86%d0%b5%d0%bd%d1%8b-%d0%b8-%d1%82%d0%b0%d1%80%d0%b8%d1%84%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о стоимости продукта.&lt;/p&gt;
+&lt;h3&gt;Блок 5: Цены и тарифы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-5-цены-и-тарифы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-5-%d1%86%d0%b5%d0%bd%d1%8b-%d0%b8-%d1%82%d0%b0%d1%80%d0%b8%d1%84%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Информация о стоимости продукта.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Цена (или несколько тарифов)&lt;/li&gt;
@@ -82,8 +107,8 @@
 &lt;li&gt;&lt;strong&gt;Предоплатные пакеты&lt;/strong&gt; (10/50/100 запросов за $15/$49/$99) — для продуктов с ограниченным использованием&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите цену честно и понятно. Не прячьте её внизу страницы.&lt;/p&gt;
-&lt;h3&gt;Блок 6: Форма оплаты / Кнопка покупки&lt;span class="hx:absolute hx:-mt-20" id="блок-6-форма-оплаты--кнопка-покупки"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-6-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d1%8b--%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b0-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Способ, которым пользователь может заплатить.&lt;/p&gt;
+&lt;h3&gt;Блок 6: Форма оплаты / Кнопка покупки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-6-форма-оплаты--кнопка-покупки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-6-%d1%84%d0%be%d1%80%d0%bc%d0%b0-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d1%8b--%d0%ba%d0%bd%d0%be%d0%bf%d0%ba%d0%b0-%d0%bf%d0%be%d0%ba%d1%83%d0%bf%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Способ, которым пользователь может заплатить.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Кнопка &amp;ldquo;Купить&amp;rdquo; или форма оплаты&lt;/li&gt;
@@ -91,8 +116,8 @@
 &lt;li&gt;Чёткие инструкции, что делать после оплаты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;касса&amp;rdquo; вашего лендинга. Без неё пользователь не сможет заплатить.&lt;/p&gt;
-&lt;h3&gt;Блок 7: FAQ (часто задаваемые вопросы)&lt;span class="hx:absolute hx:-mt-20" id="блок-7-faq-часто-задаваемые-вопросы"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-7-faq-%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d0%b2%d0%b0%d0%b5%d0%bc%d1%8b%d0%b5-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ответы на типичные вопросы пользователей.&lt;/p&gt;
+&lt;h3&gt;Блок 7: FAQ (часто задаваемые вопросы)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-7-faq-часто-задаваемые-вопросы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-7-faq-%d1%87%d0%b0%d1%81%d1%82%d0%be-%d0%b7%d0%b0%d0%b4%d0%b0%d0%b2%d0%b0%d0%b5%d0%bc%d1%8b%d0%b5-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Ответы на типичные вопросы пользователей.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;3-5 самых частых вопросов&lt;/li&gt;
@@ -106,8 +131,8 @@
 &lt;li&gt;&amp;ldquo;Какие материалы можно загружать?&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Предотвратите возражения пользователей заранее.&lt;/p&gt;
-&lt;h3&gt;Блок 8: Контакты / Поддержка&lt;span class="hx:absolute hx:-mt-20" id="блок-8-контакты--поддержка"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%bb%d0%be%d0%ba-8-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b--%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как с вами связаться.&lt;/p&gt;
+&lt;h3&gt;Блок 8: Контакты / Поддержка&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;блок-8-контакты--поддержка&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%bb%d0%be%d0%ba-8-%d0%ba%d0%be%d0%bd%d1%82%d0%b0%d0%ba%d1%82%d1%8b--%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Как с вами связаться.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Email для поддержки&lt;/li&gt;
@@ -116,8 +141,8 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Покажите, что вы доступны и готовы помочь.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Порядок расположения блоков&lt;span class="hx:absolute hx:-mt-20" id="порядок-расположения-блоков"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba-%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b1%d0%bb%d0%be%d0%ba%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Рекомендуемый порядок блоков сверху вниз:&lt;/p&gt;
+&lt;h2&gt;Порядок расположения блоков&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;порядок-расположения-блоков&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d0%be%d1%80%d1%8f%d0%b4%d0%be%d0%ba-%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b1%d0%bb%d0%be%d0%ba%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Рекомендуемый порядок блоков сверху вниз:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Заголовок (Hero)&lt;/strong&gt; — первое впечатление&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Проблема&lt;/strong&gt; — показываем боль&lt;/li&gt;
@@ -130,8 +155,8 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Самые важные блоки (проблема, решение, цена, кнопка покупки) должны быть видны без прокрутки страницы (выше линии сгиба).&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Что НЕ нужно на лендинге&lt;span class="hx:absolute hx:-mt-20" id="что-не-нужно-на-лендинге"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%bd%d0%b0-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
+&lt;h2&gt;Что НЕ нужно на лендинге&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-не-нужно-на-лендинге&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d0%bd%d0%b0-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Избегайте переусложнения. Вот что можно убрать:&lt;/p&gt;
 &lt;p&gt;❌ &lt;strong&gt;Видео и сложные анимации&lt;/strong&gt; — они замедляют загрузку и отвлекают
 ❌ &lt;strong&gt;Длинные тексты&lt;/strong&gt; — никто не будет читать 10 экранов текста
 ❌ &lt;strong&gt;Множество кнопок&lt;/strong&gt; — одна главная кнопка &amp;ldquo;Купить&amp;rdquo; лучше, чем 10 разных
@@ -140,9 +165,9 @@
 ❌ &lt;strong&gt;Сложная навигация&lt;/strong&gt; — это одностраничный сайт, меню не нужно&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Правило:&lt;/strong&gt; Если блок не помогает продать продукт — уберите его.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Примеры хороших лендингов микростартапов&lt;span class="hx:absolute hx:-mt-20" id="примеры-хороших-лендингов-микростартапов"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b8%d1%85-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%be%d0%b2-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class="hx:absolute hx:-mt-20" id="пример-1-ai-помощник-для-курсов"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Примеры хороших лендингов микростартапов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;примеры-хороших-лендингов-микростартапов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b8%d1%85-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3%d0%be%d0%b2-%d0%bc%d0%b8%d0%ba%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%80%d1%82%d0%b0%d0%bf%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Пример 1: AI-помощник для курсов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-1-ai-помощник-для-курсов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%ba%d1%83%d1%80%d1%81%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Заголовок: &amp;ldquo;AI отвечает на вопросы студентов вместо вас&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Проблема: &amp;ldquo;Тратите 3 часа в день на ответы&amp;rdquo;&lt;/li&gt;
@@ -151,8 +176,8 @@
 &lt;li&gt;Цена: $29/месяц или $199 lifetime&lt;/li&gt;
 &lt;li&gt;Кнопка: &amp;ldquo;Начать бесплатно 7 дней&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class="hx:absolute hx:-mt-20" id="пример-2-генератор-описаний-товаров"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Пример 2: Генератор описаний товаров&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-2-генератор-описаний-товаров&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Структура:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Заголовок: &amp;ldquo;Генерируйте описания товаров за секунды&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;Проблема: &amp;ldquo;Ручное написание описаний занимает часы&amp;rdquo;&lt;/li&gt;
@@ -163,37 +188,37 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Общее правило:&lt;/strong&gt; Простота, конкретность, понятная ценность.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Чек-лист перед публикацией&lt;span class="hx:absolute hx:-mt-20" id="чек-лист-перед-публикацией"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b5%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед запуском:&lt;/p&gt;
+&lt;h2&gt;Чек-лист перед публикацией&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;чек-лист-перед-публикацией&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d0%b5%d1%80%d0%b5%d0%b4-%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b0%d1%86%d0%b8%d0%b5%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу перед запуском:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Заголовок понятен и цепляет внимание&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Проблема описана конкретно (не абстрактно)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Решение объяснено простыми словами&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Есть 2-3 примера использования&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Цена указана честно и понятно&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Кнопка &amp;ldquo;Купить&amp;rdquo; видна и работает&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Платежи настроены и протестированы&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Лендинг работает на мобильных устройствах&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; FAQ отвечает на типичные вопросы&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Контакты для поддержки указаны&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Заголовок понятен и цепляет внимание&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Проблема описана конкретно (не абстрактно)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Решение объяснено простыми словами&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Есть 2-3 примера использования&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Цена указана честно и понятно&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Кнопка &amp;ldquo;Купить&amp;rdquo; видна и работает&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Платежи настроены и протестированы&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Лендинг работает на мобильных устройствах&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; FAQ отвечает на типичные вопросы&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Контакты для поддержки указаны&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;Типичные ошибки&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки"&gt;&lt;/span&gt;
-&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком абстрактное описание&lt;span class="hx:absolute hx:-mt-20" id="ошибка-1-слишком-абстрактное-описание"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b0%d0%b1%d1%81%d1%82%d1%80%d0%b0%d0%ba%d1%82%d0%bd%d0%be%d0%b5-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; &amp;ldquo;Мы помогаем бизнесу расти&amp;rdquo;&lt;/p&gt;
+&lt;h2&gt;Типичные ошибки&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Слишком абстрактное описание&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-1-слишком-абстрактное-описание&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%b0%d0%b1%d1%81%d1%82%d1%80%d0%b0%d0%ba%d1%82%d0%bd%d0%be%d0%b5-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; &amp;ldquo;Мы помогаем бизнесу расти&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Конкретизируйте: &amp;ldquo;Экономим 3 часа в день на рутинных задачах&amp;rdquo;&lt;/p&gt;
-&lt;h3&gt;Ошибка 2: Скрытая цена&lt;span class="hx:absolute hx:-mt-20" id="ошибка-2-скрытая-цена"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b0%d1%8f-%d1%86%d0%b5%d0%bd%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Цена указана только в форме оплаты&lt;/p&gt;
+&lt;h3&gt;Ошибка 2: Скрытая цена&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-2-скрытая-цена&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d1%81%d0%ba%d1%80%d1%8b%d1%82%d0%b0%d1%8f-%d1%86%d0%b5%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Цена указана только в форме оплаты&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Покажите цену сразу, в блоке тарифов&lt;/p&gt;
-&lt;h3&gt;Ошибка 3: Слишком много текста&lt;span class="hx:absolute hx:-mt-20" id="ошибка-3-слишком-много-текста"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 экранов текста, который никто не читает&lt;/p&gt;
+&lt;h3&gt;Ошибка 3: Слишком много текста&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-3-слишком-много-текста&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d1%81%d0%bb%d0%b8%d1%88%d0%ba%d0%be%d0%bc-%d0%bc%d0%bd%d0%be%d0%b3%d0%be-%d1%82%d0%b5%d0%ba%d1%81%d1%82%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; 10 экранов текста, который никто не читает&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Сократите до сути. Если нужно больше информации — FAQ&lt;/p&gt;
-&lt;h3&gt;Ошибка 4: Не работает на мобильных&lt;span class="hx:absolute hx:-mt-20" id="ошибка-4-не-работает-на-мобильных"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d1%8b%d1%85" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Лендинг выглядит хорошо только на компьютере&lt;/p&gt;
+&lt;h3&gt;Ошибка 4: Не работает на мобильных&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-4-не-работает-на-мобильных&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bd%d0%b5-%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%b0%d0%b5%d1%82-%d0%bd%d0%b0-%d0%bc%d0%be%d0%b1%d0%b8%d0%bb%d1%8c%d0%bd%d1%8b%d1%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Лендинг выглядит хорошо только на компьютере&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Всегда проверяйте мобильную версию перед публикацией&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;Глоссарий&lt;span class="hx:absolute hx:-mt-20" id="глоссарий"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;CTA (Call To Action)&lt;/strong&gt; — призыв к действию. Кнопка или ссылка, которая побуждает пользователя совершить действие (купить, зарегистрироваться, скачать).&lt;/p&gt;
+&lt;h2&gt;Глоссарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;глоссарий&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;CTA (Call To Action)&lt;/strong&gt; — призыв к действию. Кнопка или ссылка, которая побуждает пользователя совершить действие (купить, зарегистрироваться, скачать).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Hero (герой-блок)&lt;/strong&gt; — первый блок на лендинге, который видит пользователь. Обычно содержит заголовок, подзаголовок и главную кнопку.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Landing Page (лендинг)&lt;/strong&gt; — одностраничный сайт, созданный для конкретной цели (продажа продукта, сбор заявок, регистрация).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Use Case (кейс использования)&lt;/strong&gt; — конкретный пример того, как можно использовать продукт в реальной ситуации.&lt;/p&gt;
@@ -202,4 +227,10 @@
 &lt;p&gt;&lt;strong&gt;Conversion Rate (конверсия)&lt;/strong&gt; — процент посетителей, которые совершили целевое действие (купили, зарегистрировались) от общего числа посетителей.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A/B Testing (A/B тестирование)&lt;/strong&gt; — сравнение двух версий страницы, чтобы понять, какая работает лучше. На старте не обязательно.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Последнее обновление: 23-01-2026&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;em&gt;Последнее обновление: 23-01-2026&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
