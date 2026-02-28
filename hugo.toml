@@ -7,6 +7,10 @@ theme = 'hextra-main'
 [params]
   description = "12 microstartups - блог о микростартапах"
   
+  [params.author]
+    name = "Asker Askerov"
+    email = "askerovag@yandex.ru"
+  
   [params.navbar]
     displayTitle = true
     displayLogo = true
