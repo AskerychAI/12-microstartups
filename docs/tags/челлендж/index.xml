@@ -1,30 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>12 microstartups – Челлендж</title>
-    <link>https://ch12ms.online/tags/%D1%87%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6/</link>
-    <description>Recent content in Челлендж on 12 microstartups</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0300</lastBuildDate>
-    
-	  <atom:link href="https://ch12ms.online/tags/%D1%87%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Широкая воронка проблем</title>
-      <link>https://ch12ms.online/posts/shirokaya-voronka-problem/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/shirokaya-voronka-problem/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Друзья, всем привет.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Челлендж</title><link>https://ch12ms.online/tags/%D1%87%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6/</link><description>Recent content in Челлендж on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/%D1%87%D0%B5%D0%BB%D0%BB%D0%B5%D0%BD%D0%B4%D0%B6/index.xml" rel="self" type="application/rss+xml"/><item><title>Широкая воронка проблем</title><link>https://ch12ms.online/posts/shirokaya-voronka-problem/</link><pubDate>Sat, 28 Feb 2026 10:00:00 +0300</pubDate><guid>https://ch12ms.online/posts/shirokaya-voronka-problem/</guid><description>
+&lt;p&gt;Друзья, всем привет.&lt;/p&gt;
 &lt;p&gt;У меня появилась уже третья идея стартапа, но в какой-то момент я поймал себя на мысли: придумывать идеи по одной — это тупиковая стратегия. Собирать по крупицам — долго и хаотично. Если делать серьёзно, то должна быть воронка проблем, и на входе она должна быть максимально широкой.&lt;/p&gt;
 &lt;p&gt;Я немного считерил и пошёл системным путём. Возможно, для кого-то это станет рабочей логикой и на своём фронтире вы сделаете так же.&lt;/p&gt;
 &lt;p&gt;Я занимаюсь внедрением искусственного интеллекта в процессы бэк-офиса. И очевидно, что какое бы цифровое решение мы сейчас ни придумывали — если оно основано на данных и алгоритмике — оно так или иначе будет связано с ИИ. Значит, искать нужно не «идею», а процессы, где у ИИ есть потенциал.&lt;/p&gt;
@@ -44,50 +19,24 @@
 &lt;p&gt;Это уже не этап генерации идей. Это этап инженерной проверки гипотез.&lt;/p&gt;
 &lt;p&gt;Большой, скрупулёзный и во многом рутинный процесс, который полностью на искусственный интеллект не переложишь. Но ключевую вещь я для себя закрыл: я перестал «придумывать» стартап и построил систему отбора.&lt;/p&gt;
 &lt;p&gt;300 процессов → 63 → 9 кластеров → 53 приоритетных направления.&lt;/p&gt;
-&lt;p&gt;Если вам близка логика не интуитивного, а системного поиска возможностей — велком, используйте.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Начинаю свой персональный челендж</title>
-      <link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link>
-      <pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Друзья, всем привет!&lt;/p&gt;
+&lt;p&gt;Если вам близка логика не интуитивного, а системного поиска возможностей — велком, используйте.&lt;/p&gt;</description></item><item><title>Начинаю свой персональный челендж</title><link>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</link><pubDate>Sun, 01 Feb 2026 21:09:00 +0300</pubDate><guid>https://ch12ms.online/posts/nachinayu-svoy-personalniy-chelendj/</guid><description>
+&lt;p&gt;Друзья, всем привет!&lt;/p&gt;
 &lt;p&gt;На дворе февраль, а это значит, что мы переходим к практической части нашего большого годового эксперимента. Я закрыл все обязательства по теоретической базе и фреймворк-фундаменту и теперь перехожу к главному — работе над конкретным проектом.&lt;/p&gt;
 &lt;p&gt;Прямо сейчас я занимаюсь разработкой коммерческого варианта одного из своих проверенных продуктов. Я понимаю, что он очень специфический и, возможно, не даст большого эффекта, но на нем я проверю этапы от разработки и валидации до, дай бог, масштабирования.&lt;/p&gt;
 &lt;p&gt;А с сегодняшнего дня я начинаю работу по нашей дорожной карте, и стартую с самого первого шага - поиска идей. Этим я буду заниматься в ближайшую неделю, используя два ключевых инструмента:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Чек-лист валидации идеи&lt;/strong&gt; — чтобы шаг за шагом проверить, насколько найденная идея востребована.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#6-%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%b2%d0%b0%d0%bb%d0%b8%d0%b4%d0%b0%d1%86%d0%b8%d0%b8-%d0%b8%d0%b4%d0%b5%d0%b8"target="_blank" rel="noopener"&gt;Чек-лист&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Готовый план первых шагов&lt;/strong&gt; — дорожная карта из большого гайда по поиску и валидации идей.&lt;br&gt;
-&lt;a href=&#34;https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
+&lt;a href="https://ch12ms.online/pages/05-instrukciya-1-kak-nayti-ideyu-microstartapa/#9-%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%b7%d0%b0%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5-%d0%b2%d0%b0%d1%88-%d0%bf%d0%b5%d1%80%d0%b2%d1%8b%d0%b9-pipeline-%d0%b8%d0%b4%d0%b5%d0%b9"target="_blank" rel="noopener"&gt;Первые шаги&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Друзья, предлагаю и вам начинать свои первые пробы, свой путь. Я буду публиковать обновления в режиме реального времени (не ежедневно, но когда будет что рассказать).&lt;/p&gt;
-&lt;p&gt;А вам предлагаю делиться в &lt;a href=&#34;https://t.me/ch12ms&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;комментариях&lt;/a&gt; своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Для чего нужен челлендж: моя история и цели</title>
-      <link>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</link>
-      <pubDate>Mon, 05 Jan 2026 20:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/artyom-image.png&#34; alt=&#34;Вопрос Артёма о целях челленджа&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;А вам предлагаю делиться в &lt;a href="https://t.me/ch12ms"target="_blank" rel="noopener"&gt;комментариях&lt;/a&gt; своими наблюдениями и находками. Пусть эта история будет полезна и для вас, и для меня, и для всей нашей аудитории, которая наблюдает за процессом вместе с нами.&lt;/p&gt;</description></item><item><title>Для чего нужен челлендж: моя история и цели</title><link>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</link><pubDate>Mon, 05 Jan 2026 20:00:00 +0300</pubDate><guid>https://ch12ms.online/posts/dlya-chego-nujen-chelendj/</guid><description>
+&lt;p&gt;&lt;img src="https://ch12ms.online/images/artyom-image.png" alt="Вопрос Артёма о целях челленджа" loading="lazy" /&gt;&lt;/p&gt;
 &lt;p&gt;Артём спросил, зачем мне этот челлендж. Идея крутилась давно, но я не мог понять, как её оформить. Параллельно я увлёкся темой one-person company и solo-предпринимательства, а весной наткнулся на термин &amp;ldquo;микростартап&amp;rdquo;. Я залип, но тогда я был увлечен заказной разработкой и тема встала на паузу.&lt;/p&gt;
 &lt;p&gt;Настоящий сдвиг произошёл позже. Летом 2025 года я всерьёз занялся своей персональной стратегией по методу Александра Кравцова. Книга так и называется - &amp;ldquo;Персональная стратегия&amp;rdquo;. Я до сих пор по ней работаю и могу честно сказать: это один из самых практичных инструментов, с которыми я сталкивался.&lt;/p&gt;
 &lt;p&gt;Когда я сформулировал свои долгосрочные цели и посмотрел на сегодняшний день уже из будущего, стало очевидно: мне нужно идти в сторону собственного IT-продукта. Не абстрактного, а такого, который шаг за шагом прокладывает дорогу к большому будущему. Так история с микростартапами вернулась - но уже в другом качестве.&lt;/p&gt;
@@ -103,10 +52,4 @@
 &lt;p&gt;До конца января я выложу весь образовательный контент целиком. После этого я буду вести блог уже о текущей работе: своих микростартапах, проектах участников, канбан-доске, успехах, ошибках, выводах.&lt;/p&gt;
 &lt;p&gt;Если вам откликается идея идти этим путём вместе - без спешки, без маркетинговых манипуляций и &amp;ldquo;последних мест&amp;rdquo;, - то в конце текста вы найдёте ссылку на описание подписки. Она нужна только тем, кто хочет делать проекты вместе со мной, размещать их на общей канбан-доске и быть в закрытом контуре с более плотной поддержкой.&lt;/p&gt;
 &lt;p&gt;Никаких обязательств. В любой момент можно выйти.&lt;/p&gt;
-&lt;p&gt;Если чувствуете интерес - заходите, посмотрите описание и решите для себя. Ссылка будет в конце.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Если чувствуете интерес - заходите, посмотрите описание и решите для себя. Ссылка будет в конце.&lt;/p&gt;</description></item></channel></rss>

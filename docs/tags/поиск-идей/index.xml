@@ -1,30 +1,5 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>12 microstartups – Поиск Идей</title>
-    <link>https://ch12ms.online/tags/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8%D0%B4%D0%B5%D0%B9/</link>
-    <description>Recent content in Поиск Идей on 12 microstartups</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0300</lastBuildDate>
-    
-	  <atom:link href="https://ch12ms.online/tags/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8%D0%B4%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>Широкая воронка проблем</title>
-      <link>https://ch12ms.online/posts/shirokaya-voronka-problem/</link>
-      <pubDate>Sat, 28 Feb 2026 10:00:00 +0300</pubDate>
-      
-      <guid>https://ch12ms.online/posts/shirokaya-voronka-problem/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Друзья, всем привет.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Поиск Идей</title><link>https://ch12ms.online/tags/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8%D0%B4%D0%B5%D0%B9/</link><description>Recent content in Поиск Идей on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Sat, 28 Feb 2026 10:00:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/%D0%BF%D0%BE%D0%B8%D1%81%D0%BA-%D0%B8%D0%B4%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml"/><item><title>Широкая воронка проблем</title><link>https://ch12ms.online/posts/shirokaya-voronka-problem/</link><pubDate>Sat, 28 Feb 2026 10:00:00 +0300</pubDate><guid>https://ch12ms.online/posts/shirokaya-voronka-problem/</guid><description>
+&lt;p&gt;Друзья, всем привет.&lt;/p&gt;
 &lt;p&gt;У меня появилась уже третья идея стартапа, но в какой-то момент я поймал себя на мысли: придумывать идеи по одной — это тупиковая стратегия. Собирать по крупицам — долго и хаотично. Если делать серьёзно, то должна быть воронка проблем, и на входе она должна быть максимально широкой.&lt;/p&gt;
 &lt;p&gt;Я немного считерил и пошёл системным путём. Возможно, для кого-то это станет рабочей логикой и на своём фронтире вы сделаете так же.&lt;/p&gt;
 &lt;p&gt;Я занимаюсь внедрением искусственного интеллекта в процессы бэк-офиса. И очевидно, что какое бы цифровое решение мы сейчас ни придумывали — если оно основано на данных и алгоритмике — оно так или иначе будет связано с ИИ. Значит, искать нужно не «идею», а процессы, где у ИИ есть потенциал.&lt;/p&gt;
@@ -44,10 +19,4 @@
 &lt;p&gt;Это уже не этап генерации идей. Это этап инженерной проверки гипотез.&lt;/p&gt;
 &lt;p&gt;Большой, скрупулёзный и во многом рутинный процесс, который полностью на искусственный интеллект не переложишь. Но ключевую вещь я для себя закрыл: я перестал «придумывать» стартап и построил систему отбора.&lt;/p&gt;
 &lt;p&gt;300 процессов → 63 → 9 кластеров → 53 приоритетных направления.&lt;/p&gt;
-&lt;p&gt;Если вам близка логика не интуитивного, а системного поиска возможностей — велком, используйте.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Если вам близка логика не интуитивного, а системного поиска возможностей — велком, используйте.&lt;/p&gt;</description></item></channel></rss>
