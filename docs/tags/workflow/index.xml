@@ -1,8 +1,33 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>12 microstartups – Workflow</title><link>https://ch12ms.online/tags/workflow/</link><description>Recent content in Workflow on 12 microstartups</description><generator>Hugo -- gohugo.io</generator><language>ru</language><lastBuildDate>Sun, 25 Jan 2026 11:27:00 +0300</lastBuildDate><atom:link href="https://ch12ms.online/tags/workflow/index.xml" rel="self" type="application/rss+xml"/><item><title>Проектирование архитектуры микростартапа</title><link>https://ch12ms.online/pages/06-instrukciya-2-proektirovanie-arkhitektury-mikrostartapa/</link><pubDate>Sun, 25 Jan 2026 11:27:00 +0300</pubDate><guid>https://ch12ms.online/pages/06-instrukciya-2-proektirovanie-arkhitektury-mikrostartapa/</guid><description>
-&lt;h1&gt;Гайд по проектированию архитектуры микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам спроектировать логику работы вашего продукта простыми словами, без сложных технических терминов. Мы разберём, как &amp;ldquo;собрать пазл&amp;rdquo; из разных частей так, чтобы всё работало вместе.&lt;/p&gt;
-&lt;p&gt;&lt;img src="https://ch12ms.online/images/skhema-arkhitektury-mikrostartapa.png" alt="Схема архитектуры микростартапа" loading="lazy" /&gt;&lt;/p&gt;
-&lt;h2&gt;Что такое архитектура и зачем она нужна&lt;span class="hx:absolute hx:-mt-20" id="что-такое-архитектура-и-зачем-она-нужна"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%b0-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Архитектура&lt;/strong&gt; — это план того, как разные части вашего продукта будут работать вместе. Представьте, что вы строите дом: сначала нужен чертёж, где будет кухня, где спальня, как они соединяются. То же самое с продуктом: нужно понять, что происходит, когда пользователь нажимает кнопку, куда идут данные, как они обрабатываются.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12 microstartups – Workflow</title>
+    <link>https://ch12ms.online/tags/workflow/</link>
+    <description>Recent content in Workflow on 12 microstartups</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Sun, 25 Jan 2026 11:27:00 +0300</lastBuildDate>
+    
+	  <atom:link href="https://ch12ms.online/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Проектирование архитектуры микростартапа</title>
+      <link>https://ch12ms.online/pages/06-instrukciya-2-proektirovanie-arkhitektury-mikrostartapa/</link>
+      <pubDate>Sun, 25 Jan 2026 11:27:00 +0300</pubDate>
+      
+      <guid>https://ch12ms.online/pages/06-instrukciya-2-proektirovanie-arkhitektury-mikrostartapa/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Гайд по проектированию архитектуры микростартапа&lt;/h1&gt;&lt;p&gt;Этот гайд поможет вам спроектировать логику работы вашего продукта простыми словами, без сложных технических терминов. Мы разберём, как &amp;ldquo;собрать пазл&amp;rdquo; из разных частей так, чтобы всё работало вместе.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://ch12ms.online/images/skhema-arkhitektury-mikrostartapa.png&#34; alt=&#34;Схема архитектуры микростартапа&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h2&gt;Что такое архитектура и зачем она нужна&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-такое-архитектура-и-зачем-она-нужна&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d1%82%d0%b0%d0%ba%d0%be%d0%b5-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d0%b8-%d0%b7%d0%b0%d1%87%d0%b5%d0%bc-%d0%be%d0%bd%d0%b0-%d0%bd%d1%83%d0%b6%d0%bd%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Архитектура&lt;/strong&gt; — это план того, как разные части вашего продукта будут работать вместе. Представьте, что вы строите дом: сначала нужен чертёж, где будет кухня, где спальня, как они соединяются. То же самое с продуктом: нужно понять, что происходит, когда пользователь нажимает кнопку, куда идут данные, как они обрабатываются.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Зачем это нужно:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Чтобы не запутаться в процессе разработки&lt;/li&gt;
@@ -11,10 +36,10 @@
 &lt;li&gt;Чтобы быстро найти и исправить ошибки&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Важно:&lt;/strong&gt; Для микростартапа архитектура должна быть простой. Не нужно строить &amp;ldquo;небоскрёб&amp;rdquo;, когда достаточно &amp;ldquo;однокомнатной квартиры&amp;rdquo;. Наша цель — запустить быстро, а не создать идеальную систему.&lt;/p&gt;
-&lt;h2&gt;Шаг 1: Опишите основной сценарий использования&lt;span class="hx:absolute hx:-mt-20" id="шаг-1-опишите-основной-сценарий-использования"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-1-%d0%be%d0%bf%d0%b8%d1%88%d0%b8%d1%82%d0%b5-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b9-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Начните с самого простого: что делает пользователь и что происходит в ответ.&lt;/p&gt;
-&lt;h3&gt;Пример 1: AI-помощник для ответов на вопросы студентов&lt;span class="hx:absolute hx:-mt-20" id="пример-1-ai-помощник-для-ответов-на-вопросы-студентов"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b2%d0%b5%d1%82%d0%be%d0%b2-%d0%bd%d0%b0-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Шаг 1: Опишите основной сценарий использования&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-1-опишите-основной-сценарий-использования&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-1-%d0%be%d0%bf%d0%b8%d1%88%d0%b8%d1%82%d0%b5-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d0%be%d0%b9-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Начните с самого простого: что делает пользователь и что происходит в ответ.&lt;/p&gt;
+&lt;h3&gt;Пример 1: AI-помощник для ответов на вопросы студентов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-1-ai-помощник-для-ответов-на-вопросы-студентов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-1-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b2%d0%b5%d1%82%d0%be%d0%b2-%d0%bd%d0%b0-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Пользователь загружает материалы курса (PDF, текст)&lt;/li&gt;
 &lt;li&gt;Студент задаёт вопрос через форму на сайте&lt;/li&gt;
@@ -28,8 +53,8 @@
 &lt;li&gt;AI генерирует ответ&lt;/li&gt;
 &lt;li&gt;Ответ отправляется пользователю&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Пример 2: Генератор описаний товаров для интернет-магазинов&lt;span class="hx:absolute hx:-mt-20" id="пример-2-генератор-описаний-товаров-для-интернет-магазинов"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2-%d0%b4%d0%bb%d1%8f-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Пример 2: Генератор описаний товаров для интернет-магазинов&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-2-генератор-описаний-товаров-для-интернет-магазинов&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-2-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2-%d0%b4%d0%bb%d1%8f-%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%bd%d0%b5%d1%82-%d0%bc%d0%b0%d0%b3%d0%b0%d0%b7%d0%b8%d0%bd%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий:&lt;/strong&gt;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Владелец магазина загружает таблицу с названиями товаров&lt;/li&gt;
 &lt;li&gt;Нажимает кнопку &amp;ldquo;Сгенерировать описания&amp;rdquo;&lt;/li&gt;
@@ -45,18 +70,18 @@
 &lt;li&gt;Все описания собираются в новую таблицу&lt;/li&gt;
 &lt;li&gt;Таблица отправляется пользователю на email&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Как описать свой сценарий&lt;span class="hx:absolute hx:-mt-20" id="как-описать-свой-сценарий"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%b0%d0%ba-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d0%b9-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Возьмите лист бумаги или документ и ответьте на вопросы:&lt;/p&gt;
+&lt;h3&gt;Как описать свой сценарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;как-описать-свой-сценарий&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%b0%d0%ba-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d0%b9-%d1%81%d1%86%d0%b5%d0%bd%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Возьмите лист бумаги или документ и ответьте на вопросы:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Что делает пользователь?&lt;/strong&gt; (нажимает кнопку, заполняет форму, загружает файл)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Что происходит дальше?&lt;/strong&gt; (куда идут данные, что их обрабатывает)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Что получает пользователь в итоге?&lt;/strong&gt; (ответ, файл, доступ к сервису)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Совет:&lt;/strong&gt; Начните с одного простого сценария. Не пытайтесь описать все возможные варианты сразу. Лучше сделать одно хорошо, чем десять плохо.&lt;/p&gt;
-&lt;h2&gt;Шаг 2: Определите компоненты системы&lt;span class="hx:absolute hx:-mt-20" id="шаг-2-определите-компоненты-системы"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-2-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь разберём, из каких &amp;ldquo;кирпичиков&amp;rdquo; состоит ваш продукт. Для микростартапа обычно нужно всего несколько компонентов.&lt;/p&gt;
-&lt;h3&gt;Компонент 1: Лендинг (фронтенд)&lt;span class="hx:absolute hx:-mt-20" id="компонент-1-лендинг-фронтенд"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-1-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d1%84%d1%80%d0%be%d0%bd%d1%82%d0%b5%d0%bd%d0%b4" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Страница, где пользователь видит ваш продукт, читает описание и нажимает кнопки.&lt;/p&gt;
+&lt;h2&gt;Шаг 2: Определите компоненты системы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-2-определите-компоненты-системы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-2-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b-%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь разберём, из каких &amp;ldquo;кирпичиков&amp;rdquo; состоит ваш продукт. Для микростартапа обычно нужно всего несколько компонентов.&lt;/p&gt;
+&lt;h3&gt;Компонент 1: Лендинг (фронтенд)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-1-лендинг-фронтенд&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-1-%d0%bb%d0%b5%d0%bd%d0%b4%d0%b8%d0%bd%d0%b3-%d1%84%d1%80%d0%be%d0%bd%d1%82%d0%b5%d0%bd%d0%b4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Страница, где пользователь видит ваш продукт, читает описание и нажимает кнопки.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; Tilda, Carrd, Readymag и т.д.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что на нём должно быть:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -66,8 +91,8 @@
 &lt;li&gt;Инструкция, как пользоваться&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;лицо&amp;rdquo; вашего продукта. Пользователь видит его первым.&lt;/p&gt;
-&lt;h3&gt;Компонент 2: Workflow (автоматизация)&lt;span class="hx:absolute hx:-mt-20" id="компонент-2-workflow-автоматизация"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-2-workflow-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Последовательность действий, которая выполняется автоматически. Например: &amp;ldquo;получил вопрос → отправил в AI → получил ответ → отправил пользователю&amp;rdquo;.&lt;/p&gt;
+&lt;h3&gt;Компонент 2: Workflow (автоматизация)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-2-workflow-автоматизация&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-2-workflow-%d0%b0%d0%b2%d1%82%d0%be%d0%bc%d0%b0%d1%82%d0%b8%d0%b7%d0%b0%d1%86%d0%b8%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Последовательность действий, которая выполняется автоматически. Например: &amp;ldquo;получил вопрос → отправил в AI → получил ответ → отправил пользователю&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; n8n, Make (Integromat, аналоги)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что он делает:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -76,8 +101,8 @@
 &lt;li&gt;Отправляет результат обратно пользователю&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;мозг&amp;rdquo; вашего продукта. Он связывает все части вместе и выполняет основную работу.&lt;/p&gt;
-&lt;h3&gt;Компонент 3: AI API (если используется)&lt;span class="hx:absolute hx:-mt-20" id="компонент-3-ai-api-если-используется"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-3-ai-api-%d0%b5%d1%81%d0%bb%d0%b8-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d1%83%d0%b5%d1%82%d1%81%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Сервис, который обрабатывает данные с помощью искусственного интеллекта. Например, генерирует текст, анализирует документы, отвечает на вопросы.&lt;/p&gt;
+&lt;h3&gt;Компонент 3: AI API (если используется)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-3-ai-api-если-используется&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-3-ai-api-%d0%b5%d1%81%d0%bb%d0%b8-%d0%b8%d1%81%d0%bf%d0%be%d0%bb%d1%8c%d0%b7%d1%83%d0%b5%d1%82%d1%81%d1%8f&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Сервис, который обрабатывает данные с помощью искусственного интеллекта. Например, генерирует текст, анализирует документы, отвечает на вопросы.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; OpenAI API, Anthropic Claude API, российские аналоги (YandexGPT, GigaChat)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что он делает:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -86,8 +111,8 @@
 &lt;li&gt;Возвращает результат обратно в workflow&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;умная часть&amp;rdquo; вашего продукта. Она делает то, что человек не может сделать быстро или качественно.&lt;/p&gt;
-&lt;h3&gt;Компонент 4: База данных (если нужно хранить данные)&lt;span class="hx:absolute hx:-mt-20" id="компонент-4-база-данных-если-нужно-хранить-данные"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-4-%d0%b1%d0%b0%d0%b7%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%b5%d1%81%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d1%85%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Место, где хранятся данные пользователей, истории запросов, настройки.&lt;/p&gt;
+&lt;h3&gt;Компонент 4: База данных (если нужно хранить данные)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-4-база-данных-если-нужно-хранить-данные&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-4-%d0%b1%d0%b0%d0%b7%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85-%d0%b5%d1%81%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%bd%d0%be-%d1%85%d1%80%d0%b0%d0%bd%d0%b8%d1%82%d1%8c-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Место, где хранятся данные пользователей, истории запросов, настройки.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; Supabase, Airtable, Google Sheets (для простых случаев)&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Когда она нужна:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -101,8 +126,8 @@
 &lt;li&gt;Если данные не нужно хранить долго&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;память&amp;rdquo; вашего продукта. Она нужна, если вы хотите что-то запомнить.&lt;/p&gt;
-&lt;h3&gt;Компонент 5: Платежи&lt;span class="hx:absolute hx:-mt-20" id="компонент-5-платежи"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-5-%d0%bf%d0%bb%d0%b0%d1%82%d0%b5%d0%b6%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Система приёма денег от пользователей.&lt;/p&gt;
+&lt;h3&gt;Компонент 5: Платежи&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-5-платежи&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-5-%d0%bf%d0%bb%d0%b0%d1%82%d0%b5%d0%b6%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Система приёма денег от пользователей.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; ЮKassa, Робокасса, CloudPayments, Gumroad, Stripe, аналоги&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что она делает:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -111,8 +136,8 @@
 &lt;li&gt;Выдаёт доступ к продукту после оплаты&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;касса&amp;rdquo; вашего продукта. Она принимает деньги и даёт доступ.&lt;/p&gt;
-&lt;h3&gt;Компонент 6: Email-рассылки (если нужно)&lt;span class="hx:absolute hx:-mt-20" id="компонент-6-email-рассылки-если-нужно"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-6-email-%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b5%d1%81%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Система отправки писем пользователям.&lt;/p&gt;
+&lt;h3&gt;Компонент 6: Email-рассылки (если нужно)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компонент-6-email-рассылки-если-нужно&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82-6-email-%d1%80%d0%b0%d1%81%d1%81%d1%8b%d0%bb%d0%ba%d0%b8-%d0%b5%d1%81%d0%bb%d0%b8-%d0%bd%d1%83%d0%b6%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Система отправки писем пользователям.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; UniSender, SendGrid, Mailjet&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Что она делает:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -121,34 +146,36 @@
 &lt;li&gt;Отправляет напоминания и запросы фидбека&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;почтальон&amp;rdquo; вашего продукта. Он доставляет сообщения пользователям.&lt;/p&gt;
-&lt;h2&gt;Шаг 3: Нарисуйте схему потока данных&lt;span class="hx:absolute hx:-mt-20" id="шаг-3-нарисуйте-схему-потока-данных"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-3-%d0%bd%d0%b0%d1%80%d0%b8%d1%81%d1%83%d0%b9%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d1%83-%d0%bf%d0%be%d1%82%d0%be%d0%ba%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь визуализируйте, как данные &amp;ldquo;текут&amp;rdquo; через вашу систему. Это поможет понять, что с чем соединяется.&lt;/p&gt;
-&lt;h3&gt;Простая схема для AI-помощника:&lt;span class="hx:absolute hx:-mt-20" id="простая-схема-для-ai-помощника"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%8f-%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Форма на лендинге → Workflow (n8n) → AI API → Workflow → Email пользователю&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Скопировать код"
-&gt;
-&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;/button&gt;
+&lt;h2&gt;Шаг 3: Нарисуйте схему потока данных&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-3-нарисуйте-схему-потока-данных&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-3-%d0%bd%d0%b0%d1%80%d0%b8%d1%81%d1%83%d0%b9%d1%82%d0%b5-%d1%81%d1%85%d0%b5%d0%bc%d1%83-%d0%bf%d0%be%d1%82%d0%be%d0%ba%d0%b0-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Теперь визуализируйте, как данные &amp;ldquo;текут&amp;rdquo; через вашу систему. Это поможет понять, что с чем соединяется.&lt;/p&gt;
+&lt;h3&gt;Простая схема для AI-помощника:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;простая-схема-для-ai-помощника&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b0%d1%8f-%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d0%b4%d0%bb%d1%8f-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Форма на лендинге → Workflow (n8n) → AI API → Workflow → Email пользователю&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Скопировать код&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Более сложная схема с оплатой:&lt;span class="hx:absolute hx:-mt-20" id="более-сложная-схема-с-оплатой"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b1%d0%be%d0%bb%d0%b5%d0%b5-%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b0%d1%8f-%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d1%81-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d0%be%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Лендинг → Кнопка &amp;#34;Купить&amp;#34; → Платёжная система → Webhook → Workflow → Выдача доступа → Email с инструкцией&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Скопировать код"
-&gt;
-&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;/button&gt;
+&lt;h3&gt;Более сложная схема с оплатой:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;более-сложная-схема-с-оплатой&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b1%d0%be%d0%bb%d0%b5%d0%b5-%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b0%d1%8f-%d1%81%d1%85%d0%b5%d0%bc%d0%b0-%d1%81-%d0%be%d0%bf%d0%bb%d0%b0%d1%82%d0%be%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Лендинг → Кнопка &amp;#34;Купить&amp;#34; → Платёжная система → Webhook → Workflow → Выдача доступа → Email с инструкцией&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Скопировать код&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Как нарисовать свою схему&lt;span class="hx:absolute hx:-mt-20" id="как-нарисовать-свою-схему"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d1%80%d0%b8%d1%81%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d1%8e-%d1%81%d1%85%d0%b5%d0%bc%d1%83" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Как нарисовать свою схему&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;как-нарисовать-свою-схему&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%b0%d0%ba-%d0%bd%d0%b0%d1%80%d0%b8%d1%81%d0%be%d0%b2%d0%b0%d1%82%d1%8c-%d1%81%d0%b2%d0%be%d1%8e-%d1%81%d1%85%d0%b5%d0%bc%d1%83&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;Начните с пользователя (слева)&lt;/li&gt;
 &lt;li&gt;Покажите, куда он попадает (лендинг, форма)&lt;/li&gt;
 &lt;li&gt;Покажите, куда идут данные (workflow, API)&lt;/li&gt;
@@ -156,10 +183,10 @@ title="Скопировать код"
 &lt;li&gt;Покажите, куда идёт результат (email, сайт, файл)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Совет:&lt;/strong&gt; Используйте простые стрелки и прямоугольники. Не нужно делать сложные диаграммы. Главное — понять последовательность.&lt;/p&gt;
-&lt;h2&gt;Шаг 4: Определите входные и выходные данные&lt;span class="hx:absolute hx:-mt-20" id="шаг-4-определите-входные-и-выходные-данные"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-4-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d0%b8-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Для каждого компонента нужно понять: что он получает на входе и что отдаёт на выходе.&lt;/p&gt;
-&lt;h3&gt;Пример: AI-генератор описаний товаров&lt;span class="hx:absolute hx:-mt-20" id="пример-ai-генератор-описаний-товаров"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-ai-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Входные данные:&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Шаг 4: Определите входные и выходные данные&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-4-определите-входные-и-выходные-данные&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-4-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d0%b8-%d0%b2%d1%8b%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Для каждого компонента нужно понять: что он получает на входе и что отдаёт на выходе.&lt;/p&gt;
+&lt;h3&gt;Пример: AI-генератор описаний товаров&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-ai-генератор-описаний-товаров&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-ai-%d0%b3%d0%b5%d0%bd%d0%b5%d1%80%d0%b0%d1%82%d0%be%d1%80-%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b9-%d1%82%d0%be%d0%b2%d0%b0%d1%80%d0%be%d0%b2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Входные данные:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Таблица с названиями товаров (файл Excel или CSV)&lt;/li&gt;
 &lt;li&gt;Параметры генерации (стиль, длина описания)&lt;/li&gt;
@@ -191,10 +218,10 @@ title="Скопировать код"
 &lt;li&gt;Выход: письмо отправлено&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Зачем это нужно:&lt;/strong&gt; Чтобы понять, какие данные передавать между компонентами и в каком формате.&lt;/p&gt;
-&lt;h2&gt;Шаг 5: Определите точки интеграции&lt;span class="hx:absolute hx:-mt-20" id="шаг-5-определите-точки-интеграции"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-5-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d1%82%d0%be%d1%87%d0%ba%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Интеграция&lt;/strong&gt; — это место, где два компонента соединяются и обмениваются данными.&lt;/p&gt;
-&lt;h3&gt;Основные типы интеграций:&lt;span class="hx:absolute hx:-mt-20" id="основные-типы-интеграций"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b8%d0%bf%d1%8b-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Webhook (вебхук)&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Шаг 5: Определите точки интеграции&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-5-определите-точки-интеграции&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-5-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d1%82%d0%be%d1%87%d0%ba%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Интеграция&lt;/strong&gt; — это место, где два компонента соединяются и обмениваются данными.&lt;/p&gt;
+&lt;h3&gt;Основные типы интеграций:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;основные-типы-интеграций&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b8%d0%bf%d1%8b-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Webhook (вебхук)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Что это:&lt;/strong&gt; Способ отправки данных из одного сервиса в другой в реальном времени&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Когда используется:&lt;/strong&gt; Когда форма отправляет данные в workflow, когда платёжная система уведомляет об оплате&lt;/li&gt;
@@ -218,8 +245,8 @@ title="Скопировать код"
 &lt;li&gt;&lt;strong&gt;Когда используется:&lt;/strong&gt; Когда нужно получить данные от пользователя (вопрос, файл, контакты)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Это &amp;ldquo;анкета&amp;rdquo;, которую заполняет пользователь&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Примеры интеграций:&lt;span class="hx:absolute hx:-mt-20" id="примеры-интеграций"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Интеграция формы с workflow:&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;Примеры интеграций:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;примеры-интеграций&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80%d1%8b-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Интеграция формы с workflow:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Форма на Tilda отправляет данные через webhook в n8n&lt;/li&gt;
 &lt;li&gt;n8n получает данные и начинает обработку&lt;/li&gt;
@@ -246,10 +273,10 @@ title="Скопировать код"
 &lt;li&gt;Агент структурирует данные и генерирует сводный отчёт.
 &lt;strong&gt;Простыми словами:&lt;/strong&gt; MCP даёт агенту &amp;ldquo;руки&amp;rdquo; для поиска и &amp;ldquo;глаза&amp;rdquo; для чтения файлов, чтобы он мог работать автономно.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Шаг 6: Определите обработку ошибок&lt;span class="hx:absolute hx:-mt-20" id="шаг-6-определите-обработку-ошибок"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-6-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d1%83-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Обработка ошибок&lt;/strong&gt; — это то, что происходит, когда что-то идёт не так.&lt;/p&gt;
-&lt;h3&gt;Типичные ошибки:&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки"&gt;&lt;/span&gt;
-&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h2&gt;Шаг 6: Определите обработку ошибок&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-6-определите-обработку-ошибок&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-6-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d1%83-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Обработка ошибок&lt;/strong&gt; — это то, что происходит, когда что-то идёт не так.&lt;/p&gt;
+&lt;h3&gt;Типичные ошибки:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Пользователь не заплатил, но пытается использовать продукт&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -275,39 +302,39 @@ title="Скопировать код"
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Как обрабатывать ошибки:&lt;span class="hx:absolute hx:-mt-20" id="как-обрабатывать-ошибки"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%b0%d0%ba-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%b0%d1%82%d1%8b%d0%b2%d0%b0%d1%82%d1%8c-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Как обрабатывать ошибки:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;как-обрабатывать-ошибки&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%b0%d0%ba-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%b0%d1%82%d1%8b%d0%b2%d0%b0%d1%82%d1%8c-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Предвидьте возможные проблемы&lt;/strong&gt; — подумайте, что может пойти не так&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Добавьте проверки&lt;/strong&gt; — проверяйте данные перед обработкой&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Сообщайте пользователю&lt;/strong&gt; — если что-то не работает, объясните почему простыми словами&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Логируйте ошибки&lt;/strong&gt; — записывайте ошибки, чтобы потом их исправить&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Простыми словами:&lt;/strong&gt; Обработка ошибок — это &amp;ldquo;план Б&amp;rdquo; на случай, если что-то пойдёт не так. Лучше подготовиться заранее.&lt;/p&gt;
-&lt;h2&gt;Шаг 7: Определите минимальный набор функций (MVP)&lt;span class="hx:absolute hx:-mt-20" id="шаг-7-определите-минимальный-набор-функций-mvp"&gt;&lt;/span&gt;
-&lt;a href="#%d1%88%d0%b0%d0%b3-7-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%bc%d0%b8%d0%bd%d0%b8%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d0%bd%d0%b0%d0%b1%d0%be%d1%80-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%b9-mvp" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;MVP (Minimum Viable Product)&lt;/strong&gt; — это минимальная версия продукта, которая решает основную проблему.&lt;/p&gt;
-&lt;h3&gt;Что должно быть в MVP:&lt;span class="hx:absolute hx:-mt-20" id="что-должно-быть-в-mvp"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d1%82%d0%be-%d0%b4%d0%be%d0%bb%d0%b6%d0%bd%d0%be-%d0%b1%d1%8b%d1%82%d1%8c-%d0%b2-mvp" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;✅ &lt;strong&gt;Основная функция&lt;/strong&gt; — то, ради чего пользователь покупает продукт
+&lt;h2&gt;Шаг 7: Определите минимальный набор функций (MVP)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;шаг-7-определите-минимальный-набор-функций-mvp&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%88%d0%b0%d0%b3-7-%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5-%d0%bc%d0%b8%d0%bd%d0%b8%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9-%d0%bd%d0%b0%d0%b1%d0%be%d1%80-%d1%84%d1%83%d0%bd%d0%ba%d1%86%d0%b8%d0%b9-mvp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;MVP (Minimum Viable Product)&lt;/strong&gt; — это минимальная версия продукта, которая решает основную проблему.&lt;/p&gt;
+&lt;h3&gt;Что должно быть в MVP:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-должно-быть-в-mvp&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%b4%d0%be%d0%bb%d0%b6%d0%bd%d0%be-%d0%b1%d1%8b%d1%82%d1%8c-%d0%b2-mvp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;✅ &lt;strong&gt;Основная функция&lt;/strong&gt; — то, ради чего пользователь покупает продукт
 ✅ &lt;strong&gt;Способ оплаты&lt;/strong&gt; — чтобы пользователь мог заплатить
 ✅ &lt;strong&gt;Способ получения результата&lt;/strong&gt; — чтобы пользователь получил то, за что заплатил&lt;/p&gt;
-&lt;h3&gt;Что НЕ должно быть в MVP:&lt;span class="hx:absolute hx:-mt-20" id="что-не-должно-быть-в-mvp"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%b4%d0%be%d0%bb%d0%b6%d0%bd%d0%be-%d0%b1%d1%8b%d1%82%d1%8c-%d0%b2-mvp" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;❌ Дополнительные функции &amp;ldquo;на будущее&amp;rdquo;
+&lt;h3&gt;Что НЕ должно быть в MVP:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;что-не-должно-быть-в-mvp&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d1%82%d0%be-%d0%bd%d0%b5-%d0%b4%d0%be%d0%bb%d0%b6%d0%bd%d0%be-%d0%b1%d1%8b%d1%82%d1%8c-%d0%b2-mvp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;❌ Дополнительные функции &amp;ldquo;на будущее&amp;rdquo;
 ❌ Сложная аналитика
 ❌ Множество вариантов настроек
 ❌ Красивый дизайн (достаточно простого и понятного)&lt;/p&gt;
-&lt;h3&gt;Пример MVP для AI-помощника:&lt;span class="hx:absolute hx:-mt-20" id="пример-mvp-для-ai-помощника"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-mvp-%d0%b4%d0%bb%d1%8f-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;✅ Пользователь задаёт вопрос → получает ответ
+&lt;h3&gt;Пример MVP для AI-помощника:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;пример-mvp-для-ai-помощника&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-mvp-%d0%b4%d0%bb%d1%8f-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;✅ Пользователь задаёт вопрос → получает ответ
 ✅ Оплата работает
 ✅ Результат приходит на email&lt;/p&gt;
 &lt;p&gt;❌ Нет истории вопросов
 ❌ Нет разных стилей ответов
 ❌ Нет мобильного приложения&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Правило:&lt;/strong&gt; Если без функции продукт не работает — она нужна. Если без неё можно обойтись — отложите на потом.&lt;/p&gt;
-&lt;h2&gt;Практический пример: Полная архитектура AI-помощника для ответов на вопросы&lt;span class="hx:absolute hx:-mt-20" id="практический-пример-полная-архитектура-ai-помощника-для-ответов-на-вопросы"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-%d0%bf%d0%be%d0%bb%d0%bd%d0%b0%d1%8f-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b2%d0%b5%d1%82%d0%be%d0%b2-%d0%bd%d0%b0-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Давайте разберём полный пример, чтобы увидеть, как всё работает вместе.&lt;/p&gt;
-&lt;h3&gt;Описание продукта:&lt;span class="hx:absolute hx:-mt-20" id="описание-продукта"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;AI-помощник, который отвечает на вопросы студентов на основе материалов курса.&lt;/p&gt;
-&lt;h3&gt;Компоненты:&lt;span class="hx:absolute hx:-mt-20" id="компоненты"&gt;&lt;/span&gt;
-&lt;a href="#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h2&gt;Практический пример: Полная архитектура AI-помощника для ответов на вопросы&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;практический-пример-полная-архитектура-ai-помощника-для-ответов-на-вопросы&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80-%d0%bf%d0%be%d0%bb%d0%bd%d0%b0%d1%8f-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0-ai-%d0%bf%d0%be%d0%bc%d0%be%d1%89%d0%bd%d0%b8%d0%ba%d0%b0-%d0%b4%d0%bb%d1%8f-%d0%be%d1%82%d0%b2%d0%b5%d1%82%d0%be%d0%b2-%d0%bd%d0%b0-%d0%b2%d0%be%d0%bf%d1%80%d0%be%d1%81%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Давайте разберём полный пример, чтобы увидеть, как всё работает вместе.&lt;/p&gt;
+&lt;h3&gt;Описание продукта:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;описание-продукта&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d0%bf%d0%b8%d1%81%d0%b0%d0%bd%d0%b8%d0%b5-%d0%bf%d1%80%d0%be%d0%b4%d1%83%d0%ba%d1%82%d0%b0&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;AI-помощник, который отвечает на вопросы студентов на основе материалов курса.&lt;/p&gt;
+&lt;h3&gt;Компоненты:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;компоненты&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%ba%d0%be%d0%bc%d0%bf%d0%be%d0%bd%d0%b5%d0%bd%d1%82%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Лендинг (Tilda)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -356,80 +383,82 @@ title="Скопировать код"
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Поток данных:&lt;span class="hx:absolute hx:-mt-20" id="поток-данных"&gt;&lt;/span&gt;
-&lt;a href="#%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий 1: Первая покупка&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Лендинг → Кнопка &amp;#34;Купить&amp;#34; → ЮKassa → Оплата → Webhook → n8n →
-→ Welcome-письмо с формой загрузки материалов → Пользователь загружает материалы →
-→ n8n → Сохранение в базу данных → Подтверждение пользователю&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Скопировать код"
-&gt;
-&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;/button&gt;
+&lt;h3&gt;Поток данных:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;поток-данных&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Сценарий 1: Первая покупка&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Пользователь → Лендинг → Кнопка &amp;#34;Купить&amp;#34; → ЮKassa → Оплата → Webhook → n8n → 
+→ Welcome-письмо с формой загрузки материалов → Пользователь загружает материалы → 
+→ n8n → Сохранение в базу данных → Подтверждение пользователю&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Скопировать код&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;Сценарий 2: Задать вопрос&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code"&gt;
-&lt;div&gt;&lt;pre&gt;&lt;code&gt;Студент → Форма вопроса на лендинге → Webhook → n8n → Загрузка материалов из базы →
-→ Отправка вопроса и материалов в AI API → AI генерирует ответ → n8n →
-→ Отправка ответа студенту на email&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0"&gt;
-&lt;button
-class="hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50"
-title="Скопировать код"
-&gt;
-&lt;div class="hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;div class="hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4"&gt;&lt;/div&gt;
-&lt;/button&gt;
+&lt;div class=&#34;hextra-code-block hx:relative hx:mt-6 hx:first:mt-0 hx:group/code&#34;&gt;
+
+&lt;div&gt;&lt;pre&gt;&lt;code&gt;Студент → Форма вопроса на лендинге → Webhook → n8n → Загрузка материалов из базы → 
+→ Отправка вопроса и материалов в AI API → AI генерирует ответ → n8n → 
+→ Отправка ответа студенту на email&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx:opacity-0 hx:transition hx:group-hover/code:opacity-100 hx:flex hx:gap-1 hx:absolute hx:m-[11px] hx:right-0 hx:top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx:group/copybtn hx:cursor-pointer hx:transition-all hx:active:opacity-50 hx:bg-primary-700/5 hx:border hx:border-black/5 hx:text-gray-600 hx:hover:text-gray-900 hx:rounded-md hx:p-1.5 hx:dark:bg-primary-300/10 hx:dark:border-white/10 hx:dark:text-gray-400 hx:dark:hover:text-gray-50&#34;
+    title=&#34;Скопировать код&#34;
+  &gt;
+    &lt;div class=&#34;hextra-copy-icon hx:group-[.copied]/copybtn:hidden hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+&lt;div class=&#34;hextra-success-icon hx:hidden hx:group-[.copied]/copybtn:block hx:pointer-events-none hx:h-4 hx:w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3&gt;Точки интеграции:&lt;span class="hx:absolute hx:-mt-20" id="точки-интеграции"&gt;&lt;/span&gt;
-&lt;a href="#%d1%82%d0%be%d1%87%d0%ba%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Точки интеграции:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;точки-интеграции&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%82%d0%be%d1%87%d0%ba%d0%b8-%d0%b8%d0%bd%d1%82%d0%b5%d0%b3%d1%80%d0%b0%d1%86%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tilda → n8n:&lt;/strong&gt; Webhook при отправке формы&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;ЮKassa → n8n:&lt;/strong&gt; Webhook при успешной оплате&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;n8n → OpenAI API:&lt;/strong&gt; HTTP-запрос с вопросом и материалами&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;n8n → Supabase:&lt;/strong&gt; Сохранение и загрузка данных&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;n8n → UniSender:&lt;/strong&gt; Отправка email&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Обработка ошибок:&lt;span class="hx:absolute hx:-mt-20" id="обработка-ошибок"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Обработка ошибок:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;обработка-ошибок&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b0-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Если AI API не ответил → повторить запрос через 5 секунд (максимум 3 попытки)&lt;/li&gt;
 &lt;li&gt;Если пользователь не загрузил материалы → напомнить в welcome-письме&lt;/li&gt;
 &lt;li&gt;Если оплата не прошла → показать сообщение на лендинге&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Чек-лист проектирования архитектуры&lt;span class="hx:absolute hx:-mt-20" id="чек-лист-проектирования-архитектуры"&gt;&lt;/span&gt;
-&lt;a href="#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу, чтобы убедиться, что вы ничего не пропустили:&lt;/p&gt;
+&lt;h2&gt;Чек-лист проектирования архитектуры&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;чек-лист-проектирования-архитектуры&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%87%d0%b5%d0%ba-%d0%bb%d0%b8%d1%81%d1%82-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d1%8f-%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d1%8b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Пройдитесь по этому чек-листу, чтобы убедиться, что вы ничего не пропустили:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Описан основной сценарий использования (что делает пользователь и что получает)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Определены все компоненты системы (лендинг, workflow, API, база данных, платежи)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Нарисована схема потока данных (как данные движутся через систему)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Определены входные и выходные данные для каждого компонента&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Определены точки интеграции (где компоненты соединяются)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Продумана обработка ошибок (что делать, если что-то пойдёт не так)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Определён минимальный набор функций для MVP (только самое необходимое)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Понятно, какие инструменты использовать для каждого компонента&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Описан основной сценарий использования (что делает пользователь и что получает)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Определены все компоненты системы (лендинг, workflow, API, база данных, платежи)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Нарисована схема потока данных (как данные движутся через систему)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Определены входные и выходные данные для каждого компонента&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Определены точки интеграции (где компоненты соединяются)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Продумана обработка ошибок (что делать, если что-то пойдёт не так)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Определён минимальный набор функций для MVP (только самое необходимое)&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Понятно, какие инструменты использовать для каждого компонента&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Типичные ошибки при проектировании&lt;span class="hx:absolute hx:-mt-20" id="типичные-ошибки-при-проектировании"&gt;&lt;/span&gt;
-&lt;a href="#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Переусложнение&lt;span class="hx:absolute hx:-mt-20" id="ошибка-1-переусложнение"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d0%bf%d0%b5%d1%80%d0%b5%d1%83%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Попытка создать сложную систему &amp;ldquo;на будущее&amp;rdquo;&lt;/p&gt;
+&lt;h2&gt;Типичные ошибки при проектировании&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;типичные-ошибки-при-проектировании&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%82%d0%b8%d0%bf%d0%b8%d1%87%d0%bd%d1%8b%d0%b5-%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b8-%d0%bf%d1%80%d0%b8-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ошибка 1: Переусложнение&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-1-переусложнение&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-1-%d0%bf%d0%b5%d1%80%d0%b5%d1%83%d1%81%d0%bb%d0%be%d0%b6%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Попытка создать сложную систему &amp;ldquo;на будущее&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Пример:&lt;/strong&gt; Добавление аналитики, множества настроек, сложной системы доступа, когда достаточно простой формы и email&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Начните с самого простого варианта. Добавляйте сложность только когда она действительно нужна.&lt;/p&gt;
-&lt;h3&gt;Ошибка 2: Игнорирование обработки ошибок&lt;span class="hx:absolute hx:-mt-20" id="ошибка-2-игнорирование-обработки-ошибок"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Не продумано, что делать, если что-то сломается&lt;/p&gt;
+&lt;h3&gt;Ошибка 2: Игнорирование обработки ошибок&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-2-игнорирование-обработки-ошибок&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-2-%d0%b8%d0%b3%d0%bd%d0%be%d1%80%d0%b8%d1%80%d0%be%d0%b2%d0%b0%d0%bd%d0%b8%d0%b5-%d0%be%d0%b1%d1%80%d0%b0%d0%b1%d0%be%d1%82%d0%ba%d0%b8-%d0%be%d1%88%d0%b8%d0%b1%d0%be%d0%ba&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Не продумано, что делать, если что-то сломается&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Пример:&lt;/strong&gt; Если AI API не ответил, пользователь просто не получает ответ и не понимает, что произошло&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Продумайте основные сценарии ошибок и добавьте обработку.&lt;/p&gt;
-&lt;h3&gt;Ошибка 3: Непонятный поток данных&lt;span class="hx:absolute hx:-mt-20" id="ошибка-3-непонятный-поток-данных"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d1%8b%d0%b9-%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Неясно, как данные движутся через систему&lt;/p&gt;
+&lt;h3&gt;Ошибка 3: Непонятный поток данных&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-3-непонятный-поток-данных&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-3-%d0%bd%d0%b5%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d1%8b%d0%b9-%d0%bf%d0%be%d1%82%d0%be%d0%ba-%d0%b4%d0%b0%d0%bd%d0%bd%d1%8b%d1%85&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Неясно, как данные движутся через систему&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Пример:&lt;/strong&gt; Непонятно, откуда workflow берёт данные пользователя и куда отправляет результат&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Нарисуйте схему потока данных, даже простую от руки.&lt;/p&gt;
-&lt;h3&gt;Ошибка 4: Попытка сделать всё идеально&lt;span class="hx:absolute hx:-mt-20" id="ошибка-4-попытка-сделать-всё-идеально"&gt;&lt;/span&gt;
-&lt;a href="#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bf%d0%be%d0%bf%d1%8b%d1%82%d0%ba%d0%b0-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b2%d1%81%d1%91-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Долгая разработка &amp;ldquo;идеальной&amp;rdquo; архитектуры вместо быстрого запуска&lt;/p&gt;
+&lt;h3&gt;Ошибка 4: Попытка сделать всё идеально&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ошибка-4-попытка-сделать-всё-идеально&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%be%d1%88%d0%b8%d0%b1%d0%ba%d0%b0-4-%d0%bf%d0%be%d0%bf%d1%8b%d1%82%d0%ba%d0%b0-%d1%81%d0%b4%d0%b5%d0%bb%d0%b0%d1%82%d1%8c-%d0%b2%d1%81%d1%91-%d0%b8%d0%b4%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Проблема:&lt;/strong&gt; Долгая разработка &amp;ldquo;идеальной&amp;rdquo; архитектуры вместо быстрого запуска&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Пример:&lt;/strong&gt; Недели на проектирование вместо дней на создание простого MVP&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Решение:&lt;/strong&gt; Помните: лучше запустить простой продукт быстро, чем идеальный никогда.&lt;/p&gt;
-&lt;h2&gt;Следующие шаги&lt;span class="hx:absolute hx:-mt-20" id="следующие-шаги"&gt;&lt;/span&gt;
-&lt;a href="#%d1%81%d0%bb%d0%b5%d0%b4%d1%83%d1%8e%d1%89%d0%b8%d0%b5-%d1%88%d0%b0%d0%b3%d0%b8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;После того, как вы спроектировали архитектуру:&lt;/p&gt;
+&lt;h2&gt;Следующие шаги&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;следующие-шаги&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d1%81%d0%bb%d0%b5%d0%b4%d1%83%d1%8e%d1%89%d0%b8%d0%b5-%d1%88%d0%b0%d0%b3%d0%b8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;После того, как вы спроектировали архитектуру:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Изучите инструменты&lt;/strong&gt; — посмотрите базовые туториалы по n8n/Make (1-2 часа достаточно, есть на каналах разработчиков в youtube)&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Создайте простой workflow&lt;/strong&gt; — начните с самого простого сценария&lt;/li&gt;
@@ -437,8 +466,8 @@ title="Скопировать код"
 &lt;li&gt;&lt;strong&gt;Итеративно улучшайте&lt;/strong&gt; — добавляйте функции по мере необходимости&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Помните:&lt;/strong&gt; Архитектура — это не финальный план, а отправная точка. Вы всегда можете изменить её, когда поймёте, что нужно улучшить.&lt;/p&gt;
-&lt;h2&gt;Глоссарий&lt;span class="hx:absolute hx:-mt-20" id="глоссарий"&gt;&lt;/span&gt;
-&lt;a href="#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;API (Application Programming Interface)&lt;/strong&gt; — способ, с помощью которого один сервис обращается к другому за данными или функциями. Например, ваш workflow обращается к AI API, чтобы сгенерировать текст.&lt;/p&gt;
+&lt;h2&gt;Глоссарий&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;глоссарий&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#%d0%b3%d0%bb%d0%be%d1%81%d1%81%d0%b0%d1%80%d0%b8%d0%b9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;API (Application Programming Interface)&lt;/strong&gt; — способ, с помощью которого один сервис обращается к другому за данными или функциями. Например, ваш workflow обращается к AI API, чтобы сгенерировать текст.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Архитектура&lt;/strong&gt; — план того, как разные части продукта работают вместе. Это &amp;ldquo;чертёж&amp;rdquo; вашего продукта.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;База данных&lt;/strong&gt; — место, где хранятся данные (информация о пользователях, история запросов, настройки). Как библиотека для данных.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Webhook (вебхук)&lt;/strong&gt; — способ отправки данных из одного сервиса в другой в реальном времени. Когда происходит событие (например, оплата), сервис автоматически отправляет уведомление в другой сервис.&lt;/p&gt;
@@ -452,4 +481,10 @@ title="Скопировать код"
 &lt;p&gt;&lt;strong&gt;Фронтенд (frontend)&lt;/strong&gt; — видимая часть продукта, с которой взаимодействует пользователь (лендинг, формы, кнопки).&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Backend (бэкенд)&lt;/strong&gt; — невидимая часть продукта, которая обрабатывает данные и выполняет основную работу (workflow, API, база данных).&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;Последнее обновление: 09-01-2026&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;&lt;em&gt;Последнее обновление: 09-01-2026&lt;/em&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
