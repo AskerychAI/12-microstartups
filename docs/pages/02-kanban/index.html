@@ -1,61 +1,709 @@
-<!doctype html><html lang=en dir=ltr><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta name=robots content="index, follow"><link rel="icon shortcut" href=/favicon.ico sizes=32x32><link rel=icon href=/favicon.svg type=image/svg+xml id=favicon-svg><link rel=icon href=/favicon-16x16.png type=image/png sizes=16x16><link rel=icon href=/favicon-32x32.png type=image/png sizes=32x32><link rel=apple-touch-icon href=/apple-touch-icon.png sizes=180x180><link fetchpriority=low href=/site.webmanifest rel=manifest><title>Как работает наша канбан-доска – 12 microstartups</title><meta name=description content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников"><link rel=canonical href=https://ch12ms.online/pages/02-kanban/ itemprop=url><meta property="og:title" content="Как работает наша канбан-доска"><meta property="og:description" content="
+<!DOCTYPE html>
+<html lang="en" dir="ltr"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="robots" content="index, follow" />
+  <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" id="favicon-svg" />
+<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16" />
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180" />
+<link fetchpriority="low" href="/site.webmanifest" rel="manifest" />
+<title>Как работает наша канбан-доска – 12 microstartups</title>
+  <meta name="description" content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников" /><link rel="canonical" href="https://ch12ms.online/pages/02-kanban/" itemprop="url" />
+
+<meta property="og:title" content="Как работает наша канбан-доска">
+<meta
+  property="og:description"
+  content="
     Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников
-  "><meta property="og:type" content="
+  ">
+<meta
+  property="og:type"
+  content="
     article
-  "><meta property="og:url" content="https://ch12ms.online/pages/02-kanban/"><meta property="article:section" content="pages"><meta property="article:published_time" content="2026-01-03T00:00:00+03:00"><meta property="article:modified_time" content="2026-01-03T00:00:00+03:00"><meta itemprop=name content="Как работает наша канбан-доска"><meta itemprop=description content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников"><meta itemprop=datePublished content="2026-01-03T00:00:00+03:00"><meta itemprop=dateModified content="2026-01-03T00:00:00+03:00"><meta itemprop=wordCount content="517"><meta name=twitter:card content="summary"><meta name=twitter:title content="Как работает наша канбан-доска"><meta name=twitter:description content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников"><link rel=preload href=/css/compiled/main.min.7d7c19c041a80c92d23b3799a3c1838c7c927503d45df12828b778594b43c03d.css as=style integrity="sha256-fXwZwEGoDJLSOzeZo8GDjHySdQPUXfEoKLd4WUtDwD0="><link href=/css/compiled/main.min.7d7c19c041a80c92d23b3799a3c1838c7c927503d45df12828b778594b43c03d.css rel=stylesheet integrity="sha256-fXwZwEGoDJLSOzeZo8GDjHySdQPUXfEoKLd4WUtDwD0="><link rel=preconnect href=https://www.googletagmanager.com crossorigin><script async src="https://www.googletagmanager.com/gtag/js?id=G-DE8LY4CSQY"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-DE8LY4CSQY")</script><script src=/js/main-head.min.b35edf231d4342eaac536385a0fd7c90bff77c0cb977a194a720ec27a521842d.js integrity="sha256-s17fIx1DQuqsU2OFoP18kL/3fAy5d6GUpyDsJ6UhhC0="></script><script type=text/javascript>(function(e,t,n,s,o,i,a){e[o]=e[o]||function(){(e[o].a=e[o].a||[]).push(arguments)},e[o].l=1*new Date;for(var r=0;r<document.scripts.length;r++)if(document.scripts[r].src===s)return;i=t.createElement(n),a=t.getElementsByTagName(n)[0],i.async=1,i.src=s,a.parentNode.insertBefore(i,a)})(window,document,"script","https://mc.yandex.ru/metrika/tag.js?id=106138774","ym"),ym(106138774,"init",{ssr:!0,webvisor:!0,clickmap:!0,ecommerce:"dataLayer",accurateTrackBounce:!0,trackLinks:!0})</script><noscript><div><img src=https://mc.yandex.ru/watch/106138774 style=position:absolute;left:-9999px alt></div></noscript></head><body><div class="hextra-nav-container hx:sticky hx:top-0 hx:z-20 hx:w-full hx:bg-transparent hx:print:hidden"><div class="hextra-nav-container-blur hx:pointer-events-none hx:absolute hx:z-[-1] hx:h-full hx:w-full hx:bg-white hx:dark:bg-dark hx:shadow-[0_2px_4px_rgba(0,0,0,.02),0_1px_0_rgba(0,0,0,.06)] hx:contrast-more:shadow-[0_0_0_1px_#000] hx:dark:shadow-[0_-1px_0_rgba(255,255,255,.1)_inset] hx:contrast-more:dark:shadow-[0_0_0_1px_#fff]"></div><nav class="hextra-max-navbar-width hx:mx-auto hx:flex hx:items-center hx:justify-end hx:gap-2 hx:h-16 hx:px-6"><a class="hx:flex hx:items-center hx:hover:opacity-75 hx:ltr:mr-auto hx:rtl:ml-auto" href=/><img class="hx:mr-2 hx:block hx:dark:hidden" src=/images/logo.svg alt=Logo height=20 width=40>
-<img class="hx:mr-2 hx:hidden hx:dark:block" src=/images/logo.svg alt="Dark Logo" height=20 width=40>
-<span class="hx:mr-2 hx:font-extrabold hx:inline hx:select-none" title="12 microstartups">12 microstartups</span>
-</a><a title href=/podpiska class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"><span class=hx:text-center>Стать участником</span>
-</a><a title href=/posts class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"><span class=hx:text-center>Блог</span>
-</a><a title href=/pages/baza-znaniy class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"><span class=hx:text-center>База знаний</span></a><div class="hextra-search-wrapper hx:relative hx:md:w-64"><div class="hx:relative hx:flex hx:items-center hx:text-gray-900 hx:contrast-more:text-gray-800 hx:dark:text-gray-300 hx:contrast-more:dark:text-gray-300"><input placeholder=Поиск... class="hextra-search-input hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current" type=search spellcheck=false>
-<kbd class="hx:absolute hx:my-1.5 hx:select-none hx:ltr:right-1.5 hx:rtl:left-1.5 hx:h-5 hx:rounded-sm hx:bg-white hx:px-1.5 hx:font-mono hx:text-[10px] hx:font-medium hx:text-gray-500 hx:border hx:border-gray-200 hx:dark:border-gray-100/20 hx:dark:bg-dark/50 hx:contrast-more:border-current hx:contrast-more:text-current hx:contrast-more:dark:border-current hx:items-center hx:gap-1 hx:transition-opacity hx:pointer-events-none hx:hidden hx:sm:flex">CTRL K</kbd></div><div><ul class="hextra-search-results hextra-scrollbar hx:hidden hx:border hx:border-gray-200 hx:bg-white hx:text-gray-100 hx:dark:border-neutral-800 hx:dark:bg-neutral-900 hx:absolute hx:top-full hx:z-20 hx:mt-2 hx:overflow-auto hx:overscroll-contain hx:rounded-xl hx:py-2.5 hx:shadow-xl hx:max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] hx:md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] hx:inset-x-0 hx:ltr:md:left-auto hx:rtl:md:right-auto hx:contrast-more:border hx:contrast-more:border-gray-900 hx:contrast-more:dark:border-gray-50 hx:w-screen hx:min-h-[100px] hx:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]" style="transition:max-height .2s ease 0s"></ul></div></div><button type=button aria-label=Menu class="hextra-hamburger-menu hx:cursor-pointer hx:-mr-2 hx:rounded-sm hx:p-2 hx:active:bg-gray-400/20 hx:md:hidden"><svg height="24" fill="none" viewBox="0 0 24 24" stroke="currentColor"><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8H20"/></g><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16H20"/></g></svg></button></nav></div><div class='hx:mx-auto hx:flex hextra-max-page-width'><aside class="hextra-sidebar-container hx:flex hx:flex-col hx:print:hidden hx:md:top-16 hx:md:shrink-0 hx:md:w-64 hx:md:self-start hx:max-md:[transform:translate3d(0,-100%,0)] hx:md:hidden hx:xl:block"><div class="hx:px-4 hx:pt-4 hx:md:hidden"><div class="hextra-search-wrapper hx:relative hx:md:w-64"><div class="hx:relative hx:flex hx:items-center hx:text-gray-900 hx:contrast-more:text-gray-800 hx:dark:text-gray-300 hx:contrast-more:dark:text-gray-300"><input placeholder=Поиск... class="hextra-search-input hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current" type=search spellcheck=false>
-<kbd class="hx:absolute hx:my-1.5 hx:select-none hx:ltr:right-1.5 hx:rtl:left-1.5 hx:h-5 hx:rounded-sm hx:bg-white hx:px-1.5 hx:font-mono hx:text-[10px] hx:font-medium hx:text-gray-500 hx:border hx:border-gray-200 hx:dark:border-gray-100/20 hx:dark:bg-dark/50 hx:contrast-more:border-current hx:contrast-more:text-current hx:contrast-more:dark:border-current hx:items-center hx:gap-1 hx:transition-opacity hx:pointer-events-none hx:hidden hx:sm:flex">CTRL K</kbd></div><div><ul class="hextra-search-results hextra-scrollbar hx:hidden hx:border hx:border-gray-200 hx:bg-white hx:text-gray-100 hx:dark:border-neutral-800 hx:dark:bg-neutral-900 hx:absolute hx:top-full hx:z-20 hx:mt-2 hx:overflow-auto hx:overscroll-contain hx:rounded-xl hx:py-2.5 hx:shadow-xl hx:max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] hx:md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] hx:inset-x-0 hx:ltr:md:left-auto hx:rtl:md:right-auto hx:contrast-more:border hx:contrast-more:border-gray-900 hx:contrast-more:dark:border-gray-50 hx:w-screen hx:min-h-[100px] hx:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]" style="transition:max-height .2s ease 0s"></ul></div></div></div><div class="hextra-scrollbar hx:overflow-y-auto hx:overflow-x-hidden hx:p-4 hx:grow hx:md:h-[calc(100vh-var(--navbar-height)-var(--menu-height))]"><ul class="hx:flex hx:flex-col hx:gap-1 hx:md:hidden"><li><span class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50">Поиск</span></li><li><a class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50" href=/podpiska>Стать участником</a></li><li><a class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50" href=/posts>Блог</a></li><li><a class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
-hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50" href=/pages/baza-znaniy>База знаний</a></li></ul><div class="hx:max-xl:hidden hx:h-0 hx:w-64 hx:shrink-0"></div></div><div class="hx:md:hidden hx:sticky hx:bottom-0 hx:max-h-(--menu-height) hx:bg-white hx:dark:bg-dark hx:mx-4 hx:py-4 hx:shadow-[0_-12px_16px_#fff] hx:flex hx:items-center hx:gap-2 hx:border-gray-200 hx:dark:border-neutral-800 hx:dark:shadow-[0_-12px_16px_#111] hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:shadow-none hx:border-t" data-toggle-animation=show><div class="hx:flex hx:grow hx:flex-col"><div class="hx:flex hx:justify-items-start hx:group" data-theme=light><button title="Изменить тему" data-state=closed data-location=bottom class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium hx:h-7 hx:px-2 hx:text-xs hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:font-medium hx:text-gray-600 hx:transition-colors hx:dark:text-gray-400 hx:grow" type=button aria-label="Изменить тему"><div class="hx:flex hx:items-center hx:gap-2 hx:capitalize"><svg height="12" class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364-.707-.707M6.343 6.343l-.707-.707m12.728.0-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden">Светлая</span><svg height="12" class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003.0 0012 21a9.003 9.003.0 008.354-5.646z"/></svg><span class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden">Темная</span><svg height="12" class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden" viewBox="0 0 24 24" fill="currentColor"><path d="M11.996094 2C6.4986225 2.0192368 2.03125 6.5024993 2.03125 12c0 5.497501 4.4673725 9.980763 9.964844 10H12 12.0039c5.497471-.01924 9.964844-4.502499 9.964844-10 0-5.4975007-4.467373-9.9807632-9.964844-10H12zM12 4c4.417218.017598 7.96875 3.5822356 7.96875 8 0 4.417764-3.551532 7.982402-7.96875 8z"/></svg>
-<span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden">System</span></div></button><ul class="hextra-theme-toggle-options hx:hidden hx:z-20 hx:max-h-64 hx:overflow-auto hx:rounded-md hx:ring-1 hx:ring-black/5 hx:bg-white hx:py-1 hx:text-sm hx:shadow-lg hx:dark:ring-white/20 hx:dark:bg-neutral-800" style="position:fixed;inset:auto auto 0 0;margin:0;min-width:100px" data-theme=light><li class="hx:flex hx:flex-col"><p data-item=light class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">Светлая
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li><li class="hx:flex hx:flex-col"><p data-item=dark class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">Темная
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li><li class="hx:flex hx:flex-col"><p data-item=system class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">System
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li></ul></div></div></div></aside><nav class="hextra-toc hx:order-last hx:hidden hx:w-64 hx:shrink-0 hx:xl:block hx:print:hidden hx:px-4" aria-label="table of contents"><div class="hextra-scrollbar hx:sticky hx:top-16 hx:overflow-y-auto hx:pr-4 hx:pt-6 hx:text-sm [hyphens:auto] hx:max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] hx:ltr:-mr-4 hx:rtl:-ml-4"><p class="hx:mb-4 hx:font-semibold hx:tracking-tight">На этой странице</p><ul><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-yutube>Видеообзор на yutube</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-%d0%b2%d0%ba-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be>Видеообзор на ВК Видео</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%87%d0%ba%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b0---%d1%8d%d1%82%d0%be-%d0%b5%d0%b3%d0%be-%d0%bb%d0%b8%d1%86%d0%be>Карточка проекта - это его лицо</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%b2%d1%81%d1%91-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d1%81-%d1%86%d0%b2%d0%b5%d1%82%d0%b0>Всё начинается с цвета</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%bd%d0%be-%d0%b4%d0%be%d1%81%d0%ba%d0%b0---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%86%d0%b2%d0%b5%d1%82%d0%b0>Но доска - это не только цвета</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%bc%d0%b8-%d1%85%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f-%d0%b3%d0%be%d1%80%d0%b4%d0%b8%d1%82%d1%8c%d1%81%d1%8f>Моменты, которыми хочется гордиться</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%bd%d0%b3-%d0%b1%d0%b5%d0%b7-%d1%81%d1%83%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d1%89%d0%b8%d0%bd%d1%8b>Рейтинг: без субъективщины</a></li><li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6"><a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href=#%d0%b2-%d0%b8%d1%82%d0%be%d0%b3%d0%b5>В итоге</a></li></ul><div class="hx:mt-8 hx:border-t hx:bg-white hx:pt-8 hx:shadow-[0_-12px_16px_white] hx:dark:bg-dark hx:dark:shadow-[0_-12px_16px_#111] hx:sticky hx:bottom-0 hx:flex hx:flex-col hx:items-start hx:gap-2 hx:pb-8 hx:border-gray-200 hx:dark:border-neutral-800 hx:contrast-more:border-t hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:border-neutral-400"><button aria-hidden=true id=backToTop onclick=scrollUp() class="hx:cursor-pointer hx:transition-all hx:duration-75 hx:opacity-0 hx:text-xs hx:font-medium hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50">
-<span>Прокрутить к началу</span>
-<svg fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hx:inline hx:ltr:ml-1 hx:rtl:mr-1 hx:h-3.5 hx:w-3.5 hx:rounded-full hx:border hx:border-gray-500 hx:hover:border-gray-900 hx:dark:border-gray-400 hx:dark:hover:border-gray-100 hx:contrast-more:border-gray-800 hx:contrast-more:dark:border-gray-50"><path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5"/></svg></button></div></div></nav><article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]"><main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12"><br class="hx:mt-1.5 hx:text-sm"><h1 class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100">Как работает наша канбан-доска</h1><div class=hx:mb-16></div><div class=content><h3>Видеообзор на yutube<span class="hx:absolute hx:-mt-20" id=видеообзор-на-yutube></span>
-<a href=#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-yutube class=subheading-anchor aria-label="Permalink for this section"></a></h3><div style=position:relative;padding-bottom:56.25%;height:0;overflow:hidden><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading=eager referrerpolicy=strict-origin-when-cross-origin src="https://www.youtube.com/embed/WhI4ZynVRYo?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style=position:absolute;top:0;left:0;width:100%;height:100%;border:0 title="YouTube video"></iframe></div><h3>Видеообзор на ВК Видео<span class="hx:absolute hx:-mt-20" id=видеообзор-на-вк-видео></span>
-<a href=#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-%d0%b2%d0%ba-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><a href=https://vkvideo.ru/video-164063140_456239071 target=_blank rel=noopener>https://vkvideo.ru/video-164063140_456239071</a></p><p><strong>История вашего стартапа - в цветах, цифрах и движении</strong></p><p><img src=/images/1.png alt loading=lazy></p><p>Представь не список задач и не очередной трекер.
-А большую живую карту, где каждый проект - это отдельная история.</p><p>Наша канбан-доска - именно такая.
+  ">
+<meta property="og:url" content="https://ch12ms.online/pages/02-kanban/"><meta property="article:section" content="pages">
+
+<meta
+  property="article:published_time"
+  content="2026-01-03T00:00:00+03:00">
+
+
+<meta
+  property="article:modified_time"
+  content="2026-01-03T00:00:00+03:00">
+
+
+
+  <meta itemprop="name" content="Как работает наша канбан-доска">
+  <meta itemprop="description" content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников">
+  <meta itemprop="datePublished" content="2026-01-03T00:00:00+03:00">
+  <meta itemprop="dateModified" content="2026-01-03T00:00:00+03:00">
+  <meta itemprop="wordCount" content="517">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Как работает наша канбан-доска">
+  <meta name="twitter:description" content="Обзор главного инструмента для отслеживания прогресса участников челленджа - канбан-доски участников">
+
+    <link rel="preload" href="/css/compiled/main.min.7d7c19c041a80c92d23b3799a3c1838c7c927503d45df12828b778594b43c03d.css" as="style" integrity="sha256-fXwZwEGoDJLSOzeZo8GDjHySdQPUXfEoKLd4WUtDwD0=" />
+    <link href="/css/compiled/main.min.7d7c19c041a80c92d23b3799a3c1838c7c927503d45df12828b778594b43c03d.css" rel="stylesheet" integrity="sha256-fXwZwEGoDJLSOzeZo8GDjHySdQPUXfEoKLd4WUtDwD0=" />
+
+  
+  <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
+  
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DE8LY4CSQY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag("js", new Date());
+
+  gtag("config", "G-DE8LY4CSQY");
+</script>
+
+
+
+
+
+
+
+<script src="/js/main-head.min.b35edf231d4342eaac536385a0fd7c90bff77c0cb977a194a720ec27a521842d.js" integrity="sha256-s17fIx1DQuqsU2OFoP18kL/3fAy5d6GUpyDsJ6UhhC0="></script>
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    (function(m,e,t,r,i,k,a){
+        m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+        m[i].l=1*new Date();
+        for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+        k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)
+    })(window, document,'script','https://mc.yandex.ru/metrika/tag.js?id=106138774', 'ym');
+
+    ym(106138774, 'init', {ssr:true, webvisor:true, clickmap:true, ecommerce:"dataLayer", accurateTrackBounce:true, trackLinks:true});
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/106138774" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
+
+</head>
+<body><div class="hextra-nav-container hx:sticky hx:top-0 hx:z-20 hx:w-full hx:bg-transparent hx:print:hidden">
+  <div
+    class="hextra-nav-container-blur hx:pointer-events-none hx:absolute hx:z-[-1] hx:h-full hx:w-full hx:bg-white hx:dark:bg-dark hx:shadow-[0_2px_4px_rgba(0,0,0,.02),0_1px_0_rgba(0,0,0,.06)] hx:contrast-more:shadow-[0_0_0_1px_#000] hx:dark:shadow-[0_-1px_0_rgba(255,255,255,.1)_inset] hx:contrast-more:dark:shadow-[0_0_0_1px_#fff]"
+  ></div>
+
+  <nav class="hextra-max-navbar-width hx:mx-auto hx:flex hx:items-center hx:justify-end hx:gap-2 hx:h-16 hx:px-6">
+    <a class="hx:flex hx:items-center hx:hover:opacity-75 hx:ltr:mr-auto hx:rtl:ml-auto" href="/">
+    <img class="hx:mr-2 hx:block hx:dark:hidden" src="/images/logo.svg" alt="Logo" height="20" width="40" />
+    <img class="hx:mr-2 hx:hidden hx:dark:block" src="/images/logo.svg" alt="Dark Logo" height="20" width="40" />
+    <span class="hx:mr-2 hx:font-extrabold hx:inline hx:select-none" title="12 microstartups">12 microstartups</span>
+</a>
+<a
+  title=""
+  href="/podpiska"
+  
+  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
+><span class="hx:text-center">Стать участником</span>
+</a><a
+  title=""
+  href="/posts"
+  
+  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
+><span class="hx:text-center">Блог</span>
+</a><a
+  title=""
+  href="/pages/baza-znaniy"
+  
+  class="hx:text-sm hx:contrast-more:text-gray-700 hx:contrast-more:dark:text-gray-100 hx:relative hx:-ml-2 hx:hidden hx:whitespace-nowrap hx:p-2 hx:md:inline-flex hx:items-center hx:gap-1 hx:text-gray-600 hx:hover:text-gray-800 hx:dark:text-gray-400 hx:dark:hover:text-gray-200"
+><span class="hx:text-center">База знаний</span>
+</a><div class="hextra-search-wrapper hx:relative hx:md:w-64">
+  <div class="hx:relative hx:flex hx:items-center hx:text-gray-900 hx:contrast-more:text-gray-800 hx:dark:text-gray-300 hx:contrast-more:dark:text-gray-300">
+    <input
+      placeholder="Поиск..."
+      class="hextra-search-input hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current"
+      type="search"
+      value=""
+      spellcheck="false"
+    />
+    <kbd
+      class="hx:absolute hx:my-1.5 hx:select-none hx:ltr:right-1.5 hx:rtl:left-1.5 hx:h-5 hx:rounded-sm hx:bg-white hx:px-1.5 hx:font-mono hx:text-[10px] hx:font-medium hx:text-gray-500 hx:border hx:border-gray-200 hx:dark:border-gray-100/20 hx:dark:bg-dark/50 hx:contrast-more:border-current hx:contrast-more:text-current hx:contrast-more:dark:border-current hx:items-center hx:gap-1 hx:transition-opacity hx:pointer-events-none hx:hidden hx:sm:flex"
+    >
+      CTRL K
+    </kbd>
+  </div>
+
+  <div>
+    <ul
+      class="hextra-search-results hextra-scrollbar hx:hidden hx:border hx:border-gray-200 hx:bg-white hx:text-gray-100 hx:dark:border-neutral-800 hx:dark:bg-neutral-900 hx:absolute hx:top-full hx:z-20 hx:mt-2 hx:overflow-auto hx:overscroll-contain hx:rounded-xl hx:py-2.5 hx:shadow-xl hx:max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] hx:md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] hx:inset-x-0 hx:ltr:md:left-auto hx:rtl:md:right-auto hx:contrast-more:border hx:contrast-more:border-gray-900 hx:contrast-more:dark:border-gray-50 hx:w-screen hx:min-h-[100px] hx:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      style="transition: max-height 0.2s ease 0s;"
+    ></ul>
+  </div>
+</div>
+<button type="button" aria-label="Menu" class="hextra-hamburger-menu hx:cursor-pointer hx:-mr-2 hx:rounded-sm hx:p-2 hx:active:bg-gray-400/20 hx:md:hidden"><svg height=24 fill="none" viewBox="0 0 24 24" stroke="currentColor"><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 8H20"></path></g><g><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16H20"></path></g></svg></button>
+  </nav>
+</div>
+
+  <div class='hx:mx-auto hx:flex hextra-max-page-width'>
+    <aside class="hextra-sidebar-container hx:flex hx:flex-col hx:print:hidden hx:md:top-16 hx:md:shrink-0 hx:md:w-64 hx:md:self-start hx:max-md:[transform:translate3d(0,-100%,0)] hx:md:hidden hx:xl:block">
+  
+  <div class="hx:px-4 hx:pt-4 hx:md:hidden">
+    <div class="hextra-search-wrapper hx:relative hx:md:w-64">
+  <div class="hx:relative hx:flex hx:items-center hx:text-gray-900 hx:contrast-more:text-gray-800 hx:dark:text-gray-300 hx:contrast-more:dark:text-gray-300">
+    <input
+      placeholder="Поиск..."
+      class="hextra-search-input hx:focus:hextra-focus hx:block hx:w-full hx:appearance-none hx:rounded-lg hx:px-3 hx:py-2 hx:transition-colors hx:text-base hx:leading-tight hx:md:text-sm hx:bg-black/[.05] hx:dark:bg-gray-50/10 hx:focus:bg-white hx:dark:focus:bg-dark hx:placeholder:text-gray-500 hx:dark:placeholder:text-gray-400 hx:contrast-more:border hx:contrast-more:border-current"
+      type="search"
+      value=""
+      spellcheck="false"
+    />
+    <kbd
+      class="hx:absolute hx:my-1.5 hx:select-none hx:ltr:right-1.5 hx:rtl:left-1.5 hx:h-5 hx:rounded-sm hx:bg-white hx:px-1.5 hx:font-mono hx:text-[10px] hx:font-medium hx:text-gray-500 hx:border hx:border-gray-200 hx:dark:border-gray-100/20 hx:dark:bg-dark/50 hx:contrast-more:border-current hx:contrast-more:text-current hx:contrast-more:dark:border-current hx:items-center hx:gap-1 hx:transition-opacity hx:pointer-events-none hx:hidden hx:sm:flex"
+    >
+      CTRL K
+    </kbd>
+  </div>
+
+  <div>
+    <ul
+      class="hextra-search-results hextra-scrollbar hx:hidden hx:border hx:border-gray-200 hx:bg-white hx:text-gray-100 hx:dark:border-neutral-800 hx:dark:bg-neutral-900 hx:absolute hx:top-full hx:z-20 hx:mt-2 hx:overflow-auto hx:overscroll-contain hx:rounded-xl hx:py-2.5 hx:shadow-xl hx:max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)] hx:md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)] hx:inset-x-0 hx:ltr:md:left-auto hx:rtl:md:right-auto hx:contrast-more:border hx:contrast-more:border-gray-900 hx:contrast-more:dark:border-gray-50 hx:w-screen hx:min-h-[100px] hx:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      style="transition: max-height 0.2s ease 0s;"
+    ></ul>
+  </div>
+</div>
+
+  </div>
+  <div class="hextra-scrollbar hx:overflow-y-auto hx:overflow-x-hidden hx:p-4 hx:grow hx:md:h-[calc(100vh-var(--navbar-height)-var(--menu-height))]">
+    <ul class="hx:flex hx:flex-col hx:gap-1 hx:md:hidden">
+      
+      <li class=""><span
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+    >Поиск</span></li><li class=""><a
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+      href="/podpiska"
+      
+    >Стать участником</a></li><li class=""><a
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+      href="/posts"
+      
+    >Блог</a></li><li class=""><a
+      class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
+        hx:text-gray-500 hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:contrast-more:border hx:contrast-more:border-transparent hx:contrast-more:text-gray-900 hx:contrast-more:hover:border-gray-900 hx:dark:text-neutral-400 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:contrast-more:dark:text-gray-50 hx:contrast-more:dark:hover:border-gray-50"
+      href="/pages/baza-znaniy"
+      
+    >База знаний</a></li>
+    </ul>
+
+    <div class="hx:max-xl:hidden hx:h-0 hx:w-64 hx:shrink-0"></div></div>
+  
+  
+    <div class="hx:md:hidden  hx:sticky hx:bottom-0 hx:max-h-(--menu-height) hx:bg-white hx:dark:bg-dark hx:mx-4 hx:py-4 hx:shadow-[0_-12px_16px_#fff] hx:flex hx:items-center hx:gap-2 hx:border-gray-200 hx:dark:border-neutral-800 hx:dark:shadow-[0_-12px_16px_#111] hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:shadow-none hx:border-t" data-toggle-animation="show"><div class="hx:flex hx:grow hx:flex-col"><div class="hx:flex hx:justify-items-start hx:group" data-theme="light">
+  <button
+    title="Изменить тему"
+    data-state="closed"
+    data-location="bottom"
+    class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium hx:h-7 hx:px-2 hx:text-xs hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:font-medium hx:text-gray-600 hx:transition-colors hx:dark:text-gray-400 hx:grow"
+    type="button"
+    aria-label="Изменить тему"
+  >
+    <div class="hx:flex hx:items-center hx:gap-2 hx:capitalize"><svg height=12 class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden">Светлая</span><svg height=12 class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg><span class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden">Темная</span><svg height=12 class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"  fill="currentColor">
+  <path d="M 11.996094,2 C 6.4986225,2.0192368 2.03125,6.5024993 2.03125,12 c 0,5.497501 4.4673725,9.980763 9.964844,10 H 12 12.0039 c 5.497471,-0.01924 9.964844,-4.502499 9.964844,-10 0,-5.4975007 -4.467373,-9.9807632 -9.964844,-10 H 12 Z M 12,4 c 4.417218,0.017598 7.96875,3.5822356 7.96875,8 0,4.417764 -3.551532,7.982402 -7.96875,8 z" />
+</svg>
+<span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden">System</span></div>
+  </button>
+  <ul
+    class="hextra-theme-toggle-options hx:hidden hx:z-20 hx:max-h-64 hx:overflow-auto hx:rounded-md hx:ring-1 hx:ring-black/5 hx:bg-white hx:py-1 hx:text-sm hx:shadow-lg hx:dark:ring-white/20 hx:dark:bg-neutral-800"
+    style="position: fixed; inset: auto auto 0px 0px; margin: 0px; min-width: 100px;"
+    data-theme="light"
+  >
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="light"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        Светлая
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="dark"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        Темная
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="system"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        System
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+  </ul>
+</div></div></div></aside>
+    
+<nav class="hextra-toc hx:order-last hx:hidden hx:w-64 hx:shrink-0 hx:xl:block hx:print:hidden hx:px-4" aria-label="table of contents">
+    <div class="hextra-scrollbar hx:sticky hx:top-16 hx:overflow-y-auto hx:pr-4 hx:pt-6 hx:text-sm [hyphens:auto] hx:max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] hx:ltr:-mr-4 hx:rtl:-ml-4"><p class="hx:mb-4 hx:font-semibold hx:tracking-tight">На этой странице</p><ul>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-yutube">Видеообзор на yutube
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-%d0%b2%d0%ba-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be">Видеообзор на ВК Видео
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%87%d0%ba%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b0---%d1%8d%d1%82%d0%be-%d0%b5%d0%b3%d0%be-%d0%bb%d0%b8%d1%86%d0%be">Карточка проекта - это его лицо
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%b2%d1%81%d1%91-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d1%81-%d1%86%d0%b2%d0%b5%d1%82%d0%b0">Всё начинается с цвета
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%bd%d0%be-%d0%b4%d0%be%d1%81%d0%ba%d0%b0---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%86%d0%b2%d0%b5%d1%82%d0%b0">Но доска - это не только цвета
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%bc%d0%b8-%d1%85%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f-%d0%b3%d0%be%d1%80%d0%b4%d0%b8%d1%82%d1%8c%d1%81%d1%8f">Моменты, которыми хочется гордиться
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%bd%d0%b3-%d0%b1%d0%b5%d0%b7-%d1%81%d1%83%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d1%89%d0%b8%d0%bd%d1%8b">Рейтинг: без субъективщины
+        </a>
+      </li>
+      <li class="hx:my-2 hx:scroll-my-6 hx:scroll-py-6">
+        <a class="hx:ltr:pl-4 hx:rtl:pr-4 hx:inline-block hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-300 hx:contrast-more:text-gray-900 hx:contrast-more:underline hx:contrast-more:dark:text-gray-50 hx:w-full hx:break-words" href="#%d0%b2-%d0%b8%d1%82%d0%be%d0%b3%d0%b5">В итоге
+        </a>
+      </li></ul>
+      <div class="hx:mt-8 hx:border-t hx:bg-white hx:pt-8 hx:shadow-[0_-12px_16px_white] hx:dark:bg-dark hx:dark:shadow-[0_-12px_16px_#111] hx:sticky hx:bottom-0 hx:flex hx:flex-col hx:items-start hx:gap-2 hx:pb-8 hx:border-gray-200 hx:dark:border-neutral-800 hx:contrast-more:border-t hx:contrast-more:border-neutral-400 hx:contrast-more:shadow-none hx:contrast-more:dark:border-neutral-400">
+        <button aria-hidden="true" id="backToTop" onClick="scrollUp();" class="hx:cursor-pointer hx:transition-all hx:duration-75 hx:opacity-0 hx:text-xs hx:font-medium hx:text-gray-500 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100 hx:contrast-more:text-gray-800 hx:contrast-more:dark:text-gray-50">
+          <span>Прокрутить к началу</span>
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="hx:inline hx:ltr:ml-1 hx:rtl:mr-1 hx:h-3.5 hx:w-3.5 hx:rounded-full hx:border hx:border-gray-500 hx:hover:border-gray-900 hx:dark:border-gray-400 hx:dark:hover:border-gray-100 hx:contrast-more:border-gray-800 hx:contrast-more:dark:border-gray-50">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 15.75l7.5-7.5 7.5 7.5" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+
+    <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+      <main class="hx:w-full hx:min-w-0 hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
+        
+        <br class="hx:mt-1.5 hx:text-sm" />
+        <h1 class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100">Как работает наша канбан-доска</h1>
+        <div class="hx:mb-16"></div>
+        <div class="content">
+          <h3>Видеообзор на yutube<span class="hx:absolute hx:-mt-20" id="видеообзор-на-yutube"></span>
+    <a href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-yutube" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/WhI4ZynVRYo?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
+    </div>
+
+<h3>Видеообзор на ВК Видео<span class="hx:absolute hx:-mt-20" id="видеообзор-на-вк-видео"></span>
+    <a href="#%d0%b2%d0%b8%d0%b4%d0%b5%d0%be%d0%be%d0%b1%d0%b7%d0%be%d1%80-%d0%bd%d0%b0-%d0%b2%d0%ba-%d0%b2%d0%b8%d0%b4%d0%b5%d0%be" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><a href="https://vkvideo.ru/video-164063140_456239071"target="_blank" rel="noopener">https://vkvideo.ru/video-164063140_456239071</a></p>
+<p><strong>История вашего стартапа - в цветах, цифрах и движении</strong></p>
+<p><img src="/images/1.png" alt=""  loading="lazy" /></p>
+<p>Представь не список задач и не очередной трекер.
+А большую живую карту, где каждый проект - это отдельная история.</p>
+<p>Наша канбан-доска - именно такая.
 Она показывает путь стартапа от первой мысли до масштабирования.
-Без иллюзий. Без абстракций. По фактам.</p><h3>Карточка проекта - это его лицо<span class="hx:absolute hx:-mt-20" id=карточка-проекта---это-его-лицо></span>
-<a href=#%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%87%d0%ba%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b0---%d1%8d%d1%82%d0%be-%d0%b5%d0%b3%d0%be-%d0%bb%d0%b8%d1%86%d0%be class=subheading-anchor aria-label="Permalink for this section"></a></h3><p><img src=/images/2.png alt loading=lazy></p><p>Каждый стартап на доске - отдельная карточка.
+Без иллюзий. Без абстракций. По фактам.</p>
+<h3>Карточка проекта - это его лицо<span class="hx:absolute hx:-mt-20" id="карточка-проекта---это-его-лицо"></span>
+    <a href="#%d0%ba%d0%b0%d1%80%d1%82%d0%be%d1%87%d0%ba%d0%b0-%d0%bf%d1%80%d0%be%d0%b5%d0%ba%d1%82%d0%b0---%d1%8d%d1%82%d0%be-%d0%b5%d0%b3%d0%be-%d0%bb%d0%b8%d1%86%d0%be" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p><img src="/images/2.png" alt=""  loading="lazy" /></p>
+<p>Каждый стартап на доске - отдельная карточка.
 В заголовке сразу всё важное: название проекта, имя основателя и месяц старта.
-Это ваша визитка внутри сообщества. Видно сразу, без лишних пояснений.</p><h3>Всё начинается с цвета<span class="hx:absolute hx:-mt-20" id=всё-начинается-с-цвета></span>
-<a href=#%d0%b2%d1%81%d1%91-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d1%81-%d1%86%d0%b2%d0%b5%d1%82%d0%b0 class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Доска разделена на этапы.
+Это ваша визитка внутри сообщества. Видно сразу, без лишних пояснений.</p>
+<h3>Всё начинается с цвета<span class="hx:absolute hx:-mt-20" id="всё-начинается-с-цвета"></span>
+    <a href="#%d0%b2%d1%81%d1%91-%d0%bd%d0%b0%d1%87%d0%b8%d0%bd%d0%b0%d0%b5%d1%82%d1%81%d1%8f-%d1%81-%d1%86%d0%b2%d0%b5%d1%82%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Доска разделена на этапы.
 У каждого этапа - свой цвет.
-Цвет - это не украшение, а маркер реального состояния проекта.</p><ul><li><p>🔵 <strong>Синий - &ldquo;Идея и гипотезы&rdquo;</strong>
+Цвет - это не украшение, а маркер реального состояния проекта.</p>
+<ul>
+<li>
+<p>🔵 <strong>Синий - &ldquo;Идея и гипотезы&rdquo;</strong>
 Здесь вы формулируете проблему и проверяете, существует ли она вообще.
-Поговорили с первыми тремя потенциальными клиентами, подтвердили интерес - двигаемся дальше.</p></li><li><p>🟡 <strong>Жёлтый - &ldquo;Валидация&rdquo;</strong>
-Уже есть интерес, первые отклики, понимание, что вы делаете что-то не в пустоту.</p></li><li><p>🟢<strong>Зелёный - &ldquo;Разработка MVP&rdquo;</strong>
-Появились предзаказы или твёрдые &ldquo;да&rdquo; от 5-10 человек - значит, пора делать продукт.</p></li><li><p>🟠<strong>Оранжевый - &ldquo;Запуск&rdquo;</strong>
-Есть рабочий прототип, настроён приём платежей, всё готово к выходу в мир.</p></li><li><p>🟣<strong>Фиолетовый - &ldquo;Первые продажи&rdquo;</strong>
-Появились реальные пользователи. Даже если пока бесплатные - это уже жизнь.</p></li><li><p>🔴<strong>Красный - &ldquo;Масштабирование&rdquo;</strong>
+Поговорили с первыми тремя потенциальными клиентами, подтвердили интерес - двигаемся дальше.</p>
+</li>
+<li>
+<p>🟡 <strong>Жёлтый - &ldquo;Валидация&rdquo;</strong>
+Уже есть интерес, первые отклики, понимание, что вы делаете что-то не в пустоту.</p>
+</li>
+<li>
+<p>🟢<strong>Зелёный - &ldquo;Разработка MVP&rdquo;</strong>
+Появились предзаказы или твёрдые &ldquo;да&rdquo; от 5-10 человек - значит, пора делать продукт.</p>
+</li>
+<li>
+<p>🟠<strong>Оранжевый - &ldquo;Запуск&rdquo;</strong>
+Есть рабочий прототип, настроён приём платежей, всё готово к выходу в мир.</p>
+</li>
+<li>
+<p>🟣<strong>Фиолетовый - &ldquo;Первые продажи&rdquo;</strong>
+Появились реальные пользователи. Даже если пока бесплатные - это уже жизнь.</p>
+</li>
+<li>
+<p>🔴<strong>Красный - &ldquo;Масштабирование&rdquo;</strong>
 Первая оплата и минимум три платящих клиента.
-С этого момента проект перестаёт быть экспериментом.</p></li></ul><p>Весь этот цветной путь видно с первого взгляда.
-Без объяснений, без &ldquo;на словах&rdquo;.</p><h3>Но доска - это не только цвета<span class="hx:absolute hx:-mt-20" id=но-доска---это-не-только-цвета></span>
-<a href=#%d0%bd%d0%be-%d0%b4%d0%be%d1%81%d0%ba%d0%b0---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%86%d0%b2%d0%b5%d1%82%d0%b0 class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Каждая карточка - это ещё и дашборд с ключевыми метриками.
-Мы обновляем их минимум раз в неделю. Здесь только то, что действительно важно:</p><ul><li><strong>Дата запуска</strong> - когда всё началось</li><li><strong>Текущий этап</strong> - тот самый цвет</li><li><strong>MRR</strong> - сколько проект приносит в месяц</li><li><strong>Общая выручка</strong> - результат за всё время</li><li><strong>Платящие клиенты</strong> - главный индикатор ценности</li><li><strong>Размер аудитории</strong> - сколько людей реально пользуются продуктом</li><li><strong>Конверсия</strong> - процент тех, кто стал клиентом</li></ul><p>Никакой воды. Только цифры, которые отражают реальность.</p><h3>Моменты, которыми хочется гордиться<span class="hx:absolute hx:-mt-20" id=моменты-которыми-хочется-гордиться></span>
-<a href=#%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%bc%d0%b8-%d1%85%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f-%d0%b3%d0%be%d1%80%d0%b4%d0%b8%d1%82%d1%8c%d1%81%d1%8f class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>На пути появляются точки, которые важно зафиксировать.
-Мы отмечаем их специальными значками - как публичные вехи роста.</p><ul><li>🏆 <strong>Первые деньги</strong> - первая оплата</li><li>🚀 <strong>Быстрый старт</strong> - продажи в первую неделю</li><li>💰 <strong>$1K MRR</strong> - первая серьёзная финансовая отметка</li><li>📈 <strong>Рост</strong> - стабильное развитие три месяца подряд</li><li>🎯 <strong>Топ месяца</strong> - попадание в тройку лучших проектов</li></ul><p>Это не украшения.
-Это публичное признание прогресса, которое видят все участники.</p><h3>Рейтинг: без субъективщины<span class="hx:absolute hx:-mt-20" id=рейтинг-без-субъективщины></span>
-<a href=#%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%bd%d0%b3-%d0%b1%d0%b5%d0%b7-%d1%81%d1%83%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d1%89%d0%b8%d0%bd%d1%8b class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Все проекты попадают в общий рейтинг.
-Формула прозрачная:</p><ul><li><strong>50%</strong> - выручка</li><li><strong>30%</strong> - скорость выхода на деньги</li><li><strong>20%</strong> - прогресс по этапам</li></ul><p>Дополнительные баллы даются за:</p><ul><li>каждых 10 платящих клиентов,</li><li>стабильный рост,</li><li>попадание в топ.</li></ul><p>Рейтинг показывает не &ldquo;кто громче&rdquo;, а <strong>чья история развития сейчас самая сильная</strong>.</p><h3>В итоге<span class="hx:absolute hx:-mt-20" id=в-итоге></span>
-<a href=#%d0%b2-%d0%b8%d1%82%d0%be%d0%b3%d0%b5 class=subheading-anchor aria-label="Permalink for this section"></a></h3><p>Наша канбан-доска - это не инструмент контроля.
-Это живая летопись стартапов.</p><p>Каждый переход по цвету, каждая обновлённая цифра и каждый значок -
-новая глава в истории проекта.</p><p>Истории, которую вы пишете сами.
-А мы просто делаем её видимой.</p><p>Если хотите, чтобы ваша история появилась на этой карте -
+С этого момента проект перестаёт быть экспериментом.</p>
+</li>
+</ul>
+<p>Весь этот цветной путь видно с первого взгляда.
+Без объяснений, без &ldquo;на словах&rdquo;.</p>
+<h3>Но доска - это не только цвета<span class="hx:absolute hx:-mt-20" id="но-доска---это-не-только-цвета"></span>
+    <a href="#%d0%bd%d0%be-%d0%b4%d0%be%d1%81%d0%ba%d0%b0---%d1%8d%d1%82%d0%be-%d0%bd%d0%b5-%d1%82%d0%be%d0%bb%d1%8c%d0%ba%d0%be-%d1%86%d0%b2%d0%b5%d1%82%d0%b0" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Каждая карточка - это ещё и дашборд с ключевыми метриками.
+Мы обновляем их минимум раз в неделю. Здесь только то, что действительно важно:</p>
+<ul>
+<li><strong>Дата запуска</strong> - когда всё началось</li>
+<li><strong>Текущий этап</strong> - тот самый цвет</li>
+<li><strong>MRR</strong> - сколько проект приносит в месяц</li>
+<li><strong>Общая выручка</strong> - результат за всё время</li>
+<li><strong>Платящие клиенты</strong> - главный индикатор ценности</li>
+<li><strong>Размер аудитории</strong> - сколько людей реально пользуются продуктом</li>
+<li><strong>Конверсия</strong> - процент тех, кто стал клиентом</li>
+</ul>
+<p>Никакой воды. Только цифры, которые отражают реальность.</p>
+<h3>Моменты, которыми хочется гордиться<span class="hx:absolute hx:-mt-20" id="моменты-которыми-хочется-гордиться"></span>
+    <a href="#%d0%bc%d0%be%d0%bc%d0%b5%d0%bd%d1%82%d1%8b-%d0%ba%d0%be%d1%82%d0%be%d1%80%d1%8b%d0%bc%d0%b8-%d1%85%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f-%d0%b3%d0%be%d1%80%d0%b4%d0%b8%d1%82%d1%8c%d1%81%d1%8f" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>На пути появляются точки, которые важно зафиксировать.
+Мы отмечаем их специальными значками - как публичные вехи роста.</p>
+<ul>
+<li>🏆 <strong>Первые деньги</strong> - первая оплата</li>
+<li>🚀 <strong>Быстрый старт</strong> - продажи в первую неделю</li>
+<li>💰 <strong>$1K MRR</strong> - первая серьёзная финансовая отметка</li>
+<li>📈 <strong>Рост</strong> - стабильное развитие три месяца подряд</li>
+<li>🎯 <strong>Топ месяца</strong> - попадание в тройку лучших проектов</li>
+</ul>
+<p>Это не украшения.
+Это публичное признание прогресса, которое видят все участники.</p>
+<h3>Рейтинг: без субъективщины<span class="hx:absolute hx:-mt-20" id="рейтинг-без-субъективщины"></span>
+    <a href="#%d1%80%d0%b5%d0%b9%d1%82%d0%b8%d0%bd%d0%b3-%d0%b1%d0%b5%d0%b7-%d1%81%d1%83%d0%b1%d1%8a%d0%b5%d0%ba%d1%82%d0%b8%d0%b2%d1%89%d0%b8%d0%bd%d1%8b" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Все проекты попадают в общий рейтинг.
+Формула прозрачная:</p>
+<ul>
+<li><strong>50%</strong> - выручка</li>
+<li><strong>30%</strong> - скорость выхода на деньги</li>
+<li><strong>20%</strong> - прогресс по этапам</li>
+</ul>
+<p>Дополнительные баллы даются за:</p>
+<ul>
+<li>каждых 10 платящих клиентов,</li>
+<li>стабильный рост,</li>
+<li>попадание в топ.</li>
+</ul>
+<p>Рейтинг показывает не &ldquo;кто громче&rdquo;, а <strong>чья история развития сейчас самая сильная</strong>.</p>
+<h3>В итоге<span class="hx:absolute hx:-mt-20" id="в-итоге"></span>
+    <a href="#%d0%b2-%d0%b8%d1%82%d0%be%d0%b3%d0%b5" class="subheading-anchor" aria-label="Permalink for this section"></a></h3><p>Наша канбан-доска - это не инструмент контроля.
+Это живая летопись стартапов.</p>
+<p>Каждый переход по цвету, каждая обновлённая цифра и каждый значок -
+новая глава в истории проекта.</p>
+<p>Истории, которую вы пишете сами.
+А мы просто делаем её видимой.</p>
+<p>Если хотите, чтобы ваша история появилась на этой карте -
 присоединяйтесь к челленджу <strong>&ldquo;12 микростартапов за 12 месяцев&rdquo;</strong>.
-Заполните анкету участника - и ваша карточка займёт своё место на доске.</p><p>Давайте писать эту историю вместе.
-<a href=https://ch12ms.online/podpiska/ target=_blank rel=noopener>https://ch12ms.online/podpiska/</a></p></div><div class=hx:mt-16></div></main></article></div><footer class="hextra-footer hx:bg-gray-100 hx:pb-[env(safe-area-inset-bottom)] hx:dark:bg-neutral-900 hx:print:bg-transparent"><div class="hx:mx-auto hx:flex hx:gap-2 hx:py-2 hx:px-4 hextra-max-footer-width"><div class="hx:flex hx:justify-items-start hx:group" data-theme=light><button title="Изменить тему" data-state=closed data-location=bottom class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium hx:h-7 hx:px-2 hx:text-xs hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:font-medium hx:text-gray-600 hx:transition-colors hx:dark:text-gray-400 hx:grow" type=button aria-label="Изменить тему"><div class="hx:flex hx:items-center hx:gap-2 hx:capitalize"><svg height="12" class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364-.707-.707M6.343 6.343l-.707-.707m12.728.0-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden">Светлая</span><svg height="12" class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003.0 0012 21a9.003 9.003.0 008.354-5.646z"/></svg><span class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden">Темная</span><svg height="12" class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden" viewBox="0 0 24 24" fill="currentColor"><path d="M11.996094 2C6.4986225 2.0192368 2.03125 6.5024993 2.03125 12c0 5.497501 4.4673725 9.980763 9.964844 10H12 12.0039c5.497471-.01924 9.964844-4.502499 9.964844-10 0-5.4975007-4.467373-9.9807632-9.964844-10H12zM12 4c4.417218.017598 7.96875 3.5822356 7.96875 8 0 4.417764-3.551532 7.982402-7.96875 8z"/></svg>
-<span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden">System</span></div></button><ul class="hextra-theme-toggle-options hx:hidden hx:z-20 hx:max-h-64 hx:overflow-auto hx:rounded-md hx:ring-1 hx:ring-black/5 hx:bg-white hx:py-1 hx:text-sm hx:shadow-lg hx:dark:ring-white/20 hx:dark:bg-neutral-800" style="position:fixed;inset:auto auto 0 0;margin:0;min-width:100px" data-theme=light><li class="hx:flex hx:flex-col"><p data-item=light class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">Светлая
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li><li class="hx:flex hx:flex-col"><p data-item=dark class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">Темная
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li><li class="hx:flex hx:flex-col"><p data-item=system class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9">System
-<span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden"><svg height="1em" width="1em" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span></p></li></ul></div></div><hr class="hx:border-gray-200 hx:dark:border-neutral-800"><div class="hextra-custom-footer hextra-max-footer-width hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"><div class="hx:flex hx:flex-col hx:gap-2 hx:py-6 hx:text-sm"><a href=/privacy class="hx:text-gray-600 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100">&#1055;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072; &#1086;&#1073;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1080; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093;
-</a><a href=/oferta class="hx:text-gray-600 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100">&#1055;&#1091;&#1073;&#1083;&#1080;&#1095;&#1085;&#1072;&#1103; &#1086;&#1092;&#1077;&#1088;&#1090;&#1072;</a><div class="hx:mt-6 hx:text-sm hx:text-gray-600 hx:dark:text-gray-400">&#1055;&#1088;&#1086;&#1077;&#1082;&#1090; &#1048;&#1055; &#1040;&#1089;&#1082;&#1077;&#1088;&#1086;&#1074; &#1040;.&#1043;.<br>ai09t: enterprise ai management<br>&#1048;&#1053;&#1053;: 344222853755<br>&#1054;&#1043;&#1056;&#1053;&#1048;&#1055;: 324344300027161<br>E-mail: askerovag@yandex.ru; mail@askerych.ru<br>&#1058;&#1077;&#1083;&#1077;&#1092;&#1086;&#1085;: +79670971737<br><br><br></div></div></div></footer><script defer src=/js/main.min.939f9f01da5755b7117a6d4651192b124fc58799125404b474e0ab4030dcedfe.js integrity="sha256-k5+fAdpXVbcRem1GURkrEk/Fh5kSVAS0dOCrQDDc7f4="></script><script defer src=/js/flexsearch.433e941a8a573ebb9931fc16fc75266ab6b93f569ac2fb4f3dc66882e0416f4c.js integrity="sha256-Qz6UGopXPruZMfwW/HUmara5P1aawvtPPcZoguBBb0w=" crossorigin=anonymous></script><script defer src=/en.search.min.f193b44840cc2e87b97c0c80d6975880cc7f1211ddb89e5ac51ce34372225eab.js integrity="sha256-8ZO0SEDMLoe5fAyA1pdYgMx/EhHduJ5axRzjQ3IiXqs="></script><script>(function(){"use strict";const o=!0,i="Xenova/all-MiniLM-L6-v2",a="/embeddings.json";let t=null,e=null,n=!1;async function r(){if(t)return t;try{const e=await fetch(a);return e.ok?(t=await e.json(),t):null}catch(e){return console.warn("Failed to load embeddings:",e),null}}async function c(){if(e)return e;if(n)return new Promise(t=>{const n=setInterval(()=>{e&&(clearInterval(n),t(e))},100)});n=!0;try{window.pipeline||await new Promise((e,t)=>{const n=document.createElement("script");n.src="https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.2/dist/transformers.min.js",n.onload=e,n.onerror=t,document.head.appendChild(n)});const{pipeline:t}=window;return e=await t("feature-extraction",i,{quantized:!0,revision:"main"}),n=!1,e}catch(e){return n=!1,console.error("Failed to load model:",e),null}}function l(e,t){if(e.length!==t.length)return 0;let n=0,s=0,o=0;for(let i=0;i<e.length;i++)n+=e[i]*t[i],s+=e[i]*e[i],o+=t[i]*t[i];const i=s**.5*o**.5;return i===0?0:n/i}async function d(n,s=10){if(!t||!e)return[];try{const i=await e(n,{pooling:"mean",normalize:!0}),a=Array.from(i.data),o=[];for(const[s,e]of Object.entries(t)){const n=l(a,e.embedding);o.push({url:e.url,title:e.title,content:e.content.substring(0,200),similarity:n})}return o.sort((e,t)=>t.similarity-e.similarity),o.slice(0,s)}catch(e){return console.error("Semantic search error:",e),[]}}async function u(s){if(!o||!s||s.length<2)return;const a=Array.from(document.querySelectorAll(".hextra-search-wrapper")).filter(e=>e.clientHeight>0);if(a.length===0)return;const m=a[0],i=m.querySelector(".hextra-search-results");if(!i)return;if(!t&&(await r(),!t))return;if(!e&&!n&&(await c(),!e))return;const l=await d(s,5);if(l.length===0)return;const u=new Set;Array.from(i.querySelectorAll("a")).forEach(e=>{u.add(e.getAttribute("href"))});let h=!1;if(l.forEach(e=>{if(!u.has(e.url)&&e.similarity>.3){const o=document.createElement("li"),t=document.createElement("a");t.href=e.url,t.className="hextra-search-result-semantic";const n=document.createElement("div");n.className="hextra-search-title",n.textContent=e.title;const s=document.createElement("div");s.className="hextra-search-excerpt",s.textContent=e.content,t.appendChild(n),t.appendChild(s),o.appendChild(t),i.appendChild(o),h=!0}}),h){const e=i.querySelectorAll("li").length;i.dataset.count=e}}function s(){const e=document.querySelectorAll(".hextra-search-input");e.forEach(e=>{let t;const n=e.oninput;e.addEventListener("input",function(e){const n=e.target.value;clearTimeout(t),n&&n.length>=2&&(t=setTimeout(()=>{u(n)},800))})})}document.readyState==="loading"?document.addEventListener("DOMContentLoaded",()=>{setTimeout(s,2e3)}):setTimeout(s,2e3)})()</script></body></html>
+Заполните анкету участника - и ваша карточка займёт своё место на доске.</p>
+<p>Давайте писать эту историю вместе.
+<a href="https://ch12ms.online/podpiska/"target="_blank" rel="noopener">https://ch12ms.online/podpiska/</a></p>
+
+        </div>
+        <div class="hx:mt-16"></div>
+        
+      </main>
+    </article>
+  </div>
+
+      <footer class="hextra-footer hx:bg-gray-100 hx:pb-[env(safe-area-inset-bottom)] hx:dark:bg-neutral-900 hx:print:bg-transparent"><div class="hx:mx-auto hx:flex hx:gap-2 hx:py-2 hx:px-4 hextra-max-footer-width"><div class="hx:flex hx:justify-items-start hx:group" data-theme="light">
+  <button
+    title="Изменить тему"
+    data-state="closed"
+    data-location="bottom"
+    class="hextra-theme-toggle hx:cursor-pointer hx:rounded-md hx:text-left hx:font-medium hx:h-7 hx:px-2 hx:text-xs hx:hover:bg-gray-100 hx:hover:text-gray-900 hx:dark:hover:bg-primary-100/5 hx:dark:hover:text-gray-50 hx:font-medium hx:text-gray-600 hx:transition-colors hx:dark:text-gray-400 hx:grow"
+    type="button"
+    aria-label="Изменить тему"
+  >
+    <div class="hx:flex hx:items-center hx:gap-2 hx:capitalize"><svg height=12 class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg><span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden">Светлая</span><svg height=12 class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg><span class="hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden">Темная</span><svg height=12 class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"  fill="currentColor">
+  <path d="M 11.996094,2 C 6.4986225,2.0192368 2.03125,6.5024993 2.03125,12 c 0,5.497501 4.4673725,9.980763 9.964844,10 H 12 12.0039 c 5.497471,-0.01924 9.964844,-4.502499 9.964844,-10 0,-5.4975007 -4.467373,-9.9807632 -9.964844,-10 H 12 Z M 12,4 c 4.417218,0.017598 7.96875,3.5822356 7.96875,8 0,4.417764 -3.551532,7.982402 -7.96875,8 z" />
+</svg>
+<span class="hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden">System</span></div>
+  </button>
+  <ul
+    class="hextra-theme-toggle-options hx:hidden hx:z-20 hx:max-h-64 hx:overflow-auto hx:rounded-md hx:ring-1 hx:ring-black/5 hx:bg-white hx:py-1 hx:text-sm hx:shadow-lg hx:dark:ring-white/20 hx:dark:bg-neutral-800"
+    style="position: fixed; inset: auto auto 0px 0px; margin: 0px; min-width: 100px;"
+    data-theme="light"
+  >
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="light"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        Светлая
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=system]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="dark"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        Темная
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=light]:hidden hx:group-data-[theme=system]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+    <li class="hx:flex hx:flex-col">
+      <p
+        data-item="system"
+        class="hx:text-gray-800 hx:dark:text-gray-100 hx:hover:bg-primary-50 hx:hover:text-primary-600 hx:hover:dark:bg-primary-500/10 hx:hover:dark:text-primary-600 hx:relative hx:cursor-pointer hx:whitespace-nowrap hx:py-1.5 hx:transition-colors hx:ltr:pl-3 hx:ltr:pr-9 hx:rtl:pr-3 hx:rtl:pl-9"
+      >
+        System
+         <span class="hx:absolute hx:inset-y-0 hx:flex hx:items-center hx:ltr:right-3 hx:rtl:left-3 hx:group-data-[theme=dark]:hidden hx:group-data-[theme=light]:hidden"><svg height=1em width=1em xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7"/></svg></span>
+      </p>
+    </li>
+  </ul>
+</div></div><hr class="hx:border-gray-200 hx:dark:border-neutral-800" /><div class="hextra-custom-footer hextra-max-footer-width hx:pl-[max(env(safe-area-inset-left),1.5rem)] hx:pr-[max(env(safe-area-inset-right),1.5rem)] hx:text-gray-600 hx:dark:text-gray-400"><div class="hx:flex hx:flex-col hx:gap-2 hx:py-6 hx:text-sm">
+  <a href="/privacy" class="hx:text-gray-600 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100">
+    &#1055;&#1086;&#1083;&#1080;&#1090;&#1080;&#1082;&#1072; &#1086;&#1073;&#1088;&#1072;&#1073;&#1086;&#1090;&#1082;&#1080; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093;
+  </a>
+  <a href="/oferta" class="hx:text-gray-600 hx:hover:text-gray-900 hx:dark:text-gray-400 hx:dark:hover:text-gray-100">
+    &#1055;&#1091;&#1073;&#1083;&#1080;&#1095;&#1085;&#1072;&#1103; &#1086;&#1092;&#1077;&#1088;&#1090;&#1072;
+  </a>
+  <div class="hx:mt-6 hx:text-sm hx:text-gray-600 hx:dark:text-gray-400">
+    &#1055;&#1088;&#1086;&#1077;&#1082;&#1090; &#1048;&#1055; &#1040;&#1089;&#1082;&#1077;&#1088;&#1086;&#1074; &#1040;.&#1043;.<br/>
+    ai09t: enterprise ai management<br/>
+    &#1048;&#1053;&#1053;: 344222853755<br/>
+    &#1054;&#1043;&#1056;&#1053;&#1048;&#1055;: 324344300027161<br/>
+    E-mail: askerovag@yandex.ru; mail@askerych.ru<br/>
+    &#1058;&#1077;&#1083;&#1077;&#1092;&#1086;&#1085;: +79670971737<br/>
+    <br/>
+    <br/>
+  </div>
+</div></div></footer>
+    
+    <script defer src="/js/main.min.939f9f01da5755b7117a6d4651192b124fc58799125404b474e0ab4030dcedfe.js" integrity="sha256-k5&#43;fAdpXVbcRem1GURkrEk/Fh5kSVAS0dOCrQDDc7f4="></script>
+<script defer src="/js/flexsearch.433e941a8a573ebb9931fc16fc75266ab6b93f569ac2fb4f3dc66882e0416f4c.js" integrity="sha256-Qz6UGopXPruZMfwW/HUmara5P1aawvtPPcZoguBBb0w=" crossorigin="anonymous"></script>
+        <script defer src="/en.search.min.f193b44840cc2e87b97c0c80d6975880cc7f1211ddb89e5ac51ce34372225eab.js" integrity="sha256-8ZO0SEDMLoe5fAyA1pdYgMx/EhHduJ5axRzjQ3IiXqs="></script><script>
+(function() {
+  'use strict';
+
+  const AI_SEARCH_ENABLED =  true ;
+  const EMBEDDINGS_MODEL = "Xenova\/all-MiniLM-L6-v2";
+  const EMBEDDINGS_URL = '/embeddings.json';
+
+  let embeddingsData = null;
+  let embeddingsModel = null;
+  let modelLoading = false;
+
+  
+  async function loadEmbeddingsData() {
+    if (embeddingsData) return embeddingsData;
+    try {
+      const response = await fetch(EMBEDDINGS_URL);
+      if (!response.ok) return null;
+      embeddingsData = await response.json();
+      return embeddingsData;
+    } catch (error) {
+      console.warn('Failed to load embeddings:', error);
+      return null;
+    }
+  }
+
+  
+  async function loadEmbeddingsModel() {
+    if (embeddingsModel) return embeddingsModel;
+    if (modelLoading) {
+      return new Promise((resolve) => {
+        const check = setInterval(() => {
+          if (embeddingsModel) {
+            clearInterval(check);
+            resolve(embeddingsModel);
+          }
+        }, 100);
+      });
+    }
+
+    modelLoading = true;
+    try {
+      
+      if (!window.pipeline) {
+        await new Promise((resolve, reject) => {
+          const script = document.createElement('script');
+          script.src = 'https://cdn.jsdelivr.net/npm/@xenova/transformers@2.17.2/dist/transformers.min.js';
+          script.onload = resolve;
+          script.onerror = reject;
+          document.head.appendChild(script);
+        });
+      }
+
+      const { pipeline } = window;
+      embeddingsModel = await pipeline('feature-extraction', EMBEDDINGS_MODEL, {
+        quantized: true,
+        revision: 'main'
+      });
+      
+      modelLoading = false;
+      return embeddingsModel;
+    } catch (error) {
+      modelLoading = false;
+      console.error('Failed to load model:', error);
+      return null;
+    }
+  }
+
+  
+  function cosineSimilarity(vecA, vecB) {
+    if (vecA.length !== vecB.length) return 0;
+    let dot = 0, normA = 0, normB = 0;
+    for (let i = 0; i < vecA.length; i++) {
+      dot += vecA[i] * vecB[i];
+      normA += vecA[i] * vecA[i];
+      normB += vecB[i] * vecB[i];
+    }
+    const denom = Math.sqrt(normA) * Math.sqrt(normB);
+    return denom === 0 ? 0 : dot / denom;
+  }
+
+  
+  async function semanticSearch(query, limit = 10) {
+    if (!embeddingsData || !embeddingsModel) return [];
+    
+    try {
+      const output = await embeddingsModel(query, { pooling: 'mean', normalize: true });
+      const queryVec = Array.from(output.data);
+      
+      const similarities = [];
+      for (const [url, doc] of Object.entries(embeddingsData)) {
+        const sim = cosineSimilarity(queryVec, doc.embedding);
+        similarities.push({
+          url: doc.url,
+          title: doc.title,
+          content: doc.content.substring(0, 200),
+          similarity: sim
+        });
+      }
+      
+      similarities.sort((a, b) => b.similarity - a.similarity);
+      return similarities.slice(0, limit);
+    } catch (error) {
+      console.error('Semantic search error:', error);
+      return [];
+    }
+  }
+
+  
+  async function enhanceSearchResults(query) {
+    if (!AI_SEARCH_ENABLED || !query || query.length < 2) return;
+
+    
+    const wrappers = Array.from(document.querySelectorAll('.hextra-search-wrapper')).filter(el => el.clientHeight > 0);
+    if (wrappers.length === 0) return;
+    
+    const wrapper = wrappers[0];
+    const resultsElement = wrapper.querySelector('.hextra-search-results');
+    if (!resultsElement) return;
+
+    
+    if (!embeddingsData) {
+      await loadEmbeddingsData();
+      if (!embeddingsData) return;
+    }
+
+    
+    if (!embeddingsModel && !modelLoading) {
+      await loadEmbeddingsModel();
+      if (!embeddingsModel) return;
+    }
+
+    
+    const semanticResults = await semanticSearch(query, 5);
+    if (semanticResults.length === 0) return;
+
+    
+    const existingResults = new Set();
+    Array.from(resultsElement.querySelectorAll('a')).forEach(a => {
+      existingResults.add(a.getAttribute('href'));
+    });
+
+    
+    let added = false;
+    semanticResults.forEach(result => {
+      if (!existingResults.has(result.url) && result.similarity > 0.3) {
+        
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = result.url;
+        a.className = 'hextra-search-result-semantic';
+        
+        const titleDiv = document.createElement('div');
+        titleDiv.className = 'hextra-search-title';
+        titleDiv.textContent = result.title;
+        
+        const contentDiv = document.createElement('div');
+        contentDiv.className = 'hextra-search-excerpt';
+        contentDiv.textContent = result.content;
+        
+        a.appendChild(titleDiv);
+        a.appendChild(contentDiv);
+        li.appendChild(a);
+        
+        
+        resultsElement.appendChild(li);
+        added = true;
+      }
+    });
+
+    if (added) {
+      
+      const count = resultsElement.querySelectorAll('li').length;
+      resultsElement.dataset.count = count;
+    }
+  }
+
+  
+  function initAIEnhancement() {
+    const inputs = document.querySelectorAll('.hextra-search-input');
+    inputs.forEach(input => {
+      let enhanceTimeout;
+      const originalHandler = input.oninput;
+      
+      input.addEventListener('input', function(e) {
+        const query = e.target.value;
+        
+        
+        clearTimeout(enhanceTimeout);
+        
+        
+        if (query && query.length >= 2) {
+          enhanceTimeout = setTimeout(() => {
+            enhanceSearchResults(query);
+          }, 800); 
+        }
+      });
+    });
+  }
+
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => {
+      setTimeout(initAIEnhancement, 2000); 
+    });
+  } else {
+    setTimeout(initAIEnhancement, 2000);
+  }
+
+})();
+</script>
+  </body>
+</html>
