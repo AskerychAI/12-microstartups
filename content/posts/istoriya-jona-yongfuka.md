@@ -10,7 +10,7 @@ tags:
   - Bannerbear
   - валидация
 ---
-![Джон Йонгфук](/posts/images/Pasted image 20260107193724.png)
+![Джон Йонгфук](/posts/images/Pasted%20image%2020260107193724.png)
 
 Друзья, всем привет.
 
