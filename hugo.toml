@@ -51,10 +51,6 @@ theme = 'hextra-main'
       enable = true
       model = "Xenova/all-MiniLM-L6-v2"
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-DE8LY4CSQY"
-
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
